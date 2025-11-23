@@ -1,0 +1,12 @@
+1||positive||The weather is sunny.
+2||negative||The weather is not sunny.
+3||positive||He runs fast every morning.
+4||negative||He doesn't run fast in the evening.
+5||positive||She likes ice cream very much.
+6||negative||She doesn't like vegetables at all.
+7||positive||The system works correctly.
+8||negative||The system is not working correctly.
+9||positive||Students attend classes regularly.
+10||negative||Students never attend classes on time.
+11||positive||The dog barks loudly.
+12||negative||The dog never barks at strangers.

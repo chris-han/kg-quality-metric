@@ -199,6 +199,165 @@ public class Main {
 
         return ((double)n_nonideal/total_nouns_sum)*(term1 + term2 + term3);
     }
+    
+    /**
+     * Enhanced verb metric calculation with polarity penalty support.
+     * 
+     * @param extractedTriples List of extracted triples (3-tuple or 4-tuple)
+     * @param idealTriples List of ideal triples (3-tuple or 4-tuple)
+     * @param pos_verbs List of POS verbs for the sentence
+     * @param lambda Polarity penalty weight (default: 0.1)
+     * @return Calculated verb metric dV(G1, Gi) with polarity penalty
+     */
+    static double calculate_verb_metric_with_polarity(
+        List<List<String>> extractedTriples, 
+        List<List<String>> idealTriples, 
+        List<String> pos_verbs, 
+        double lambda
+    ) {
+        if (extractedTriples.isEmpty()) {
+            return 1.0;
+        }
+        
+        // Extract relations from extracted triples
+        List<String> relations = new ArrayList<>();
+        List<String> extractedPolarities = new ArrayList<>();
+        
+        for (List<String> tuple : extractedTriples) {
+            if (tuple.size() > 1) {
+                relations.add(tuple.get(1)); // predicate is at index 1
+                // If 4-tuple, extract polarity; otherwise default to "positive"
+                if (tuple.size() >= 4) {
+                    extractedPolarities.add(tuple.get(3));
+                } else {
+                    extractedPolarities.add("positive");
+                }
+            }
+        }
+        
+        // Extract ideal relations and polarities
+        List<String> idealRelations = new ArrayList<>();
+        List<String> idealPolarities = new ArrayList<>();
+        
+        for (List<String> tuple : idealTriples) {
+            if (tuple.size() > 1) {
+                idealRelations.add(tuple.get(1)); // predicate is at index 1
+                // If 4-tuple, extract polarity; otherwise default to "positive"
+                if (tuple.size() >= 4) {
+                    idealPolarities.add(tuple.get(3));
+                } else {
+                    idealPolarities.add("positive");
+                }
+            }
+        }
+        
+        // Filter relations that match POS verbs with similarity ≥ 0.3
+        List<String> filteredRelations = new ArrayList<>();
+        List<String> filteredPolarities = new ArrayList<>();
+        
+        for (int i = 0; i < relations.size(); i++) {
+            String relationVerb = relations.get(i);
+            for (String posVerb : pos_verbs) {
+                double similarity = jw.apply(relationVerb.toLowerCase(), posVerb.toLowerCase());
+                if (similarity >= 0.3) {
+                    filteredRelations.add(relationVerb);
+                    filteredPolarities.add(extractedPolarities.get(i));
+                    break; // keep only once per relation
+                }
+            }
+        }
+        
+        if (filteredRelations.isEmpty()) {
+            return 1.0;
+        }
+        
+        double sum = 0.0;
+        double polarityPenalty = 0.0;
+        
+        if (filteredRelations.size() > pos_verbs.size()) {
+            // Match each POS verb to best relation
+            for (String posVerb : pos_verbs) {
+                double maxSimilarity = 0.0;
+                int bestMatch = -1;
+                
+                for (int i = 0; i < filteredRelations.size(); i++) {
+                    String relationVerb = filteredRelations.get(i);
+                    double similarity = jw.apply(relationVerb.toLowerCase(), posVerb.toLowerCase());
+                    if (similarity > maxSimilarity) {
+                        maxSimilarity = similarity;
+                        bestMatch = i;
+                    }
+                }
+                
+                sum += (1.0 - maxSimilarity);
+                
+                // Add polarity penalty if there's a mismatch
+                if (bestMatch != -1) {
+                    String extractedPolarity = filteredPolarities.get(bestMatch);
+                    // Find corresponding ideal polarity (simplified matching by verb similarity)
+                    String idealPolarity = findBestMatchingIdealPolarity(posVerb, idealRelations, idealPolarities);
+                    if (!extractedPolarity.equals(idealPolarity)) {
+                        polarityPenalty += lambda;
+                    }
+                }
+            }
+        } else {
+            // Match each relation to best POS verb
+            for (int i = 0; i < filteredRelations.size(); i++) {
+                String relationVerb = filteredRelations.get(i);
+                double maxSimilarity = 0.0;
+                String bestPosVerb = "";
+                
+                for (String posVerb : pos_verbs) {
+                    double similarity = jw.apply(relationVerb.toLowerCase(), posVerb.toLowerCase());
+                    if (similarity > maxSimilarity) {
+                        maxSimilarity = similarity;
+                        bestPosVerb = posVerb;
+                    }
+                }
+                
+                sum += (1.0 - maxSimilarity);
+                
+                // Add polarity penalty if there's a mismatch
+                if (!bestPosVerb.isEmpty()) {
+                    String extractedPolarity = filteredPolarities.get(i);
+                    String idealPolarity = findBestMatchingIdealPolarity(bestPosVerb, idealRelations, idealPolarities);
+                    if (!extractedPolarity.equals(idealPolarity)) {
+                        polarityPenalty += lambda;
+                    }
+                }
+            }
+        }
+        
+        if (pos_verbs.size() > filteredRelations.size()) {
+            sum += Math.abs(pos_verbs.size() - filteredRelations.size());
+        }
+        
+        sum = sum / (2 * pos_verbs.size());
+        
+        // Add normalized polarity penalty
+        double normalizedPolarityPenalty = polarityPenalty / pos_verbs.size();
+        
+        return Math.min(1.0, sum + normalizedPolarityPenalty); // Ensure result stays within [0, 1]
+    }
+    
+    /**
+     * Helper method to find the best matching ideal polarity for a given verb.
+     */
+    static String findBestMatchingIdealPolarity(String targetVerb, List<String> idealRelations, List<String> idealPolarities) {
+        double maxSimilarity = 0.0;
+        String bestPolarity = "positive"; // default
+        
+        for (int i = 0; i < idealRelations.size(); i++) {
+            double similarity = jw.apply(targetVerb.toLowerCase(), idealRelations.get(i).toLowerCase());
+            if (similarity > maxSimilarity) {
+                maxSimilarity = similarity;
+                bestPolarity = idealPolarities.get(i);
+            }
+        }
+        
+        return bestPolarity;
+    }
 
     public static void main(String[] args) {
 
@@ -548,7 +707,6 @@ public class Main {
                             }
 
                             // Filter out relations that do not match any POS verb with sim ≥ 0.3
-                            JaroWinklerSimilarity jw = new JaroWinklerSimilarity();
                             List<String> filteredRelations = new ArrayList<>();
                             for (String relationVerb : relations) {
                                 for (String posVerb : pos_verbs) {

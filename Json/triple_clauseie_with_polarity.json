@@ -1,0 +1,10104 @@
+{
+  "1": [
+    [
+      "Abilene regional airport",
+      "serves",
+      "Abiliene in the United States With a runway length of 2194.0",
+      "positive"
+    ],
+    [
+      "Abilene regional airport",
+      "serves",
+      "Abiliene in the United States",
+      "positive"
+    ],
+    [
+      "Abiliene in the United States",
+      "is",
+      "part of Jones County",
+      "positive"
+    ],
+    [
+      "Jones County",
+      "is",
+      "Texas",
+      "positive"
+    ]
+  ],
+  "2": [
+    [
+      "Abilene Regional Airport",
+      "has",
+      "a runway length of 2194.0",
+      "positive"
+    ],
+    [
+      "Abilene Regional Airport",
+      "serves",
+      "Abilene County Texas in the United States",
+      "positive"
+    ],
+    [
+      "Abilene County Texas in the United States",
+      "is",
+      "Jones",
+      "positive"
+    ]
+  ],
+  "3": [
+    [
+      "It",
+      "has",
+      "the ICAO location identifier KABI and the runway name 17R/35L Abilene Regional Airport",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "Serving the city of Abilene in Texas 546 metres above sea level",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "Serving the city of Abilene in Texas 546 metres",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a runway length of 2194.0",
+      "positive"
+    ]
+  ],
+  "4": [
+    [
+      "Texas",
+      "is served",
+      "by Abilene Regional Airport Abilene",
+      "positive"
+    ],
+    [
+      "Texas",
+      "is served",
+      "by Abilene Regional Airport",
+      "positive"
+    ],
+    [
+      "Abilene Regional Airport",
+      "has",
+      "the ICAO location identifier of KABI",
+      "positive"
+    ],
+    [
+      "Abilene Regional Airport",
+      "has",
+      "a runway 2194 metres long with the name of 17R/35L",
+      "positive"
+    ],
+    [
+      "Abilene Regional Airport",
+      "has",
+      "a runway",
+      "positive"
+    ],
+    [
+      "It",
+      "is located",
+      "546 metres above sea level KABI",
+      "positive"
+    ]
+  ],
+  "5": [
+    [
+      "Abilene Regional Airport",
+      "serves",
+      "the city of Abilene in Texas its ICAO identifier is KABI its runway length is 2194.0 and is 546 metres above sea level the name of the runway is 17R/35L",
+      "positive"
+    ],
+    [
+      "Abilene Regional Airport",
+      "serves",
+      "the city of Abilene its ICAO identifier is KABI its runway length is 2194.0 and is 546 metres above sea level the name of the runway is 17R/35L",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "ICAO identifier",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "runway length",
+      "positive"
+    ],
+    [
+      "its runway length",
+      "is",
+      "546 metres above sea level",
+      "positive"
+    ],
+    [
+      "its runway length",
+      "is",
+      "546 metres",
+      "positive"
+    ]
+  ],
+  "6": [
+    [
+      "Barajas Airport",
+      "is operated",
+      "by ENAIRE",
+      "positive"
+    ],
+    [
+      "Barajas Airport",
+      "can be found",
+      "in Madrid",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is situated",
+      "610.0 meters above sea level Madrid",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a 4,349 kilometers long runway Madrid",
+      "positive"
+    ],
+    [
+      "a 4,349 kilometers long runway",
+      "has",
+      "name",
+      "positive"
+    ]
+  ],
+  "7": [
+    [
+      "Adolfo Suárez Madrid-Barajas Airport",
+      "lies",
+      "610 metres above sea level",
+      "positive"
+    ],
+    [
+      "Adolfo Suárez Madrid-Barajas Airport",
+      "is located",
+      "in Madrid",
+      "positive"
+    ],
+    [
+      "Adolfo Suárez Madrid-Barajas Airport",
+      "is operated",
+      "by ENAIRE",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "runway named 14L/32R",
+      "positive"
+    ],
+    [
+      "The airport 's runway named 14L/32R",
+      "has",
+      "a length of 4349.0 ENAIRE",
+      "positive"
+    ]
+  ],
+  "8": [
+    [
+      "Agra Airport",
+      "is",
+      "in Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part and Awadh The leader of Uttar Pradesh of Bundelkhand",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part and Awadh The leader of Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "ICAO location identifier",
+      "positive"
+    ],
+    [
+      "Its ICAO location identifier",
+      "is VIAG",
+      "Awadh The leader of Uttar Pradesh",
+      "positive"
+    ]
+  ],
+  "9": [
+    [
+      "Agra Airport",
+      "is located",
+      "in Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part of both Awadh ad Bundelkhand The leader of Uttar Pradesh Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "The Airport",
+      "has",
+      "ICAO location identifier",
+      "positive"
+    ],
+    [
+      "The Airport 's ICAO location identifier",
+      "is",
+      "VIAG Bundelkhand The leader of Uttar Pradesh",
+      "positive"
+    ]
+  ],
+  "10": [
+    [
+      "Ram Naik",
+      "is",
+      "the leader of Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Ram Naik",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part and Bundelkhand of Awadh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part and Bundelkhand",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "the location of Agra airport Bundelkhand",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "the location Bundelkhand",
+      "positive"
+    ],
+    [
+      "the location of Agra airport",
+      "has",
+      "the native name of Kheria Air Force Station",
+      "positive"
+    ]
+  ],
+  "11": [
+    [
+      "Agra Airport",
+      "has",
+      "the native name of Kheria Air Force Station",
+      "positive"
+    ],
+    [
+      "Agra Airport",
+      "is",
+      "in Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part of Awadh and Bundelkhand",
+      "positive"
+    ],
+    [
+      "Ram Naik",
+      "is",
+      "the leader Uttar Pradesh where",
+      "positive"
+    ],
+    [
+      "Ram Naik",
+      "is",
+      "the leader Uttar Pradesh",
+      "positive"
+    ]
+  ],
+  "12": [
+    [
+      "Agra Airport",
+      "is located",
+      "in Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part of Awadh",
+      "positive"
+    ],
+    [
+      "Uttar Pradesh",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "Bundelkhand Kheria Air Force Station",
+      "is",
+      "its native name",
+      "positive"
+    ],
+    [
+      "Ram Naik",
+      "is",
+      "Agra Airport is located in Uttar Pradesh the leader in Uttar Pradesh",
+      "positive"
+    ],
+    [
+      "Ram Naik",
+      "is",
+      "Agra Airport is located in Uttar Pradesh the leader",
+      "positive"
+    ]
+  ],
+  "13": [
+    [
+      "Globemaster III",
+      "is operated",
+      "by the United States Air Force",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "aircraft",
+      "positive"
+    ],
+    [
+      "Some of its aircraft",
+      "include",
+      "the Boeing C-17 the United States Air Force",
+      "positive"
+    ],
+    [
+      "Globemaster III",
+      "is",
+      "General Dynamics F-16 Fighting Falcon and the Lockheed AC-130",
+      "positive"
+    ],
+    [
+      "Globemaster III",
+      "is",
+      "transport aircraft",
+      "positive"
+    ],
+    [
+      "General Dynamics F-16 Fighting Falcon and the Lockheed AC-130",
+      "is",
+      "aircraft fighter",
+      "positive"
+    ],
+    [
+      "the Lockheed AC-130",
+      "can be found",
+      "on USAF aircraft carriers",
+      "positive"
+    ],
+    [
+      "Al Asad",
+      "The USAF was involved",
+      "in the Invasion of Panama",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "Al Asad was involved",
+      "in the Invasion of Panama",
+      "positive"
+    ]
+  ],
+  "14": [
+    [
+      "Al Asad",
+      "is operated",
+      "by the United States Air Force airbase",
+      "positive"
+    ],
+    [
+      "Al Asad",
+      "is operated",
+      "by the United States Air Force",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "was involved",
+      "in battles at the invasion of Panama",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "was involved",
+      "in battles",
+      "positive"
+    ],
+    [
+      "They",
+      "deploy",
+      "the Lockheed AC-130 on their aircraft carriers the Boeing C-17 Globemaster III as transport aircraft and the General Dynamics F-16 Fighting Falcon as fighter aircraft Panama",
+      "positive"
+    ],
+    [
+      "their",
+      "has",
+      "aircraft carriers",
+      "positive"
+    ]
+  ],
+  "15": [
+    [
+      "The United States Air Force",
+      "was involved",
+      "in the Invasion of Panama",
+      "positive"
+    ],
+    [
+      "The United States Air Force",
+      "are",
+      "the operators of Al Asad airbase",
+      "positive"
+    ],
+    [
+      "The United States Air Force",
+      "are",
+      "the operators",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "have",
+      "aircraft including the Lockheed AC-130 attack aircraft the Boeing C-17 Globemaster III transporter and the General Dynamics F-16 Fighting Falcon fighter plane Al Asad airbase",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "have",
+      "aircraft Al Asad airbase",
+      "positive"
+    ]
+  ],
+  "16": [
+    [
+      "The United States Air Force",
+      "has fought",
+      "in the Korean War",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "The United States Air Force has fought in the Korean War the operating organization for Al Asad airbase",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "The United States Air Force has fought in the Korean War the operating organization",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a Boeing C-17 Globemaster III transport aircraft Al Asad airbase",
+      "positive"
+    ],
+    [
+      "the Lockheed AC-130",
+      "can be found",
+      "on USAF aircraft carriers additionally",
+      "positive"
+    ],
+    [
+      "the Lockheed AC-130",
+      "can be found",
+      "on USAF aircraft carriers",
+      "positive"
+    ],
+    [
+      "McDonnell Douglas F-15 Eagle",
+      "was",
+      "a Fighter Aircraft of the United States Air Force Al Asad airbase",
+      "positive"
+    ],
+    [
+      "McDonnell Douglas F-15 Eagle",
+      "was",
+      "a Fighter Aircraft Al Asad airbase",
+      "positive"
+    ]
+  ],
+  "17": [
+    [
+      "The United States Air Force",
+      "fought",
+      "battles in the Korean war",
+      "positive"
+    ],
+    [
+      "The United States Air Force",
+      "fought",
+      "battles",
+      "positive"
+    ],
+    [
+      "The United States Air Force",
+      "is",
+      "the operating organization for Al Asad airbase",
+      "positive"
+    ],
+    [
+      "The United States Air Force",
+      "is",
+      "the operating organization",
+      "positive"
+    ],
+    [
+      "The US Airforce",
+      "has",
+      "a Boeing C-17 Globemaster III transport aircraft Al Asad airbase",
+      "positive"
+    ],
+    [
+      "an aircraft fighter",
+      "called",
+      "The United States Air Force is the operating organization for Al Asad airbase the McDonnell Douglas F-15 Eagle and an attack aircraft named The Lockheed AC-130",
+      "positive"
+    ]
+  ],
+  "18": [
+    [
+      "The transport aircraft for the United States Air Force",
+      "is",
+      "the Lockheed C-130 Hercules And Lockheed AC-130",
+      "positive"
+    ],
+    [
+      "Both the Korean War and the Invasion of Grenada",
+      "involved",
+      "the United States Air Force",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "operates",
+      "the Al Asad Airbase currently",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "operates",
+      "the Al Asad Airbase",
+      "positive"
+    ]
+  ],
+  "19": [
+    [
+      "the aircraft",
+      "be found",
+      "on USAF",
+      "positive"
+    ],
+    [
+      "carriers",
+      "are",
+      "Lockheed AC-130 the Al Asad airbase Among the aircraft found on USAF",
+      "positive"
+    ],
+    [
+      "carriers",
+      "are",
+      "Lockheed AC-130 the Al Asad airbase",
+      "positive"
+    ],
+    [
+      "Among the aircraft found on USAF Lockheed AC-130",
+      "is",
+      "an attack aircraft and the Lockheed C-130 Hercules",
+      "positive"
+    ],
+    [
+      "the Lockheed C-130 Hercules",
+      "is",
+      "a transport plane",
+      "positive"
+    ]
+  ],
+  "20": [
+    [
+      "Al Asad Airbase",
+      "is operated",
+      "by the United States Air Force",
+      "positive"
+    ],
+    [
+      "Al Asad Airbase",
+      "uses",
+      "Lockheed AC-130 attack aircraft and Lockheed C-130 Hercules transport aircraft The USAF participated in the Korean War and the Invasion of Grenada",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "participated",
+      "in the Korean War",
+      "positive"
+    ]
+  ],
+  "21": [
+    [
+      "The Invasions of Grenada and Panama",
+      "involved",
+      "the United States Air Force in",
+      "positive"
+    ],
+    [
+      "The Invasions of Grenada and Panama",
+      "involved",
+      "the United States Air Force",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "operates",
+      "the Al Asad airbase now",
+      "positive"
+    ],
+    [
+      "the United States Air Force",
+      "operates",
+      "the Al Asad airbase",
+      "positive"
+    ],
+    [
+      "The Air Force",
+      "has",
+      "several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130 the Al Asad airbase",
+      "positive"
+    ],
+    [
+      "several types of aircraft such as the Boeing C-17 Globemaster III transport aircraft and the Lockheed AC-130",
+      "can be found",
+      "on USAF aircraft carriers",
+      "positive"
+    ]
+  ],
+  "22": [
+    [
+      "Al Asad airbase",
+      "is operated",
+      "by The United States Air Force",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "is equipped",
+      "with the attack aircraft Lockheed AC-130 and Boeing C-17 Globemaster III transport aircraft The United States Air Force",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "is equipped",
+      "The United States Air Force",
+      "positive"
+    ],
+    [
+      "The USAF",
+      "has been involved",
+      "in the Invasion of Grenada and invasion of Panama",
+      "positive"
+    ]
+  ],
+  "23": [
+    [
+      "Allama Iqbal International airport",
+      "is located",
+      "in Punjab Pakistan",
+      "positive"
+    ],
+    [
+      "Allama Iqbal International airport",
+      "serves",
+      "Lahore The Pakistan Civil Aviation Authority governs the Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "Lahore The Pakistan Civil Aviation Authority",
+      "is",
+      "Pakistan",
+      "positive"
+    ],
+    [
+      "Lahore The Pakistan Civil Aviation Authority",
+      "governs",
+      "the Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "The country",
+      "is led",
+      "by Anwar Zaheer Jamali the Allama Iqbal International Airport",
+      "positive"
+    ]
+  ],
+  "24": [
+    [
+      "Allama Iqbal International Airport",
+      "serves",
+      "the city of Lahore",
+      "positive"
+    ],
+    [
+      "Allama Iqbal International Airport",
+      "is located",
+      "in Punjab Pakistan",
+      "positive"
+    ],
+    [
+      "Allama Iqbal International Airport",
+      "is operated",
+      "by the Pakistan Civil Aviation Authority",
+      "positive"
+    ],
+    [
+      "Pakistan",
+      "is led",
+      "by Anwar Zaheer Jamali the Pakistan Civil Aviation Authority",
+      "positive"
+    ]
+  ],
+  "25": [
+    [
+      "an airport called Allama Iqbal International Airport",
+      "there is",
+      "In the city of Lahore Pakistan",
+      "positive"
+    ],
+    [
+      "an airport",
+      "be called",
+      "Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "It",
+      "is operated",
+      "by the Pakistan Civil Aviation Authority Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "It",
+      "is operated",
+      "in Punjab Pakistan Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "It",
+      "is operated",
+      "Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "Punjab Pakistan",
+      "is led",
+      "by Anwar Zaheer Jamali",
+      "positive"
+    ]
+  ],
+  "26": [
+    [
+      "The Pakistan Civil Aviation Authority",
+      "is",
+      "the operating organization of the Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "The Pakistan Civil Aviation Authority",
+      "is",
+      "the operating organization",
+      "positive"
+    ],
+    [
+      "The airport",
+      "serves",
+      "the city of Lahore in Pakistan the Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "The airport",
+      "serves",
+      "the city of Lahore the Allama Iqbal International Airport",
+      "positive"
+    ],
+    [
+      "Shehbaz Sharif",
+      "is",
+      "the leader Pakistan where",
+      "positive"
+    ],
+    [
+      "Shehbaz Sharif",
+      "is",
+      "the leader Pakistan",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "also where the Allama Iqbal International Airport is found in Punjab Pakistan",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "also",
+      "positive"
+    ],
+    [
+      "the Allama Iqbal International Airport",
+      "is found",
+      "in Punjab Pakistan where",
+      "positive"
+    ],
+    [
+      "the Allama Iqbal International Airport",
+      "is found",
+      "in Punjab Pakistan",
+      "positive"
+    ]
+  ],
+  "27": [
+    [
+      "The Pakistan Civil Aviation Authority",
+      "is",
+      "the operating organization of the Allama Iqbal International Airport located in Punjab Pakistan",
+      "positive"
+    ],
+    [
+      "The Pakistan Civil Aviation Authority",
+      "is",
+      "the operating organization",
+      "positive"
+    ],
+    [
+      "the Allama Iqbal International Airport",
+      "be located",
+      "in Punjab Pakistan",
+      "positive"
+    ],
+    [
+      "Punjab Pakistan",
+      "is led",
+      "by Shehbaz Sharif",
+      "positive"
+    ],
+    [
+      "The airport",
+      "serves",
+      "Lahore in Pakistan Shehbaz Sharif",
+      "positive"
+    ]
+  ],
+  "28": [
+    [
+      "The airport",
+      "is",
+      "973.0 above sea level Andrews County Airport",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "973.0 Andrews County Airport",
+      "positive"
+    ],
+    [
+      "Andrews",
+      "has",
+      "is Andrews County Airport a runway length of 896 and a runway with the name 11/29",
+      "positive"
+    ]
+  ],
+  "29": [
+    [
+      "Andrews County Airport in Texas",
+      "has",
+      "a runway length of 896",
+      "positive"
+    ],
+    [
+      "Andrews County Airport in Texas",
+      "serves",
+      "the city of Andrews 11/29",
+      "positive"
+    ],
+    [
+      "Andrews County Airport in Texas",
+      "has the runway name",
+      "the city of Andrews 11/29",
+      "positive"
+    ],
+    [
+      "It",
+      "is located",
+      "973 metres below sea level Andrews",
+      "positive"
+    ],
+    [
+      "It",
+      "is located",
+      "973 metres Andrews",
+      "positive"
+    ]
+  ],
+  "30": [
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "It",
+      "serves",
+      "the city of Andrews Texas",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "973 metres above sea level Texas",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "973 metres Texas",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "runway length",
+      "positive"
+    ],
+    [
+      "Its runway length",
+      "is",
+      "896 long",
+      "positive"
+    ]
+  ],
+  "31": [
+    [
+      "Andrews County Airport",
+      "is",
+      "in Texas in the U.S.A. where Spanish is one of the languages spoken",
+      "positive"
+    ],
+    [
+      "Andrews County Airport",
+      "is",
+      "in Texas in the U.S.A.",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is",
+      "one where",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is",
+      "one of the languages spoken",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is",
+      "one",
+      "positive"
+    ],
+    [
+      "Houston",
+      "is",
+      "the largest city in the state",
+      "positive"
+    ],
+    [
+      "Houston",
+      "is",
+      "the largest city",
+      "positive"
+    ]
+  ],
+  "32": [
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas States",
+      "positive"
+    ],
+    [
+      "The largest city in Texas",
+      "is",
+      "Houston Texas States",
+      "positive"
+    ]
+  ],
+  "33": [
+    [
+      "Houston",
+      "is",
+      "the largest city and in Texas",
+      "positive"
+    ],
+    [
+      "Houston",
+      "is",
+      "the largest city and",
+      "positive"
+    ],
+    [
+      "Austin",
+      "is",
+      "the Capital city where",
+      "positive"
+    ],
+    [
+      "Austin",
+      "is",
+      "the Capital city",
+      "positive"
+    ],
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas where Austin is the Capital city",
+      "positive"
+    ],
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "Some texans",
+      "can speak",
+      "Spanish",
+      "positive"
+    ]
+  ],
+  "34": [
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is spoken",
+      "a state where",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is spoken",
+      "a state",
+      "positive"
+    ],
+    [
+      "the people",
+      "are called",
+      "Texans Houston is the largest city in Texas and Austin",
+      "positive"
+    ],
+    [
+      "Texans Houston",
+      "is",
+      "the largest city in Texas and Austin",
+      "positive"
+    ],
+    [
+      "Texans Houston",
+      "is",
+      "the largest city",
+      "positive"
+    ],
+    [
+      "the state",
+      "has",
+      "Andrews County Airport is located in Texas capital",
+      "positive"
+    ],
+    [
+      "a state",
+      "is",
+      "the state 's capital Andrews County Airport is located in Texas",
+      "positive"
+    ]
+  ],
+  "35": [
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas where the Spanish language is spoken",
+      "positive"
+    ],
+    [
+      "Andrews County Airport",
+      "is located",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "the Spanish language",
+      "is spoken",
+      "where",
+      "positive"
+    ],
+    [
+      "the people",
+      "are known",
+      "as Texans",
+      "positive"
+    ],
+    [
+      "The capital city",
+      "is",
+      "Austin Texans",
+      "positive"
+    ]
+  ],
+  "36": [
+    [
+      "The Angola International Airport",
+      "is",
+      "in Ícolo e Bengo",
+      "positive"
+    ],
+    [
+      "Ícolo e Bengo",
+      "is",
+      "Luanda Province",
+      "positive"
+    ],
+    [
+      "The airport",
+      "serves",
+      "The Angola International Airport is in Ícolo e Bengo Luanda",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "159 metres The Angola International Airport is in Ícolo e Bengo above sea level",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "159 metres The Angola International Airport is in Ícolo e Bengo",
+      "positive"
+    ]
+  ],
+  "37": [
+    [
+      "Angola International Airport",
+      "is located",
+      "at Ícolo e Bengo in Luanda province",
+      "positive"
+    ],
+    [
+      "Angola The Airport",
+      "is situated",
+      "Angola International Airport is located at Ícolo e Bengo in Luanda province 159 meters above sea level",
+      "positive"
+    ],
+    [
+      "Angola The Airport",
+      "is situated",
+      "Angola International Airport is located at Ícolo e Bengo in Luanda province 159 meters",
+      "positive"
+    ],
+    [
+      "Angola The Airport",
+      "serves",
+      "Angola International Airport is located at Ícolo e Bengo in Luanda province the city of Luanda",
+      "positive"
+    ]
+  ],
+  "38": [
+    [
+      "Angola International Airport",
+      "is located",
+      "in Ícolo e Bengo in the Luanda Province in Angola",
+      "positive"
+    ],
+    [
+      "Angola International Airport",
+      "is located",
+      "in Ícolo e Bengo in the Luanda Province",
+      "positive"
+    ],
+    [
+      "Angola International Airport",
+      "serves",
+      "Luanda",
+      "positive"
+    ],
+    [
+      "The airport",
+      "lies",
+      "159 metres above sea level Luanda",
+      "positive"
+    ]
+  ],
+  "39": [
+    [
+      "e Bengo",
+      "is",
+      "Luanda Province",
+      "positive"
+    ],
+    [
+      "e Bengo",
+      "is",
+      "Angola",
+      "positive"
+    ]
+  ],
+  "40": [
+    [
+      "Angola International airport",
+      "is located",
+      "in Icolo e Bengo",
+      "positive"
+    ],
+    [
+      "Icolo e Bengo",
+      "is",
+      "a part of Luanda Province located in Angola",
+      "positive"
+    ],
+    [
+      "Icolo e Bengo",
+      "is",
+      "a part",
+      "positive"
+    ],
+    [
+      "Luanda Province",
+      "be located",
+      "in Angola",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "159 meters above sea level Angola",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "159 meters Angola",
+      "positive"
+    ],
+    [
+      "its runway",
+      "has",
+      "a length of 4000.0",
+      "positive"
+    ]
+  ],
+  "41": [
+    [
+      "Angola International Airport",
+      "is located",
+      "in Icolo e Bengo",
+      "positive"
+    ],
+    [
+      "Icolo e Bengo",
+      "is located",
+      "in the Luanda Province",
+      "positive"
+    ],
+    [
+      "Angola The airport",
+      "is situated",
+      "159 meters above sea level",
+      "positive"
+    ],
+    [
+      "Angola The airport",
+      "is situated",
+      "159 meters",
+      "positive"
+    ],
+    [
+      "it",
+      "has",
+      "a runway",
+      "positive"
+    ],
+    [
+      "a runway",
+      "measures",
+      "a length of 4000.0",
+      "positive"
+    ]
+  ],
+  "42": [
+    [
+      "The Flemish department of Mobility and Public Works",
+      "is",
+      "the operating organization of Antwerp International Airport",
+      "positive"
+    ],
+    [
+      "The Flemish department of Mobility and Public Works",
+      "is",
+      "the operating organization",
+      "positive"
+    ],
+    [
+      "Antwerp International Airport",
+      "is owned",
+      "by the Flemish Region",
+      "positive"
+    ],
+    [
+      "The airport",
+      "serves",
+      "the city of Antwerp",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "The Flemish department of Mobility and Public Works is the operating organization of Antwerp International Airport 12.0 metres above sea level",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "The Flemish department of Mobility and Public Works is the operating organization of Antwerp International Airport 12.0 metres",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a runway length of 600.0",
+      "positive"
+    ]
+  ],
+  "43": [
+    [
+      "The Flemish Region",
+      "owns",
+      "Antwerp International Airport",
+      "positive"
+    ],
+    [
+      "The Flemish Region",
+      "serves",
+      "the city of Antwerp",
+      "positive"
+    ],
+    [
+      "Antwerp International Airport",
+      "is operated",
+      "by the Flemish Department of Mobility and Public Works",
+      "positive"
+    ],
+    [
+      "The runway length",
+      "is",
+      "600.0 Antwerp",
+      "positive"
+    ],
+    [
+      "the airport",
+      "is",
+      "12 metres above sea level",
+      "positive"
+    ],
+    [
+      "the airport",
+      "is",
+      "12 metres",
+      "positive"
+    ]
+  ],
+  "44": [
+    [
+      "Antwerp International Airport",
+      "is owned",
+      "by the Flemish Region",
+      "positive"
+    ],
+    [
+      "Antwerp International Airport",
+      "is located",
+      "in the city of Antwerp",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a runway length of 600.0 elevation of 12.0 metres above sea level and the Flemish department of Mobility Antwerp",
+      "positive"
+    ],
+    [
+      "Public Works",
+      "is",
+      "the operating organization",
+      "positive"
+    ]
+  ],
+  "45": [
+    [
+      "The city of Appleton",
+      "is served",
+      "by Appleton International Airport located 280 metres above sea level in Greenville",
+      "positive"
+    ],
+    [
+      "Appleton International Airport",
+      "be located",
+      "280 metres above sea level in Greenville",
+      "positive"
+    ],
+    [
+      "The runway at the airport",
+      "is",
+      "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville Wisconsin 3/21",
+      "positive"
+    ],
+    [
+      "The runway at the airport",
+      "is",
+      "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville Wisconsin 2439 in length",
+      "positive"
+    ],
+    [
+      "The runway at the airport",
+      "is",
+      "The city of Appleton is served by Appleton International Airport located 280 metres above sea level in Greenville Wisconsin 2439",
+      "positive"
+    ]
+  ],
+  "46": [
+    [
+      "Appleton International Airport",
+      "can be found",
+      "in Greenville Wisconsin",
+      "positive"
+    ],
+    [
+      "Appleton International Airport",
+      "serves",
+      "the city of Appleton",
+      "positive"
+    ],
+    [
+      "It",
+      "is situated",
+      "280 meters above sea level Appleton",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a 2,439 kilometers long runway called 3/21 Appleton",
+      "positive"
+    ]
+  ],
+  "47": [
+    [
+      "Appleton International Airport",
+      "is",
+      "Wisconsin The airport 's runway",
+      "positive"
+    ],
+    [
+      "Appleton International Airport",
+      "serves",
+      "the city of Appleton is located in Greenville",
+      "positive"
+    ],
+    [
+      "the city of Appleton",
+      "is located",
+      "in Greenville",
+      "positive"
+    ],
+    [
+      "It",
+      "is elevated",
+      "2801 meters above sea level Wisconsin The airport 's runway",
+      "positive"
+    ],
+    [
+      "Appleton International Airport",
+      "measures",
+      "a length of 2439 units",
+      "positive"
+    ]
+  ],
+  "48": [
+    [
+      "The city of Appleton",
+      "is served",
+      "by Appleton International Airport in Greenville part of Menasha",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha",
+      "is",
+      "Clayton Winnebago County",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha",
+      "is",
+      "Wisconsin",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha",
+      "is",
+      "United States",
+      "positive"
+    ]
+  ],
+  "49": [
+    [
+      "Appleton Wisconsin",
+      "is served",
+      "by Appleton International Airport",
+      "positive"
+    ],
+    [
+      "Appleton International Airport",
+      "is located",
+      "in Greenville part of Menasha town",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha town",
+      "is",
+      "Clayton Winnebago County",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha town",
+      "is",
+      "Wisconsin",
+      "positive"
+    ],
+    [
+      "Greenville part of Menasha town",
+      "is",
+      "USA",
+      "positive"
+    ]
+  ],
+  "50": [
+    [
+      "Ardmore Airport in New Zealand",
+      "is operated",
+      "by the Civil Aviation Authority of New Zealand",
+      "positive"
+    ],
+    [
+      "Ardmore Airport in New Zealand",
+      "is",
+      "34 metres",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a runway named 03R/21L 34 metres",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "third runway",
+      "positive"
+    ],
+    [
+      "its third runway",
+      "has",
+      "a poaceae surface",
+      "positive"
+    ]
+  ],
+  "51": [
+    [
+      "Ardmore Airport",
+      "is",
+      "New Zealand",
+      "positive"
+    ],
+    [
+      "Ardmore Airport",
+      "is operated",
+      "by the Civil Aviation Authority of New Zealand",
+      "positive"
+    ],
+    [
+      "Its 3rd runway",
+      "is made",
+      "of Poaceae New Zealand",
+      "positive"
+    ],
+    [
+      "Its 3rd runway",
+      "is made",
+      "New Zealand",
+      "positive"
+    ],
+    [
+      "the airport",
+      "is",
+      "34 m above sea level",
+      "positive"
+    ]
+  ],
+  "52": [
+    [
+      "The Civil Aviation Authority of New Zealand",
+      "is",
+      "the operating organization for Ardmore Airport",
+      "positive"
+    ],
+    [
+      "The Civil Aviation Authority of New Zealand",
+      "is",
+      "the operating organization",
+      "positive"
+    ],
+    [
+      "The Civil Aviation Authority of New Zealand",
+      "is situated",
+      "34 meters above sea level The airport 's 3rd runway is surfaced with Poaceae and has a 1,411 meter long runway called 03R/21L",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "3rd runway",
+      "positive"
+    ],
+    [
+      "The airport 's 3rd runway",
+      "is surfaced",
+      "with Poaceae",
+      "positive"
+    ],
+    [
+      "The airport 's 3rd runway",
+      "has",
+      "a 1,411 meter long runway called 03R/21L",
+      "positive"
+    ]
+  ],
+  "53": [
+    [
+      "Turkmenistan Airlines",
+      "operates",
+      "Ashgabat International Airport in Ashgabat is the runway name",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "211 metres above sea level has the runway length of 2989.0 and 12R/30L Ashgabat",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "211 metres Ashgabat",
+      "positive"
+    ],
+    [
+      "Ashgabat International Airport in Ashgabat",
+      "is",
+      "the runway name",
+      "positive"
+    ]
+  ],
+  "54": [
+    [
+      "Ashgabat International Airport",
+      "is operated",
+      "by Turkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "Ashgabat International Airport",
+      "is",
+      "211m a.s.l.",
+      "positive"
+    ],
+    [
+      "The runway 12R/30L",
+      "is",
+      "2989m long Turkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "The runway 12R/30L",
+      "is",
+      "2989m Turkmenistan Airlines",
+      "positive"
+    ]
+  ],
+  "55": [
+    [
+      "Ashgabat International Airport",
+      "is located",
+      "in Ashgabat",
+      "positive"
+    ],
+    [
+      "Ashgabat International Airport",
+      "is operated",
+      "byTurkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "211 metres above sea level byTurkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "211 metres byTurkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a runway length of 2989.0 byTurkmenistan Airlines",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a runway named 12R/30L",
+      "positive"
+    ]
+  ],
+  "56": [
+    [
+      "Atlantic City International Airport",
+      "has",
+      "a runway length of 1,873",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "has",
+      "the runway name of 4/22",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "is known",
+      "by the ICAO location identifier KACY",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "is operated",
+      "by the Port Authority of New York and New Jersey",
+      "positive"
+    ],
+    [
+      "It",
+      "is situated",
+      "23 metres above sea level New Jersey",
+      "positive"
+    ]
+  ],
+  "57": [
+    [
+      "Runway 4/22 at Atlantic City International Airport",
+      "has",
+      "an elevation of 23m above sea level",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "length",
+      "positive"
+    ],
+    [
+      "It",
+      "is operated",
+      "by Port Authority of New York and New Jersey 1873",
+      "positive"
+    ],
+    [
+      "It",
+      "is operated",
+      "under the location Identifier of KACY 1873",
+      "positive"
+    ]
+  ],
+  "58": [
+    [
+      "the operating organization of Atlantic City International airport",
+      "lies",
+      "23.0 meters above sea level",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "ICAO Location Identifier",
+      "positive"
+    ],
+    [
+      "The airport 's ICAO Location Identifier",
+      "is",
+      "The Port Authority of New York and New Jersey is the operating organization of Atlantic City International airport KACY",
+      "positive"
+    ],
+    [
+      "The 4/22",
+      "is",
+      "the name of the runway in Atlantic City International Airport The Port Authority of New York and New Jersey is the operating organization of Atlantic City International airport KACY",
+      "positive"
+    ],
+    [
+      "The 4/22",
+      "is",
+      "the name The Port Authority of New York and New Jersey is the operating organization of Atlantic City International airport KACY",
+      "positive"
+    ]
+  ],
+  "59": [
+    [
+      "Antwerp International Airport",
+      "serves",
+      "the city of Antwerp",
+      "positive"
+    ],
+    [
+      "the city of Antwerp",
+      "is",
+      "Belgium",
+      "positive"
+    ],
+    [
+      "Two of the leaders of which",
+      "are",
+      "Charles Michel and Philippe of Belgium Belgium",
+      "positive"
+    ],
+    [
+      "Two of the leaders of which",
+      "are",
+      "Charles Michel and Philippe Belgium",
+      "positive"
+    ],
+    [
+      "one of the languages",
+      "is",
+      "German Belgium In Belgium",
+      "positive"
+    ],
+    [
+      "one of the languages",
+      "is",
+      "German Belgium",
+      "positive"
+    ]
+  ],
+  "60": [
+    [
+      "Antwerp International Airport",
+      "serves",
+      "Antwerp in Belgium Philippe of Belgium",
+      "positive"
+    ],
+    [
+      "Charles Michel",
+      "are",
+      "leaders of Belgium",
+      "positive"
+    ],
+    [
+      "Charles Michel",
+      "are",
+      "leaders",
+      "positive"
+    ],
+    [
+      "German",
+      "is",
+      "the language Belgium where",
+      "positive"
+    ],
+    [
+      "German",
+      "is",
+      "the language spoken Belgium",
+      "positive"
+    ],
+    [
+      "German",
+      "is",
+      "the language Belgium",
+      "positive"
+    ]
+  ],
+  "61": [
+    [
+      "Atlantic City International Airport",
+      "is",
+      "23 metres above sea level",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "is located",
+      "in Egg Harbor Township",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "Atlantic County",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "United States",
+      "positive"
+    ]
+  ],
+  "62": [
+    [
+      "Atlantic City International Airport",
+      "is located",
+      "at 23 metres above sea level in Egg Harbor Township",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "is located",
+      "at 23 metres above sea level",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "Atlantic County",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "New Jersey",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "United States",
+      "positive"
+    ]
+  ],
+  "63": [
+    [
+      "Atlantic City International Airport",
+      "lies",
+      "23 metres above sea level",
+      "positive"
+    ],
+    [
+      "Atlantic City International Airport",
+      "is located",
+      "in Egg Harbor Township",
+      "positive"
+    ],
+    [
+      "Egg Harbor Township",
+      "is",
+      "New Jersey States",
+      "positive"
+    ],
+    [
+      "New Jersey States",
+      "is",
+      "United",
+      "positive"
+    ],
+    [
+      "The Egg Harbor Township",
+      "is",
+      "a part of Atlantic County New Jersey States",
+      "positive"
+    ],
+    [
+      "The Egg Harbor Township",
+      "is",
+      "a part New Jersey States",
+      "positive"
+    ]
+  ],
+  "64": [
+    [
+      "The runway length at Adolfo Suarez Madrid-Barajas airport",
+      "be located",
+      "in Madrid",
+      "positive"
+    ],
+    [
+      "The runway length at Adolfo Suarez Madrid-Barajas airport located in Madrid",
+      "is",
+      "part of the community of Madrid in Spain",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "610 metres above sea level 3500.0",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "610 metres 3500.0",
+      "positive"
+    ]
+  ],
+  "65": [
+    [
+      "Barajas Airport",
+      "is found",
+      "in Madrid",
+      "positive"
+    ],
+    [
+      "Spain",
+      "is",
+      "Madrid",
+      "positive"
+    ],
+    [
+      "Adolfo Suárez Madrid Barajas Airport is found in Madrid Spain",
+      "is",
+      "part of the community of Madrid",
+      "positive"
+    ],
+    [
+      "Adolfo Suárez Madrid Barajas Airport is found in Madrid Spain",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a runway length of 3500 Madrid",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "610 metres above sea level Madrid",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is",
+      "610 metres Madrid",
+      "positive"
+    ]
+  ],
+  "66": [
+    [
+      "Barajas Airport",
+      "is located",
+      "in Madrid",
+      "positive"
+    ],
+    [
+      "The airport",
+      "has",
+      "a runway length of 3,500 Spain",
+      "positive"
+    ],
+    [
+      "The airport",
+      "is located",
+      "610 metres above sea level Spain",
+      "positive"
+    ]
+  ],
+  "67": [
+    [
+      "Aaron Bertram",
+      "is",
+      "a ska punk musician",
+      "positive"
+    ],
+    [
+      "Aaron Bertram is a ska punk musician",
+      "is",
+      "a genre",
+      "positive"
+    ],
+    [
+      "a genre",
+      "originated",
+      "from punk rock",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Bertram is a ska punk musician an artist with Kids Imagine Nation",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Bertram is a ska punk musician an artist",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "for Suburban Legends Band also",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "for Suburban Legends Band",
+      "positive"
+    ],
+    [
+      "Brian Robertson",
+      "plays",
+      "the trombone for Suburban Legends Suburban Legends Band",
+      "positive"
+    ]
+  ],
+  "68": [
+    [
+      "Aaron Bertram",
+      "plays",
+      "for the Kids Imagine Nation and the Suburban Legends bands where he performs ska punk music is a band member of Suburban Legends",
+      "positive"
+    ],
+    [
+      "Aaron Bertram",
+      "plays",
+      "for the Kids Imagine Nation and the Suburban Legends bands",
+      "positive"
+    ],
+    [
+      "he",
+      "performs",
+      "ska punk music is a band member of Suburban Legends where",
+      "positive"
+    ],
+    [
+      "he",
+      "performs",
+      "ska punk music is a band member of Suburban Legends",
+      "positive"
+    ],
+    [
+      "ska punk music",
+      "is",
+      "a form of punk rock Brian Robertson a trombonist",
+      "positive"
+    ],
+    [
+      "ska punk music",
+      "is",
+      "a band member of Suburban Legends",
+      "positive"
+    ],
+    [
+      "ska punk music",
+      "is",
+      "a band member",
+      "positive"
+    ]
+  ],
+  "69": [
+    [
+      "Aaron Bertram",
+      "plays",
+      "for the Kids Imagine Nation and for the Suburban Legends where Brian Robertson is a trombonist",
+      "positive"
+    ],
+    [
+      "Brian Robertson",
+      "is",
+      "a trombonist where",
+      "positive"
+    ],
+    [
+      "Brian Robertson",
+      "is",
+      "a trombonist",
+      "positive"
+    ],
+    [
+      "Aaron Bertram",
+      "has",
+      "musical genre",
+      "positive"
+    ],
+    [
+      "Aaron Bertram 's musical genre",
+      "is",
+      "Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends where Brian Robertson is a trombonist ska",
+      "positive"
+    ],
+    [
+      "Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends where Brian Robertson is a trombonist ska",
+      "has",
+      "its origins in punk rock",
+      "positive"
+    ],
+    [
+      "Aaron Bertram plays for the Kids Imagine Nation and for the Suburban Legends where Brian Robertson is a trombonist ska",
+      "has",
+      "its origins",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "origins",
+      "positive"
+    ]
+  ],
+  "70": [
+    [
+      "American Aaron Deer",
+      "is",
+      "an Indie rock musician from Indiana",
+      "positive"
+    ],
+    [
+      "American Aaron Deer",
+      "is",
+      "an Indie rock musician",
+      "positive"
+    ],
+    [
+      "He",
+      "has",
+      "a background as a solo singer Indiana",
+      "positive"
+    ],
+    [
+      "He",
+      "was",
+      "part of the band Wee Giant Indiana",
+      "positive"
+    ],
+    [
+      "He",
+      "was",
+      "part Indiana",
+      "positive"
+    ]
+  ],
+  "71": [
+    [
+      "Aaron Deer",
+      "comes",
+      "from Indiana having been born in the United States",
+      "positive"
+    ],
+    [
+      "Aaron Deer",
+      "comes",
+      "having been born in the United States",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Deer comes from Indiana having been born in the United States a solo singer / performer of the musical genre indie rock",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Deer comes from Indiana having been born in the United States a solo singer / performer",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Deer comes from Indiana having been born in the United States an artist for the Wee Giant band",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "Aaron Deer comes from Indiana having been born in the United States an artist",
+      "positive"
+    ]
+  ],
+  "72": [
+    [
+      "Aaron Deer",
+      "is",
+      "an Indie rock soloist",
+      "positive"
+    ],
+    [
+      "Aaron Deer is an Indie rock soloist",
+      "is",
+      "formerly a member of Wee Giant",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "in Indiana USA Wee Giant",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "Wee Giant",
+      "positive"
+    ]
+  ],
+  "73": [
+    [
+      "Aaron Turner",
+      "is",
+      "an electric guitar player for the black metal genre",
+      "positive"
+    ],
+    [
+      "Aaron Turner",
+      "is",
+      "an electric guitar player",
+      "positive"
+    ],
+    [
+      "the black metal genre",
+      "has performed",
+      "for House of Low Culture and Mamiffer",
+      "positive"
+    ],
+    [
+      "Death metal",
+      "is",
+      "Aaron Turner is an electric guitar player for the black metal genre a musical fusion of black metal",
+      "positive"
+    ],
+    [
+      "Death metal",
+      "is",
+      "Aaron Turner is an electric guitar player for the black metal genre a musical fusion",
+      "positive"
+    ]
+  ],
+  "74": [
+    [
+      "Aaron Turner",
+      "is",
+      "a black metal musician",
+      "positive"
+    ],
+    [
+      "a black metal musician and death metal is a musical fusion of black metal",
+      "plays",
+      "electric guitar and who performs with Mamiffer and has performed for the House of Low Culture",
+      "positive"
+    ],
+    [
+      "death metal",
+      "is",
+      "a musical fusion of black metal",
+      "positive"
+    ],
+    [
+      "death metal",
+      "is",
+      "a musical fusion",
+      "positive"
+    ]
+  ],
+  "75": [
+    [
+      "Black metal electric guitar player Aaron Turner",
+      "performs",
+      "for Mamiffer and House of Low Culture Death metal is a fusion of black metal",
+      "positive"
+    ],
+    [
+      "Mamiffer and House of Low Culture Death metal",
+      "is",
+      "a fusion of black metal",
+      "positive"
+    ],
+    [
+      "Mamiffer and House of Low Culture Death metal",
+      "is",
+      "a fusion",
+      "positive"
+    ]
+  ],
+  "76": [
+    [
+      "Black metal musician Aaron Turner",
+      "plays",
+      "the electric guitar",
+      "positive"
+    ],
+    [
+      "Black metal musician Aaron Turner",
+      "has been",
+      "part of the bands",
+      "positive"
+    ],
+    [
+      "Black metal musician Aaron Turner",
+      "has been",
+      "part",
+      "positive"
+    ],
+    [
+      "Twilight and Greymachine Black metal",
+      "has",
+      "a musical fusion called Death metal the bands",
+      "positive"
+    ],
+    [
+      "a musical fusion",
+      "be called",
+      "Death metal",
+      "positive"
+    ]
+  ],
+  "77": [
+    [
+      "Aaron Turner",
+      "plays",
+      "electric guitar black metal",
+      "positive"
+    ],
+    [
+      "death metal",
+      "is",
+      "a musical fusion of black metal",
+      "positive"
+    ],
+    [
+      "death metal",
+      "is",
+      "a musical fusion",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "with Twilight",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with Greymachine",
+      "positive"
+    ]
+  ],
+  "78": [
+    [
+      "Aaron Turner",
+      "is associated",
+      "with the bands Twilight and Greymachine Death metal Black metal music and electric guitarist",
+      "positive"
+    ],
+    [
+      "Aaron Turner",
+      "is associated",
+      "Black metal music and electric guitarist",
+      "positive"
+    ],
+    [
+      "Black metal music and electric guitarist",
+      "is",
+      "a fusion of black metal",
+      "positive"
+    ],
+    [
+      "Black metal music and electric guitarist",
+      "is",
+      "a fusion",
+      "positive"
+    ]
+  ],
+  "79": [
+    [
+      "Aaron Turner",
+      "was born",
+      "in Massachusetts",
+      "positive"
+    ],
+    [
+      "Aaron Turner",
+      "was started",
+      "performing in 1995",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "with the band Twilight formerly",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "with the band Twilight",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "now in the Lotus Eaters",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "now",
+      "positive"
+    ]
+  ],
+  "80": [
+    [
+      "Aaron Turner",
+      "is",
+      "from Massachusetts",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "a musician Massachusetts",
+      "positive"
+    ],
+    [
+      "a musician",
+      "loves",
+      "Sludge metal",
+      "positive"
+    ],
+    [
+      "a musician",
+      "played",
+      "with the band Twilight as well as the Lotus Eaters Band in 1995",
+      "positive"
+    ],
+    [
+      "a musician",
+      "played",
+      "with the band Twilight as well as the Lotus Eaters Band",
+      "positive"
+    ]
+  ],
+  "81": [
+    [
+      "Massachusetts born Sludge metal musician",
+      "is",
+      "Aaron Turner",
+      "positive"
+    ],
+    [
+      "Massachusetts born Sludge metal musician",
+      "began",
+      "performing in 1995",
+      "positive"
+    ],
+    [
+      "Massachusetts born Sludge metal musician",
+      "has been",
+      "with the Lotus Eaters band",
+      "positive"
+    ],
+    [
+      "He",
+      "has played",
+      "with Twilight 1995",
+      "positive"
+    ]
+  ],
+  "82": [
+    [
+      "The musician Abradab",
+      "originates",
+      "from Katowice Poland",
+      "positive"
+    ],
+    [
+      "he",
+      "started",
+      "performing in 1994",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "with the band Kaliber 44",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with the rapper Magik",
+      "positive"
+    ]
+  ],
+  "83": [
+    [
+      "He",
+      "played",
+      "with Kaliber 44",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with the rapper Magik",
+      "positive"
+    ]
+  ],
+  "84": [
+    [
+      "Poland born Abradab",
+      "began",
+      "performing in 1994 Katowice",
+      "positive"
+    ],
+    [
+      "Poland born Abradab",
+      "began",
+      "performing in 1994",
+      "positive"
+    ],
+    [
+      "Poland born Abradab",
+      "is associated",
+      "with Magik and Kaliber 44 Katowice",
+      "positive"
+    ],
+    [
+      "Poland born Abradab",
+      "is associated",
+      "with Magik and Kaliber 44",
+      "positive"
+    ]
+  ],
+  "85": [
+    [
+      "Ace Wilder",
+      "has",
+      "a musical background as a solo singer was born on July 23rd 1982 in Sweden",
+      "positive"
+    ],
+    [
+      "a solo singer",
+      "was born",
+      "on July 23rd 1982 in Sweden",
+      "positive"
+    ],
+    [
+      "a solo singer",
+      "was born",
+      "on July 23rd 1982",
+      "positive"
+    ]
+  ],
+  "86": [
+    [
+      "Solo singer Ace Wilder",
+      "was born",
+      "on July 23 1982 in the country of Sweden",
+      "positive"
+    ],
+    [
+      "Solo singer Ace Wilder",
+      "was born",
+      "on July 23 1982",
+      "positive"
+    ]
+  ],
+  "87": [
+    [
+      "Ace Wilder",
+      "has",
+      "occupation",
+      "positive"
+    ],
+    [
+      "Ace Wilder 's occupation",
+      "is",
+      "a solo singer",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "in Sweden on 23 July 1982",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "in Sweden on 23",
+      "positive"
+    ]
+  ],
+  "88": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion Paraguay",
+      "positive"
+    ],
+    [
+      "he",
+      "is",
+      "ethnic",
+      "positive"
+    ],
+    [
+      "mestizo Spanish",
+      "is",
+      "the official language of Paraguay ethnic",
+      "positive"
+    ],
+    [
+      "mestizo Spanish",
+      "is",
+      "the official language ethnic",
+      "positive"
+    ],
+    [
+      "Juan Afara",
+      "is",
+      "the leader of the country",
+      "positive"
+    ],
+    [
+      "Juan Afara",
+      "is",
+      "the leader",
+      "positive"
+    ]
+  ],
+  "89": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion Paraguay where the ethnic group are called Mestizo and uses the Spanish language",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion Paraguay",
+      "positive"
+    ],
+    [
+      "the ethnic group",
+      "are called",
+      "Mestizo where",
+      "positive"
+    ],
+    [
+      "the ethnic group",
+      "are called",
+      "Mestizo",
+      "positive"
+    ],
+    [
+      "the ethnic group",
+      "uses",
+      "the Spanish language where",
+      "positive"
+    ],
+    [
+      "the ethnic group",
+      "uses",
+      "the Spanish language",
+      "positive"
+    ],
+    [
+      "The country",
+      "has",
+      "leader",
+      "positive"
+    ],
+    [
+      "The country 's leader",
+      "is",
+      "Juan Afara Mestizo",
+      "positive"
+    ]
+  ],
+  "90": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Spanish speaking",
+      "positive"
+    ],
+    [
+      "Spanish speaking",
+      "is",
+      "Asuncion",
+      "positive"
+    ]
+  ],
+  "91": [
+    [
+      "rhythm and blues",
+      "originated",
+      "from the blues Rhythm",
+      "positive"
+    ],
+    [
+      "blues",
+      "is",
+      "the musical genre of Ahmet Ertegun",
+      "positive"
+    ],
+    [
+      "blues",
+      "is",
+      "the musical genre",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun",
+      "died",
+      "in the United States",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun",
+      "died",
+      "where the African Americans are an ethnic group",
+      "positive"
+    ],
+    [
+      "the African Americans",
+      "are",
+      "an ethnic group where",
+      "positive"
+    ],
+    [
+      "the African Americans",
+      "are",
+      "an ethnic group",
+      "positive"
+    ]
+  ],
+  "92": [
+    [
+      "Ahmet Ertegun",
+      "be Born",
+      "in 1923",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun",
+      "is",
+      "from Washington D.C. Born in 1923",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun",
+      "is",
+      "from Washington D.C. in the United States Ertegun has a background as a non performing personnel and his musical genre is Rhythm and Blues",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun",
+      "is",
+      "from Washington D.C.",
+      "positive"
+    ],
+    [
+      "the United States Ertegun",
+      "has",
+      "a background as a non performing personnel",
+      "positive"
+    ],
+    [
+      "a non",
+      "be performing",
+      "personnel",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "musical genre",
+      "positive"
+    ],
+    [
+      "his musical genre",
+      "is",
+      "Rhythm and Blues",
+      "positive"
+    ]
+  ],
+  "93": [
+    [
+      "rhythm and blues although his background is non performing",
+      "be Born",
+      "in Washington DC U.S.A.",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun genre",
+      "is",
+      "rhythm and blues Born in Washington DC U.S.A.",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun genre",
+      "is",
+      "rhythm and blues although his background is non performing",
+      "positive"
+    ],
+    [
+      "Ahmet Ertegun genre",
+      "is",
+      "rhythm and blues",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "background",
+      "positive"
+    ],
+    [
+      "his background",
+      "is performing",
+      "non",
+      "positive"
+    ]
+  ],
+  "94": [
+    [
+      "Alan Frew",
+      "has",
+      "musical",
+      "positive"
+    ],
+    [
+      "Alan Frew musical",
+      "is",
+      "Rock music genre",
+      "positive"
+    ],
+    [
+      "Alan Frew musical",
+      "is",
+      "Rock music",
+      "positive"
+    ],
+    [
+      "Alan Frew",
+      "has",
+      "a background as a solo singer Rock music originated from country music",
+      "positive"
+    ],
+    [
+      "Alan Frew",
+      "has",
+      "a background",
+      "positive"
+    ],
+    [
+      "Alan Frew",
+      "has",
+      "its stylistic origins in the Blues",
+      "positive"
+    ],
+    [
+      "a solo singer Rock music",
+      "originated",
+      "from country music",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "stylistic origins in the Blues",
+      "positive"
+    ],
+    [
+      "A musical fusion of rock music",
+      "is",
+      "bhangra music its stylistic origins in the Blues",
+      "positive"
+    ]
+  ],
+  "95": [
+    [
+      "Singer Alan Frew",
+      "is",
+      "a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "originates",
+      "from the blues and country music a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "originates",
+      "while lending itself to Bhangra fusion a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "originates",
+      "a rock",
+      "positive"
+    ]
+  ],
+  "96": [
+    [
+      "Singer Alan Frew",
+      "is",
+      "a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "has",
+      "its origins in country and blues a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "has",
+      "its origins while influencing bhangra a rock",
+      "positive"
+    ],
+    [
+      "musician Rock",
+      "has",
+      "its origins a rock",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "origins",
+      "positive"
+    ]
+  ],
+  "97": [
+    [
+      "Alan Frew",
+      "is",
+      "from Newmarket Canada",
+      "positive"
+    ],
+    [
+      "Newmarket Canada",
+      "is",
+      "Ontario",
+      "positive"
+    ],
+    [
+      "Alan Frew",
+      "was born",
+      "in Coatbridge",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "a musician and solo singer Coatbridge",
+      "positive"
+    ]
+  ],
+  "98": [
+    [
+      "Alan Frew",
+      "is",
+      "from Coatbridge Canada and he is a musician and solo singer",
+      "positive"
+    ],
+    [
+      "Coatbridge Canada and he is a musician and solo singer",
+      "is",
+      "Newmarket",
+      "positive"
+    ],
+    [
+      "Coatbridge Canada and he is a musician and solo singer",
+      "is",
+      "Ontario",
+      "positive"
+    ],
+    [
+      "he",
+      "is",
+      "a musician and solo singer",
+      "positive"
+    ]
+  ],
+  "99": [
+    [
+      "Singer Alan Frew",
+      "was born",
+      "in Coatbridge",
+      "positive"
+    ],
+    [
+      "Singer Alan Frew",
+      "is",
+      "from Newmarket",
+      "positive"
+    ],
+    [
+      "Newmarket",
+      "is",
+      "Ontario Canada",
+      "positive"
+    ]
+  ],
+  "100": [
+    [
+      "Havering Day",
+      "is",
+      "Alex",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "with the band Chameleon Circuit 2006",
+      "positive"
+    ],
+    [
+      "Alex Day",
+      "is associated",
+      "Born in the London Borough of Havering Day started performing in 2006 and performs electronic music with the musical artist Charlie McDonnell",
+      "positive"
+    ],
+    [
+      "Alex Day",
+      "is associated",
+      "Born in the London Borough of Havering Day started performing in 2006 and performs electronic music",
+      "positive"
+    ]
+  ],
+  "101": [
+    [
+      "Alex Day",
+      "was born",
+      "in the London Borough of Havering",
+      "positive"
+    ],
+    [
+      "Alex Day",
+      "became",
+      "active in electronic music",
+      "positive"
+    ],
+    [
+      "Alex Day",
+      "became",
+      "active in 2006",
+      "positive"
+    ],
+    [
+      "Alex Day",
+      "became",
+      "active",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "with Chameleon circuit",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with Charlie McDonnell",
+      "positive"
+    ]
+  ],
+  "102": [
+    [
+      "Electronic musician Alex Day",
+      "was born",
+      "in the London Borough of Havering",
+      "positive"
+    ],
+    [
+      "He",
+      "began",
+      "his active career in 2006 Havering",
+      "positive"
+    ],
+    [
+      "He",
+      "began",
+      "his active career Havering",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with artists Charlie McDonnell and the Chameleon Circuit Havering",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "Havering",
+      "positive"
+    ]
+  ],
+  "103": [
+    [
+      "Alfred Garth Jones",
+      "was born",
+      "in Manchester",
+      "positive"
+    ],
+    [
+      "Alfred Garth Jones",
+      "was died",
+      "in Sidcup",
+      "positive"
+    ],
+    [
+      "Sidcup",
+      "is",
+      "London",
+      "positive"
+    ],
+    [
+      "The leader of London",
+      "is",
+      "the European Parliament London",
+      "positive"
+    ],
+    [
+      "the leader of Manchester",
+      "is",
+      "The Labor Party UK",
+      "positive"
+    ]
+  ],
+  "104": [
+    [
+      "Alfred Garth Jones",
+      "was born",
+      "in Manchester",
+      "positive"
+    ],
+    [
+      "London The Labor Party",
+      "is",
+      "the leader Alfred Garth Jones was born in Manchester and passed away in Sidcup of Manchester",
+      "positive"
+    ],
+    [
+      "London The Labor Party",
+      "is",
+      "the leader Alfred Garth Jones was born in Manchester and passed away in Sidcup",
+      "positive"
+    ],
+    [
+      "The European parliament",
+      "is",
+      "the leader of London Manchester",
+      "positive"
+    ],
+    [
+      "The European parliament",
+      "is",
+      "the leader Manchester",
+      "positive"
+    ]
+  ],
+  "105": [
+    [
+      "Alfred Garth Jones",
+      "was born",
+      "in Manchester",
+      "positive"
+    ],
+    [
+      "Alfred Garth Jones",
+      "was died",
+      "in Sidcup London led by the European Parliament",
+      "positive"
+    ],
+    [
+      "Manchester",
+      "is led",
+      "the Labor Party",
+      "positive"
+    ]
+  ],
+  "106": [
+    [
+      "Alfredo Zitarrosa",
+      "performs",
+      "Zamba music",
+      "positive"
+    ],
+    [
+      "Alfredo Zitarrosa",
+      "has",
+      "a background as a solo singer",
+      "positive"
+    ],
+    [
+      "He",
+      "was signed",
+      "to the RCA Records label",
+      "positive"
+    ],
+    [
+      "He",
+      "has been associated",
+      "with the musicians Ciro Pérez and Héctor Numa Moraes",
+      "positive"
+    ]
+  ],
+  "107": [
+    [
+      "Alfredo Zitarrosa",
+      "recorded",
+      "his songs with the RCA Records Label",
+      "positive"
+    ],
+    [
+      "Alfredo Zitarrosa",
+      "recorded",
+      "his songs",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "songs",
+      "positive"
+    ],
+    [
+      "Alfredo",
+      "has",
+      "background",
+      "positive"
+    ],
+    [
+      "Alfredo 's background",
+      "is singing",
+      "the RCA Records Label solo",
+      "positive"
+    ],
+    [
+      "Alfredo 's background",
+      "is singing",
+      "in the zamba style the RCA Records Label",
+      "positive"
+    ],
+    [
+      "Alfredo 's background",
+      "is singing",
+      "the RCA Records Label",
+      "positive"
+    ],
+    [
+      "Ciro Perez and Hector Numa Moraes",
+      "are",
+      "Alfredo Zitarrosa recorded his songs with the RCA Records Label musicians associated with Alfredo Zitarrosa",
+      "positive"
+    ],
+    [
+      "Ciro Perez and Hector Numa Moraes",
+      "are",
+      "Alfredo Zitarrosa recorded his songs with the RCA Records Label musicians",
+      "positive"
+    ],
+    [
+      "Alfredo Zitarrosa recorded his songs with the RCA Records Label musicians",
+      "be associated",
+      "with Alfredo Zitarrosa",
+      "positive"
+    ]
+  ],
+  "108": [
+    [
+      "Alfredo Zitarrosa",
+      "is",
+      "a Zamba solo singer associated with Ciro Perez and Hector Numa Moraes",
+      "positive"
+    ],
+    [
+      "Alfredo Zitarrosa",
+      "is",
+      "a Zamba solo singer",
+      "positive"
+    ],
+    [
+      "a Zamba solo singer",
+      "be associated",
+      "with Ciro Perez and Hector Numa Moraes",
+      "positive"
+    ],
+    [
+      "He",
+      "is signed",
+      "to RCA records",
+      "positive"
+    ]
+  ],
+  "109": [
+    [
+      "Alison O'Donnell",
+      "began",
+      "her music career in 1963",
+      "positive"
+    ],
+    [
+      "Alison O'Donnell",
+      "began",
+      "her music career",
+      "positive"
+    ],
+    [
+      "her",
+      "has",
+      "music career",
+      "positive"
+    ],
+    [
+      "She",
+      "has been",
+      "Alison O'Donnell began her music career in 1963 a member of Flibbertigibbet and Mellow Candle Bands",
+      "positive"
+    ],
+    [
+      "She",
+      "has been",
+      "Alison O'Donnell began her music career in 1963 a member",
+      "positive"
+    ],
+    [
+      "She",
+      "is",
+      "a Irish folk singer signed to the Static Caravan record label Flibbertigibbet and Mellow Candle Bands",
+      "positive"
+    ],
+    [
+      "She",
+      "is",
+      "a Irish folk singer Flibbertigibbet and Mellow Candle Bands",
+      "positive"
+    ],
+    [
+      "a Irish folk singer",
+      "be signed",
+      "to the Static Caravan record label",
+      "positive"
+    ]
+  ],
+  "110": [
+    [
+      "Alison O'Donnell",
+      "played",
+      "Irish folk music with the Flibbertigibbet band and Mellow Candle",
+      "positive"
+    ],
+    [
+      "Alison O'Donnell",
+      "played",
+      "Irish folk music",
+      "positive"
+    ],
+    [
+      "She",
+      "became",
+      "Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle active in 1963",
+      "positive"
+    ],
+    [
+      "She",
+      "became",
+      "Alison O'Donnell played Irish folk music with the Flibbertigibbet band and Mellow Candle active",
+      "positive"
+    ],
+    [
+      "She",
+      "is signed",
+      "to Static Caravan Recordings",
+      "positive"
+    ]
+  ],
+  "111": [
+    [
+      "Anders Osborne",
+      "has",
+      "musical career",
+      "positive"
+    ],
+    [
+      "His",
+      "has",
+      "genre",
+      "positive"
+    ],
+    [
+      "His genre",
+      "is",
+      "in 1989 Rhythm and blues",
+      "positive"
+    ],
+    [
+      "he",
+      "is associated",
+      "with the musical artists",
+      "positive"
+    ],
+    [
+      "Billy Iuso and Tab Benoit Anders Osborne",
+      "is associated",
+      "the musical artists also",
+      "positive"
+    ],
+    [
+      "Billy Iuso and Tab Benoit Anders Osborne",
+      "is associated",
+      "with the band the musical artists",
+      "positive"
+    ],
+    [
+      "Billy Iuso and Tab Benoit Anders Osborne",
+      "is associated",
+      "the musical artists",
+      "positive"
+    ],
+    [
+      "the band",
+      "is",
+      "Voice of the Wetlands All-Stars",
+      "positive"
+    ]
+  ],
+  "112": [
+    [
+      "Anders Osborne",
+      "started",
+      "his musical performing in 1989",
+      "positive"
+    ],
+    [
+      "Anders Osborne",
+      "started",
+      "his musical performing where he met musical artists Tab Benoit and Billy Iuso with the band",
+      "positive"
+    ],
+    [
+      "Anders Osborne",
+      "started",
+      "his musical performing",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "musical performing",
+      "positive"
+    ],
+    [
+      "he",
+      "met",
+      "musical artists Tab Benoit and Billy Iuso with the band where",
+      "positive"
+    ],
+    [
+      "he",
+      "met",
+      "musical artists Tab Benoit and Billy Iuso with the band",
+      "positive"
+    ],
+    [
+      "Voice of the Wetlands All-Stars A. Osborne",
+      "performs",
+      "in the rhythm and blues style the band",
+      "positive"
+    ],
+    [
+      "Voice of the Wetlands All-Stars A. Osborne",
+      "performs",
+      "the band",
+      "positive"
+    ]
+  ],
+  "113": [
+    [
+      "Anders Osborne",
+      "started",
+      "performing in 1989",
+      "positive"
+    ],
+    [
+      "His",
+      "has",
+      "genre",
+      "positive"
+    ],
+    [
+      "His genre",
+      "is",
+      "Anders Osborne started performing in 1989 rhythm and blues",
+      "positive"
+    ],
+    [
+      "He",
+      "has worked",
+      "with Tab Benoit Anders Osborne started performing in 1989 rhythm and blues",
+      "positive"
+    ],
+    [
+      "He",
+      "has worked",
+      "Anders Osborne started performing in 1989 rhythm and blues",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with the musical artist Billy Iuso and with Voice of the Wetlands All-Stars Anders Osborne started performing in 1989 rhythm and blues",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "Anders Osborne started performing in 1989 rhythm and blues",
+      "positive"
+    ]
+  ],
+  "114": [
+    [
+      "Anders Osborne",
+      "is",
+      "a rock guitarist associated with Johnny Sansone and signed to Okeh records",
+      "positive"
+    ],
+    [
+      "Bhangra",
+      "is",
+      "Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Okeh records a musical fusion of rock music",
+      "positive"
+    ],
+    [
+      "Bhangra",
+      "is",
+      "Anders Osborne is a rock guitarist associated with Johnny Sansone and signed to Okeh records a musical fusion",
+      "positive"
+    ]
+  ],
+  "115": [
+    [
+      "Rock guitarist Anders Osborne",
+      "is signed",
+      "with Okeh Records",
+      "positive"
+    ],
+    [
+      "Rock guitarist Anders Osborne",
+      "is associated",
+      "with musician",
+      "positive"
+    ],
+    [
+      "Johnny Sansone Bhangra",
+      "is",
+      "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with musician a fusion of rock music",
+      "positive"
+    ],
+    [
+      "Johnny Sansone Bhangra",
+      "is",
+      "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with musician a fusion",
+      "positive"
+    ]
+  ],
+  "116": [
+    [
+      "Rock guitarist Anders Osborne",
+      "is signed",
+      "with Okeh Records",
+      "positive"
+    ],
+    [
+      "Rock guitarist Anders Osborne",
+      "is associated",
+      "with artist",
+      "positive"
+    ],
+    [
+      "Johnny Sansone Bhangra",
+      "is",
+      "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist fusion of rock",
+      "positive"
+    ],
+    [
+      "Johnny Sansone Bhangra",
+      "is",
+      "Rock guitarist Anders Osborne is signed with Okeh Records and is associated with artist fusion",
+      "positive"
+    ]
+  ],
+  "117": [
+    [
+      "Solo singer",
+      "is",
+      "Andra",
+      "positive"
+    ],
+    [
+      "Solo singer",
+      "was born",
+      "in 1986 in Romania",
+      "positive"
+    ],
+    [
+      "Solo singer",
+      "was born",
+      "in 1986",
+      "positive"
+    ],
+    [
+      "Andra",
+      "is",
+      "a rhythm and blues singer Romania",
+      "positive"
+    ],
+    [
+      "a rhythm and blues singer",
+      "has",
+      "occupation",
+      "positive"
+    ]
+  ],
+  "118": [
+    [
+      "The singer Andra",
+      "was born",
+      "in Romania in 1986",
+      "positive"
+    ],
+    [
+      "The singer Andra",
+      "was born",
+      "in Romania",
+      "positive"
+    ],
+    [
+      "The singer Andra",
+      "performs",
+      "rhythm and blues as a solo artist",
+      "positive"
+    ],
+    [
+      "The singer Andra",
+      "performs",
+      "rhythm and blues",
+      "positive"
+    ]
+  ],
+  "119": [
+    [
+      "The Rhythm and blues solo singer musician Andra",
+      "was born",
+      "1986 in Romania",
+      "positive"
+    ]
+  ],
+  "120": [
+    [
+      "Singer Andra in Câmpia Turzii in 1986",
+      "is",
+      "a solo singer With a carrer in singing",
+      "positive"
+    ],
+    [
+      "Singer Andra in Câmpia Turzii in 1986",
+      "is",
+      "a solo singer",
+      "positive"
+    ],
+    [
+      "Andra",
+      "is",
+      "a solo singer With a carrer in singing",
+      "positive"
+    ],
+    [
+      "Andra",
+      "is",
+      "a solo singer",
+      "positive"
+    ],
+    [
+      "With a carrer in singing a solo singer",
+      "performs",
+      "rhythm and blues music",
+      "positive"
+    ]
+  ],
+  "121": [
+    [
+      "Andra",
+      "was born",
+      "in Campia Turzii in 1986",
+      "positive"
+    ],
+    [
+      "Andra",
+      "was born",
+      "in Campia Turzii",
+      "positive"
+    ],
+    [
+      "She",
+      "began",
+      "her career as a solo singer",
+      "positive"
+    ],
+    [
+      "She",
+      "began",
+      "her career",
+      "positive"
+    ],
+    [
+      "She",
+      "sings",
+      "for a living in the genre Rhythm and blues",
+      "positive"
+    ]
+  ],
+  "122": [
+    [
+      "a solo rhythm and blues singer",
+      "was born",
+      "in 1986 in Campia Turzii",
+      "positive"
+    ],
+    [
+      "a solo rhythm and blues singer",
+      "was born",
+      "in 1986",
+      "positive"
+    ]
+  ],
+  "123": [
+    [
+      "Andrew Rayel",
+      "was born",
+      "in Chisinau Moldova",
+      "positive"
+    ],
+    [
+      "Andrew Rayel",
+      "started",
+      "his career in 2009",
+      "positive"
+    ],
+    [
+      "Andrew Rayel",
+      "started",
+      "his career",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "career",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "musical genre",
+      "positive"
+    ],
+    [
+      "his musical genre",
+      "is",
+      "trance music",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with Christian Burns and Armin van Buuren",
+      "positive"
+    ]
+  ],
+  "124": [
+    [
+      "Andrew Rayel",
+      "was born",
+      "in Chisinau",
+      "positive"
+    ],
+    [
+      "He",
+      "'s",
+      "an associate of Armin van Buuren Moldova",
+      "positive"
+    ],
+    [
+      "He",
+      "'s",
+      "an associate Moldova",
+      "positive"
+    ],
+    [
+      "Christian Burns Mr Rayel",
+      "has",
+      "musical genre",
+      "positive"
+    ],
+    [
+      "Christian Burns Mr Rayel 's musical genre",
+      "is",
+      "Trance",
+      "positive"
+    ],
+    [
+      "he",
+      "started",
+      "Trance in 2009",
+      "positive"
+    ],
+    [
+      "he",
+      "started",
+      "Trance",
+      "positive"
+    ]
+  ],
+  "125": [
+    [
+      "Andrew Rayel",
+      "was born",
+      "in Chisinau",
+      "positive"
+    ]
+  ],
+  "126": [
+    [
+      "The musician Andrew White",
+      "is",
+      "part of the Kaiser Chiefs",
+      "positive"
+    ],
+    [
+      "The musician Andrew White",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "The musician Andrew White",
+      "is signed",
+      "to the record label B-Unique Records and Polydor Records",
+      "positive"
+    ],
+    [
+      "He",
+      "started",
+      "his musical career in 2003",
+      "positive"
+    ],
+    [
+      "He",
+      "started",
+      "his musical career",
+      "positive"
+    ],
+    [
+      "He",
+      "was associated",
+      "with Marry Banilow",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "musical career",
+      "positive"
+    ]
+  ],
+  "127": [
+    [
+      "B-Unique Records and Polydor Records artist Andrew White",
+      "began",
+      "in 2003",
+      "positive"
+    ],
+    [
+      "B-Unique Records and Polydor Records artist Andrew White",
+      "is associated",
+      "with the Kaiser Chiefs and artist Marry Banilow",
+      "positive"
+    ]
+  ],
+  "128": [
+    [
+      "B-Unique Records and Polydor Recording artist Andrew White",
+      "began",
+      "his career in 2003",
+      "positive"
+    ],
+    [
+      "B-Unique Records and Polydor Recording artist Andrew White",
+      "began",
+      "his career",
+      "positive"
+    ],
+    [
+      "He",
+      "is associated",
+      "with the Kaiser Chiefs and Marry Banilow",
+      "positive"
+    ]
+  ],
+  "129": [
+    [
+      "Andrew Rayel",
+      "wad",
+      "a string instrumentalist",
+      "positive"
+    ],
+    [
+      "a string instrumentalist",
+      "is associated",
+      "with Armin van Buuren Bobina Mark Sixma Jonathan Mendelsohn house musician Christian Burns Jwaydan Alexander Popov Jano Alexandre Bergheau Jonny Rose Sylvia Tosun Lira Yin and Alexandra Badoi",
+      "positive"
+    ]
+  ],
+  "130": [
+    [
+      "String instrumentalist Andrew Rayel",
+      "is associated",
+      "with the musical artists Armin Van Buuren Bobina Mark Sixma Jonathan Mendelsohn Christian Burns Jwaydan Alexander Popov Jano Alexandre Bergheau Jonny Rose Sylvia Tosun Lira Yin and Alexandra Badoi",
+      "positive"
+    ],
+    [
+      "String instrumentalist Andrew Rayel",
+      "is associated",
+      "Armin Van Buuren Bobina Mark Sixma Jonathan Mendelsohn Christian Burns Jwaydan Alexander Popov Jano Alexandre Bergheau Jonny Rose Sylvia Tosun Lira Yin and Alexandra Badoi",
+      "positive"
+    ],
+    [
+      "Christian Burns",
+      "is",
+      "house music",
+      "positive"
+    ]
+  ],
+  "131": [
+    [
+      "String instrumentalist Andrew Rayel",
+      "is associated",
+      "with Armin van Buuren",
+      "positive"
+    ],
+    [
+      "Armin van Buuren",
+      "is",
+      "Mark Sixma",
+      "positive"
+    ],
+    [
+      "Armin van Buuren",
+      "is",
+      "Jonathan Mendelsohn",
+      "positive"
+    ],
+    [
+      "Armin van Buuren",
+      "is",
+      "Christian Burns",
+      "positive"
+    ],
+    [
+      "Armin van Buuren",
+      "is",
+      "Jwaydan Alexander Popov Jano Alexandre Bergheau Jonny Rose Sylvia Tosun Lira Yin and Alexandra Badoi",
+      "positive"
+    ],
+    [
+      "Armin van Buuren",
+      "is",
+      "Bobina",
+      "positive"
+    ],
+    [
+      "Christian Burns",
+      "is",
+      "House music",
+      "positive"
+    ]
+  ],
+  "132": [
+    [
+      "Allen Forrest",
+      "is",
+      "a hip hop artist Hip hop music originated from disco and funk music",
+      "positive"
+    ],
+    [
+      "a hip hop artist Hip hop music originated from disco and funk music and Drum and bass derives its sounds from hip hop music",
+      "was born",
+      "on February 4 1981",
+      "positive"
+    ],
+    [
+      "Drum and bass",
+      "derives",
+      "its sounds from hip hop music",
+      "positive"
+    ],
+    [
+      "Drum and bass",
+      "derives",
+      "its sounds",
+      "positive"
+    ]
+  ],
+  "133": [
+    [
+      "hip hop music",
+      "is",
+      "whose musical Hip Hop music has its origins in Funk and Disco Drum and bass",
+      "positive"
+    ],
+    [
+      "hip hop music",
+      "is",
+      "date of birth is 04th February 1981",
+      "positive"
+    ],
+    [
+      "Allen Forrest musical",
+      "Hip",
+      "Hop music has its origins in Funk and Disco Drum and bass",
+      "positive"
+    ],
+    [
+      "Hop music",
+      "has",
+      "its origins in Funk and Disco Drum and bass",
+      "positive"
+    ],
+    [
+      "Hop music",
+      "has",
+      "its origins",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "origins",
+      "positive"
+    ],
+    [
+      "Allen Forrest",
+      "derives",
+      "its sounds from hip hop music",
+      "positive"
+    ],
+    [
+      "Allen Forrest",
+      "derives",
+      "its sounds",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "sounds",
+      "positive"
+    ]
+  ],
+  "134": [
+    [
+      "Allen Forrest",
+      "was born",
+      "on February 4 1981",
+      "positive"
+    ],
+    [
+      "Allen Forrest",
+      "plays",
+      "Hip Hop music came from funk music and Drum",
+      "positive"
+    ],
+    [
+      "Hip Hop music",
+      "has",
+      "its origins in Disco music Hip hop",
+      "positive"
+    ],
+    [
+      "Hip Hop music",
+      "has",
+      "its origins",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "origins",
+      "positive"
+    ],
+    [
+      "Hip Hop music",
+      "came",
+      "from funk music and Drum",
+      "positive"
+    ],
+    [
+      "Bass music",
+      "is derived",
+      "from Hip Hop",
+      "positive"
+    ]
+  ],
+  "135": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion in Paraguay The country",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion",
+      "positive"
+    ],
+    [
+      "Paraguay The country",
+      "has",
+      "an ethnic group called the Mestizo it is also the country and which is led by Juan Afara",
+      "positive"
+    ],
+    [
+      "it",
+      "is",
+      "the country also",
+      "positive"
+    ],
+    [
+      "it",
+      "is",
+      "the country",
+      "positive"
+    ],
+    [
+      "which",
+      "is led",
+      "by Juan Afara",
+      "positive"
+    ]
+  ],
+  "136": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion Paraguay where the people speak Spanish Juan Afara leads the country",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Asuncion Paraguay",
+      "positive"
+    ],
+    [
+      "the people",
+      "speak",
+      "Spanish Juan Afara leads the country where",
+      "positive"
+    ],
+    [
+      "the people",
+      "speak",
+      "Spanish Juan Afara leads the country",
+      "positive"
+    ],
+    [
+      "Spanish Juan Afara",
+      "leads",
+      "the country",
+      "positive"
+    ],
+    [
+      "an ethnic group in Paraguay",
+      "are",
+      "the Mestizo people",
+      "positive"
+    ]
+  ],
+  "137": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Spanish speaking Asuncion Paraguay",
+      "positive"
+    ],
+    [
+      "home of the Mestizo Paraguay",
+      "is led",
+      "Agustin Barboza was born in Spanish speaking Asuncion Paraguay by Juan Afara",
+      "positive"
+    ]
+  ],
+  "138": [
+    [
+      "The leader of Paraguay",
+      "is called",
+      "Juan Afara",
+      "positive"
+    ],
+    [
+      "one ethnic group",
+      "is",
+      "the Mestizo people",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Paraguay",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was died",
+      "in Asunción",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was a part",
+      "of Gran Asunción",
+      "positive"
+    ]
+  ],
+  "139": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Paraguay",
+      "positive"
+    ],
+    [
+      "Agustin Barboza",
+      "was died",
+      "in Asuncion",
+      "positive"
+    ],
+    [
+      "Asuncion",
+      "is",
+      "part of Gran Asunción",
+      "positive"
+    ],
+    [
+      "Asuncion",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "Juan Afara",
+      "is",
+      "the country 's leader Gran Asunción",
+      "positive"
+    ],
+    [
+      "the country",
+      "has",
+      "leader",
+      "positive"
+    ],
+    [
+      "the Mestizo",
+      "are",
+      "among the ethnic groups in Paraguay",
+      "positive"
+    ]
+  ],
+  "140": [
+    [
+      "Agustin Barboza",
+      "was born",
+      "in Paraguay led by Juan Afara",
+      "positive"
+    ],
+    [
+      "Paraguay",
+      "be led",
+      "by Juan Afara",
+      "positive"
+    ],
+    [
+      "The Mestizo ethnic group",
+      "is",
+      "one of the ethnic groups in Paraguay Agustin died in Asuncion Juan Afara",
+      "positive"
+    ],
+    [
+      "The Mestizo ethnic group",
+      "is",
+      "one Juan Afara",
+      "positive"
+    ],
+    [
+      "the ethnic groups in Paraguay Agustin",
+      "be died",
+      "in Asuncion",
+      "positive"
+    ],
+    [
+      "Asuncion",
+      "is",
+      "Gran Asunción",
+      "positive"
+    ]
+  ],
+  "141": [
+    [
+      "Al Anderson",
+      "plays",
+      "the guitar in the rock music band NRBQ Rock music originated from country music",
+      "positive"
+    ],
+    [
+      "the guitar in the rock music band NRBQ Rock music",
+      "be originated",
+      "from country music",
+      "positive"
+    ],
+    [
+      "the guitar in the rock music band NRBQ Rock music originated from country music",
+      "originated",
+      "from blues music",
+      "positive"
+    ],
+    [
+      "part of the fusion genre",
+      "be coming",
+      "partly from Rock music",
+      "positive"
+    ],
+    [
+      "part of the fusion genre",
+      "be coming",
+      "partly",
+      "positive"
+    ],
+    [
+      "The music Bhangra",
+      "is",
+      "part of the fusion genre",
+      "positive"
+    ],
+    [
+      "The music Bhangra",
+      "is",
+      "part partly coming from Rock music",
+      "positive"
+    ],
+    [
+      "The music Bhangra",
+      "is",
+      "part",
+      "positive"
+    ]
+  ],
+  "142": [
+    [
+      "Al Anderson",
+      "plays",
+      "the guitar for rock band NRBQ Rock comes from country music",
+      "positive"
+    ],
+    [
+      "the guitar for rock band NRBQ Rock",
+      "comes",
+      "from country music",
+      "positive"
+    ],
+    [
+      "country music",
+      "originates",
+      "from blues",
+      "positive"
+    ],
+    [
+      "Bhangra music",
+      "is",
+      "a musical fusion of rock music blues",
+      "positive"
+    ],
+    [
+      "Bhangra music",
+      "is",
+      "a musical fusion blues",
+      "positive"
+    ]
+  ],
+  "143": [
+    [
+      "Rock guitarist AI Anderson",
+      "is",
+      "a member of NRBQ Rock originates from rock",
+      "positive"
+    ],
+    [
+      "Rock guitarist AI Anderson",
+      "is",
+      "a member",
+      "positive"
+    ],
+    [
+      "a member of NRBQ Rock originates from rock",
+      "has",
+      "its origins in country",
+      "positive"
+    ],
+    [
+      "its origins in country",
+      "derives",
+      "from the blues",
+      "positive"
+    ],
+    [
+      "Bhangra",
+      "is",
+      "Rock guitarist AI Anderson is a member of NRBQ Rock originates from rock a rock fusion",
+      "positive"
+    ]
+  ],
+  "144": [
+    [
+      "Aaron Turner",
+      "plays",
+      "the electric guitar",
+      "positive"
+    ],
+    [
+      "House of Low Culture Black metal",
+      "is",
+      "an element of the fusion genre death metal",
+      "positive"
+    ],
+    [
+      "House of Low Culture Black metal",
+      "is",
+      "an element",
+      "positive"
+    ]
+  ],
+  "145": [
+    [
+      "Aaron Turner",
+      "is",
+      "an electric guitarist",
+      "positive"
+    ],
+    [
+      "an electric guitarist and the black metal band Twilight Black metal is an element of the fusion genre death metal",
+      "has performed",
+      "with House of Low Culture",
+      "positive"
+    ],
+    [
+      "the black metal band Twilight Black metal",
+      "is",
+      "an element of the fusion genre death metal",
+      "positive"
+    ],
+    [
+      "the black metal band Twilight Black metal",
+      "is",
+      "an element",
+      "positive"
+    ]
+  ],
+  "146": [
+    [
+      "Electric guitarist Aaron Turner",
+      "has played",
+      "with black metal band Twilight and with House of Low Culture Death",
+      "positive"
+    ]
+  ],
+  "147": [
+    [
+      "Alfredo Zitarrosa",
+      "died",
+      "in Montevideo",
+      "positive"
+    ],
+    [
+      "Uruguay Daniel Martinez",
+      "is",
+      "a political leader in Montevideo",
+      "positive"
+    ],
+    [
+      "Uruguay Daniel Martinez",
+      "is",
+      "a political leader",
+      "positive"
+    ],
+    [
+      "Raul Fernando Sendic Rodriguez",
+      "is",
+      "a leader in Uruguay",
+      "positive"
+    ],
+    [
+      "Raul Fernando Sendic Rodriguez",
+      "is",
+      "a leader",
+      "positive"
+    ],
+    [
+      "Spanish",
+      "is spoken",
+      "Uruguay where",
+      "positive"
+    ]
+  ],
+  "148": [
+    [
+      "Alfredo Zitarrosa",
+      "died",
+      "in Montevideo",
+      "positive"
+    ],
+    [
+      "the leader of which",
+      "is",
+      "Daniel Martinez Montevideo Montevideo",
+      "positive"
+    ]
+  ],
+  "149": [
+    [
+      "Raúl Fernando Sendic Rodríguez",
+      "is",
+      "the leader of Spanish speaking",
+      "positive"
+    ],
+    [
+      "Raúl Fernando Sendic Rodríguez",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "Uruguay Daniel Martinez",
+      "is",
+      "the leader Raúl Fernando Sendic Rodríguez is the leader of Spanish speaking of Montevideo",
+      "positive"
+    ],
+    [
+      "Uruguay Daniel Martinez",
+      "is",
+      "the leader Raúl Fernando Sendic Rodríguez is the leader of Spanish speaking",
+      "positive"
+    ],
+    [
+      "Montevideo",
+      "is",
+      "the final resting place of Alfredo Zitarrosa",
+      "positive"
+    ]
+  ],
+  "150": [
+    [
+      "Alfredo Zitarrosa",
+      "died",
+      "in Montevideo",
+      "positive"
+    ],
+    [
+      "Alfredo Zitarrosa",
+      "died",
+      "in Uruguay",
+      "positive"
+    ],
+    [
+      "Uruguay leader",
+      "is",
+      "Tabare Vazquez",
+      "positive"
+    ],
+    [
+      "Another politician in Montevideo",
+      "is",
+      "Daniel Martinez Uruguayans Tabare Vazquez",
+      "positive"
+    ]
+  ],
+  "151": [
+    [
+      "Montevideo Uruguay",
+      "is",
+      "the final resting place of Alfredo Zitarrosa Montevideo",
+      "positive"
+    ],
+    [
+      "Montevideo Uruguay",
+      "is",
+      "the final resting place",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "home to the Uruguayans",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "home",
+      "positive"
+    ]
+  ],
+  "152": [
+    [
+      "Montevideo Uruguay",
+      "is led",
+      "by Daniel Martinez and Tabaré Vázquez",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "Montevideo Uruguay is led by Daniel Martinez and Tabaré Vázquez the home and the place of death for Alfredo Zitarrosa to Uruguayans",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "Montevideo Uruguay is led by Daniel Martinez and Tabaré Vázquez the home and the place of death for Alfredo Zitarrosa",
+      "positive"
+    ]
+  ],
+  "153": [
+    [
+      "Alan Bean",
+      "was",
+      "an American born in Wheeler",
+      "positive"
+    ],
+    [
+      "Alan Bean",
+      "was",
+      "an American",
+      "positive"
+    ],
+    [
+      "an American",
+      "be born",
+      "in Wheeler",
+      "positive"
+    ],
+    [
+      "Alan Bean was an American born in Wheeler",
+      "is",
+      "Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "as a test pilot Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "became",
+      "a crew member of Apollo 12 Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "became",
+      "a crew member Texas",
+      "positive"
+    ],
+    [
+      "an American born in Wheeler",
+      "was operated",
+      "by NASA",
+      "positive"
+    ]
+  ],
+  "154": [
+    [
+      "its",
+      "has",
+      "crew members",
+      "positive"
+    ],
+    [
+      "American national Alan Bean",
+      "included",
+      "Apollo He was born in Wheeler Texas and served as a test pilot",
+      "positive"
+    ],
+    [
+      "Apollo",
+      "He was born",
+      "in Wheeler Texas",
+      "positive"
+    ],
+    [
+      "Apollo",
+      "He was served",
+      "as a test pilot",
+      "positive"
+    ],
+    [
+      "He",
+      "Apollo was born",
+      "in Wheeler Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "Apollo was served",
+      "as a test pilot",
+      "positive"
+    ]
+  ],
+  "155": [
+    [
+      "Alan Bean",
+      "is",
+      "a US national",
+      "positive"
+    ],
+    [
+      "Alan Bean",
+      "was born",
+      "in Wheeler",
+      "positive"
+    ],
+    [
+      "Wheeler",
+      "is",
+      "Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "as a test pilot before becoming part of the NASA operated Apollo 12 mission as a crew member Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "Texas",
+      "positive"
+    ],
+    [
+      "a test pilot before becoming part of the NASA",
+      "operated",
+      "Apollo 12 mission as a crew member",
+      "positive"
+    ]
+  ],
+  "156": [
+    [
+      "Alan Shepard",
+      "be born",
+      "in New Hampshire on November 18 1923",
+      "positive"
+    ],
+    [
+      "Alan Shepard born in New Hampshire on November 18 1923",
+      "graduated",
+      "from NWC in 1957 with an M.A.",
+      "positive"
+    ],
+    [
+      "Alan Shepard born in New Hampshire on November 18 1923",
+      "graduated",
+      "from NWC in 1957",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in California",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "on July 21 1998",
+      "positive"
+    ]
+  ],
+  "157": [
+    [
+      "Alan Shepard",
+      "was born",
+      "in New Hampshire on the 18th of November 1923 He graduated from NWC in 1957 with an M.A. On the 21st of July he passed away in California",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was born",
+      "1923 He graduated from NWC in 1957 with an M.A. On the 21st of July he passed away in California",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from NWC in 1957 with an M.A.",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from NWC in 1957 On the 21st of July",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from NWC in 1957",
+      "positive"
+    ],
+    [
+      "July",
+      "is",
+      "1998",
+      "positive"
+    ],
+    [
+      "he",
+      "passed away",
+      "in California",
+      "positive"
+    ]
+  ],
+  "158": [
+    [
+      "Alan Shepard",
+      "was born",
+      "on the 18th of November",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was passed away",
+      "on the 21st of July",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was 1923",
+      "in New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "with an M.A. California",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from NWC in 1957 California",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "California",
+      "positive"
+    ]
+  ],
+  "159": [
+    [
+      "Alan Shepard",
+      "be born",
+      "in New Hampshire",
+      "positive"
+    ],
+    [
+      "Alan Shepard born in New Hampshire",
+      "has died",
+      "in California",
+      "positive"
+    ],
+    [
+      "he",
+      "served",
+      "California After graduating from NWC MA in 1957",
+      "positive"
+    ],
+    [
+      "he",
+      "served",
+      "as a test pilot California",
+      "positive"
+    ],
+    [
+      "he",
+      "served",
+      "California",
+      "positive"
+    ]
+  ],
+  "160": [
+    [
+      "Alan Shepard",
+      "has died",
+      "in California",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "went",
+      "to school at NWC",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "went",
+      "to school",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "in New Hampshire California",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "California",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "Alan Shepard has died in California and went to school at NWC graduating with an MA in 1957 as a test pilot",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "Alan Shepard has died in California and went to school at NWC graduating with an MA in 1957",
+      "positive"
+    ]
+  ],
+  "161": [
+    [
+      "Alan Shepard",
+      "has died",
+      "in California",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "in New Hampshire California",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "California",
+      "positive"
+    ],
+    [
+      "He",
+      "was graduated",
+      "from NWC MA California",
+      "positive"
+    ],
+    [
+      "He",
+      "was graduated",
+      "in 1957 California",
+      "positive"
+    ],
+    [
+      "He",
+      "was graduated",
+      "California",
+      "positive"
+    ],
+    [
+      "He",
+      "served",
+      "as a test pilot",
+      "positive"
+    ]
+  ],
+  "162": [
+    [
+      "The late Alan Shepard",
+      "was born",
+      "in New Hampshire",
+      "positive"
+    ],
+    [
+      "The late Alan Shepard",
+      "was chosen",
+      "by NASA in 1959 as a crew member of Apollo 14",
+      "positive"
+    ],
+    [
+      "The late Alan Shepard",
+      "was chosen",
+      "by NASA in 1959",
+      "positive"
+    ]
+  ],
+  "163": [
+    [
+      "The late Alan Shepard",
+      "was born",
+      "in New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "was selected",
+      "by NASA New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "was selected",
+      "in 1959 New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "was selected",
+      "New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "was served",
+      "as a crew member of NASA operated Apollo 14 New Hampshire",
+      "positive"
+    ],
+    [
+      "He",
+      "was served",
+      "New Hampshire",
+      "positive"
+    ]
+  ],
+  "164": [
+    [
+      "Alan Shepard",
+      "was",
+      "originally from New Hampshire",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was",
+      "originally",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "joined",
+      "NASA in 1959",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "joined",
+      "NASA where he became a member of the Apollo 14 crew",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "joined",
+      "NASA",
+      "positive"
+    ],
+    [
+      "he",
+      "became",
+      "a member where",
+      "positive"
+    ],
+    [
+      "he",
+      "became",
+      "a member of the Apollo 14 crew",
+      "positive"
+    ],
+    [
+      "he",
+      "became",
+      "a member",
+      "positive"
+    ]
+  ],
+  "165": [
+    [
+      "Alan Bean born in Wheeler Texas",
+      "was",
+      "a crew Apollo 12 was commanded by David Scott",
+      "positive"
+    ],
+    [
+      "member of Apollo 12",
+      "operated",
+      "by NASA a crew Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot",
+      "positive"
+    ],
+    [
+      "member of Apollo 12",
+      "operated",
+      "a crew Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot",
+      "positive"
+    ],
+    [
+      "member of Apollo 12",
+      "was",
+      "100305 minutes in space a crew Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot",
+      "positive"
+    ],
+    [
+      "member of Apollo 12",
+      "was",
+      "100305 minutes a crew Apollo 12 was commanded by David Scott and Alfred Worden was a backup pilot",
+      "positive"
+    ],
+    [
+      "Apollo 12",
+      "was commanded",
+      "by David Scott",
+      "positive"
+    ],
+    [
+      "Alfred Worden",
+      "was",
+      "a backup pilot",
+      "positive"
+    ]
+  ],
+  "166": [
+    [
+      "Alfred Worden",
+      "was",
+      "a backup pilot on the NASA operated Apollo 12",
+      "positive"
+    ],
+    [
+      "Alfred Worden",
+      "was",
+      "a backup pilot",
+      "positive"
+    ],
+    [
+      "the NASA",
+      "be operated",
+      "Apollo 12",
+      "positive"
+    ],
+    [
+      "Alan Bean",
+      "spent",
+      "a total of 100305 minutes in space",
+      "positive"
+    ],
+    [
+      "Alan Bean",
+      "spent",
+      "a total of 100305 minutes",
+      "positive"
+    ],
+    [
+      "Alan Bean",
+      "was",
+      "a crewman",
+      "positive"
+    ]
+  ],
+  "167": [
+    [
+      "November 18th 1923",
+      "is",
+      "New Hampshire",
+      "positive"
+    ],
+    [
+      "Alan Shepard born November 18th 1923",
+      "was awarded",
+      "the United States Navy Distinguished Service Medal",
+      "positive"
+    ],
+    [
+      "the United States Navy Distinguished Service Medal",
+      "is",
+      "higher than the department of commerce gold medal has died in California",
+      "positive"
+    ],
+    [
+      "the United States Navy Distinguished Service Medal",
+      "is",
+      "higher",
+      "positive"
+    ],
+    [
+      "the department of commerce gold medal",
+      "has died",
+      "in California",
+      "positive"
+    ]
+  ],
+  "168": [
+    [
+      "Alan Shepard",
+      "was born",
+      "on 18 November 1923",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was born",
+      "on 18 in New Hampshire",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was born",
+      "on 18",
+      "positive"
+    ],
+    [
+      "He",
+      "was awarded",
+      "the Distinguished Service Medal New Hampshire",
+      "positive"
+    ],
+    [
+      "the Distinguished Service Medal",
+      "is",
+      "higher than the Department of Commerce Gold Medal He died in California",
+      "positive"
+    ],
+    [
+      "the Distinguished Service Medal",
+      "is",
+      "higher by the US Navy He died in California",
+      "positive"
+    ],
+    [
+      "the Distinguished Service Medal",
+      "is",
+      "higher He died in California",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in California",
+      "positive"
+    ]
+  ],
+  "169": [
+    [
+      "Alan Shepard",
+      "was born",
+      "in New Hampshire on 18 Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was born",
+      "November 1923 Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal",
+      "positive"
+    ],
+    [
+      "Alan Shepard",
+      "was born",
+      "Before his death in California he had been awarded the Distinguished Service Medal by the US Navy an award higher than the Department of Commerce Gold Medal",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "death in California",
+      "positive"
+    ],
+    [
+      "he",
+      "had been awarded",
+      "the Distinguished Service Medal Before his death in California",
+      "positive"
+    ],
+    [
+      "he",
+      "had been awarded",
+      "the Distinguished Service Medal by the US Navy",
+      "positive"
+    ],
+    [
+      "he",
+      "had been awarded",
+      "the Distinguished Service Medal an award higher than the Department of Commerce Gold Medal",
+      "positive"
+    ],
+    [
+      "he",
+      "had been awarded",
+      "the Distinguished Service Medal",
+      "positive"
+    ]
+  ],
+  "170": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas later",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "is competing in the Big 12 Conference Nowadays",
+      "the University of Texas later",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas at Austin",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "is competing in the Big 12 Conference Nowadays",
+      "the University of Texas at Austin",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "is competing in the Big 12 Conference Nowadays",
+      "the University of Texas",
+      "positive"
+    ],
+    [
+      "The University of Texas at Austin",
+      "is affiliated",
+      "with University of Texas System Austin",
+      "positive"
+    ],
+    [
+      "The University of Texas at Austin",
+      "is affiliated",
+      "Austin",
+      "positive"
+    ],
+    [
+      "Gregory L. Fenves",
+      "is",
+      "the President Elliot See was born in Dallas and later attended the University of Texas at Austin and is competing in the Big 12 Conference Nowadays of the University",
+      "positive"
+    ],
+    [
+      "Gregory L. Fenves",
+      "is",
+      "the President Elliot See was born in Dallas and later attended the University of Texas at Austin and is competing in the Big 12 Conference Nowadays",
+      "positive"
+    ]
+  ],
+  "171": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas at Austin is the appointed president of the University of Texas at Austin",
+      "positive"
+    ],
+    [
+      "Texas at Austin",
+      "is affiliated",
+      "with the University of Texas System",
+      "positive"
+    ],
+    [
+      "Texas at Austin",
+      "competed",
+      "in the Big 12 Conference in Austin Gregory L. Fenves",
+      "positive"
+    ],
+    [
+      "Texas at Austin",
+      "competed",
+      "in the Big 12 Conference",
+      "positive"
+    ],
+    [
+      "the University of Texas at Austin",
+      "is",
+      "the appointed president of the University",
+      "positive"
+    ],
+    [
+      "the University of Texas at Austin",
+      "is",
+      "the appointed president of Texas at Austin",
+      "positive"
+    ],
+    [
+      "the University of Texas at Austin",
+      "is",
+      "the appointed president",
+      "positive"
+    ]
+  ],
+  "172": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas a student",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was born",
+      "a student at University of Texas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was born",
+      "a student at Austin",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was born",
+      "a student",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was",
+      "a student at University of Texas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was",
+      "a student at Austin",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was",
+      "a student",
+      "positive"
+    ],
+    [
+      "This University",
+      "has",
+      "president",
+      "positive"
+    ],
+    [
+      "This University president",
+      "is",
+      "Gregory L. Fenves",
+      "positive"
+    ],
+    [
+      "This University",
+      "is affiliated",
+      "with the University of Texas System Austin",
+      "positive"
+    ],
+    [
+      "The University of Texas at Austin",
+      "competes",
+      "in the Big 12 Conference Texas System",
+      "positive"
+    ]
+  ],
+  "173": [
+    [
+      "He",
+      "was born",
+      "in Dallas St. Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "was born",
+      "St. Louis",
+      "positive"
+    ]
+  ],
+  "174": [
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas at Austin",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in St Louis on 28 Austin",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "February 1966 Austin",
+      "positive"
+    ]
+  ],
+  "175": [
+    [
+      "Elliot See",
+      "was born",
+      "on the 28th February 1966",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was born",
+      "on the 28th in Dallas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was born",
+      "on the 28th",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "has died",
+      "in St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "will be remembered",
+      "as a great student at University of Texas St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "will be remembered",
+      "at Austin St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "will be remembered",
+      "St Louis",
+      "positive"
+    ]
+  ],
+  "176": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas",
+      "positive"
+    ],
+    [
+      "Dallas",
+      "is",
+      "a county in Texas",
+      "positive"
+    ],
+    [
+      "Dallas",
+      "is",
+      "a county",
+      "positive"
+    ],
+    [
+      "He",
+      "attended",
+      "the University of Texas at Austin Texas",
+      "positive"
+    ],
+    [
+      "Texas at Austin",
+      "is affiliated",
+      "to the University of Texas system",
+      "positive"
+    ],
+    [
+      "The University of Texas at Austin",
+      "will be",
+      "part of the Big 12 Conference competition Texas",
+      "positive"
+    ],
+    [
+      "The University of Texas at Austin",
+      "will be",
+      "part Texas",
+      "positive"
+    ]
+  ],
+  "177": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas county",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas at Austin affiliated to the University of Texas system",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas",
+      "positive"
+    ],
+    [
+      "Dallas county",
+      "is",
+      "Texas",
+      "positive"
+    ],
+    [
+      "Austin affiliated to the University of Texas system",
+      "competed",
+      "in the Big 12 conference",
+      "positive"
+    ]
+  ],
+  "178": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas county",
+      "positive"
+    ],
+    [
+      "Dallas county",
+      "is",
+      "Texas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas at Austin affiliated to the University of Texas system",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "attended",
+      "the University of Texas",
+      "positive"
+    ],
+    [
+      "Austin affiliated to the University of Texas system",
+      "will compete",
+      "in the big 12 conference",
+      "positive"
+    ]
+  ],
+  "179": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "was studied",
+      "at the University of Texas in Austin which is affiliated to the university of Texas system",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in St. Louis",
+      "positive"
+    ]
+  ],
+  "181": [
+    [
+      "Elliot See",
+      "was born",
+      "in Dallas",
+      "positive"
+    ],
+    [
+      "Elliot See",
+      "has died",
+      "in St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from the University of Texas St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "at Austin St Louis",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "St Louis",
+      "positive"
+    ],
+    [
+      "Austin",
+      "is affiliated",
+      "to the University of Texas system",
+      "positive"
+    ]
+  ],
+  "182": [
+    [
+      "William Anders",
+      "was",
+      "a member of the Apollo 8 crew operated by NASA",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was",
+      "a member",
+      "positive"
+    ],
+    [
+      "Frank Borman",
+      "was",
+      "on September 1st 1969 the commander of Apollo 8",
+      "positive"
+    ],
+    [
+      "Frank Borman",
+      "was",
+      "on September 1st 1969 the commander",
+      "positive"
+    ],
+    [
+      "Buzz Aldrin",
+      "was",
+      "a pilot back up",
+      "positive"
+    ],
+    [
+      "Buzz Aldrin",
+      "was",
+      "a pilot",
+      "positive"
+    ]
+  ],
+  "183": [
+    [
+      "William Anders",
+      "retired",
+      "on September 1st 1969",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was a crew member",
+      "on Apollo 8 Frank Borman Apollo",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was a crew member",
+      "Frank Borman Apollo",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was served",
+      "under commander Frank Borman Apollo",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was served",
+      "Frank Borman Apollo",
+      "positive"
+    ]
+  ],
+  "184": [
+    [
+      "William Anders",
+      "joined",
+      "NASA",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was",
+      "a member of Apollo 8",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was",
+      "a member along with Frank Borman as Commander and Buzz Aldrin as back up pilot William Anders retired on September 1st 1969",
+      "positive"
+    ],
+    [
+      "William Anders",
+      "was",
+      "a member",
+      "positive"
+    ]
+  ],
+  "185": [
+    [
+      "Akeem Dent",
+      "made",
+      "his debut with the Atlanta Falcons",
+      "positive"
+    ],
+    [
+      "Akeem Dent",
+      "made",
+      "his debut",
+      "positive"
+    ],
+    [
+      "Akeem Dent",
+      "are owned",
+      "by Arthur Blank",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "debut",
+      "positive"
+    ],
+    [
+      "the Atlanta Falcons",
+      "play",
+      "in Atlanta",
+      "positive"
+    ],
+    [
+      "He",
+      "used",
+      "to play in Houston for the Houston Texans Arthur Blank",
+      "positive"
+    ]
+  ],
+  "186": [
+    [
+      "Akeem Dent",
+      "has",
+      "debut team",
+      "positive"
+    ],
+    [
+      "Akeem Dent 's debut team",
+      "was",
+      "the Atlanta Falcons in Atlanta",
+      "positive"
+    ],
+    [
+      "Akeem Dent 's debut team",
+      "was",
+      "the Atlanta Falcons",
+      "positive"
+    ],
+    [
+      "whose",
+      "has",
+      "team",
+      "positive"
+    ],
+    [
+      "owner",
+      "is",
+      "Arthur Blank whose team",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "whose team Arthur Blank also",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "for Houston Texans out of Houston whose team Arthur Blank",
+      "positive"
+    ],
+    [
+      "He",
+      "played",
+      "whose team Arthur Blank",
+      "positive"
+    ]
+  ],
+  "187": [
+    [
+      "Akeem Dent 's debut team",
+      "was",
+      "of Atlanta",
+      "positive"
+    ],
+    [
+      "Akeem Dent",
+      "has",
+      "debut team",
+      "positive"
+    ],
+    [
+      "The Atlanta Falcons",
+      "They are owned",
+      "by Arthur Blank Mr. Dent also played with the Houston Texans out of Houston",
+      "positive"
+    ],
+    [
+      "They",
+      "The Atlanta Falcons are owned",
+      "by Arthur Blank Mr. Dent also played with the Houston Texans out of Houston",
+      "positive"
+    ],
+    [
+      "Arthur Blank Mr. Dent",
+      "be played",
+      "also with the Houston Texans out of Houston",
+      "positive"
+    ],
+    [
+      "Arthur Blank Mr. Dent",
+      "be played",
+      "also",
+      "positive"
+    ]
+  ],
+  "188": [
+    [
+      "Alaa Abdul-Zahra",
+      "has",
+      "plays for the Shabab Al-Ordon Club and the AL Kharaitiyat SC Al Kharaitiyat SC home ground Al Khor",
+      "positive"
+    ],
+    [
+      "Alaa Abdul-Zahra 's plays for the Shabab Al-Ordon Club and the AL Kharaitiyat SC Al Kharaitiyat SC home ground Al Khor",
+      "play",
+      "in the Qatar Stars League",
+      "positive"
+    ],
+    [
+      "Alaa Abdul-Zahra 's plays for the Shabab Al-Ordon Club and the AL Kharaitiyat SC Al Kharaitiyat SC home ground Al Khor",
+      "is managed",
+      "by Amar Osim",
+      "positive"
+    ]
+  ],
+  "189": [
+    [
+      "Alaa Abdul-Zahra 's clubs",
+      "are",
+      "Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "The latter team",
+      "have",
+      "their ground at Al Khor Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "The latter team",
+      "are managed",
+      "by Amar Osim Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "The latter team",
+      "are managed",
+      "Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "The latter team",
+      "play",
+      "in the Qatar Stars League Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "The latter team",
+      "play",
+      "Shabab Al-Ordon Club and Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "their",
+      "has",
+      "ground at Al Khor",
+      "positive"
+    ]
+  ],
+  "190": [
+    [
+      "Alaa Abdul Zahra 's club",
+      "is",
+      "Shabab Al-Ordon",
+      "positive"
+    ],
+    [
+      "he",
+      "plays",
+      "for Al Kharaitiyat SC also",
+      "positive"
+    ],
+    [
+      "he",
+      "plays",
+      "for Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "plays",
+      "in the Qatar Stars league Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "plays",
+      "Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "is managed",
+      "by Amar Osim Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "is managed",
+      "Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "is located",
+      "in Al Khor Al Kharaitiyat SC",
+      "positive"
+    ],
+    [
+      "This latter club",
+      "is located",
+      "Al Kharaitiyat SC",
+      "positive"
+    ]
+  ],
+  "191": [
+    [
+      "Aleksandr Chumakov",
+      "died",
+      "in Russia",
+      "positive"
+    ],
+    [
+      "Aleksandr Chumakov",
+      "belonged",
+      "to FC Torpedo Moscow and the Soviet Union national football team",
+      "positive"
+    ],
+    [
+      "FC Torpedo",
+      "is managed",
+      "by Valery Petrakov FC Torpedo Moscow and the Soviet Union national football team",
+      "positive"
+    ],
+    [
+      "FC Torpedo",
+      "is managed",
+      "FC Torpedo Moscow and the Soviet Union national football team",
+      "positive"
+    ],
+    [
+      "Valentina Matviyenko",
+      "is",
+      "a Russian leader Valery Petrakov",
+      "positive"
+    ]
+  ],
+  "192": [
+    [
+      "Former Soviet Union international footballer Aleksandr Chumakov",
+      "died",
+      "in Russia",
+      "positive"
+    ],
+    [
+      "Former Soviet Union international footballer Aleksandr Chumakov",
+      "died",
+      "where the leader is Valentina Matviyenko FC",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is",
+      "Valentina Matviyenko FC where",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is",
+      "Valentina Matviyenko FC",
+      "positive"
+    ],
+    [
+      "Torpedo Moscow",
+      "be managed",
+      "by Valery Petrakov",
+      "positive"
+    ],
+    [
+      "Torpedo Moscow managed by Valery Petrakov",
+      "signed",
+      "Aleksandr Chumakov Valentina Matviyenko FC once",
+      "positive"
+    ],
+    [
+      "Torpedo Moscow managed by Valery Petrakov",
+      "signed",
+      "Aleksandr Chumakov Valentina Matviyenko FC",
+      "positive"
+    ]
+  ],
+  "193": [
+    [
+      "Aleksandr Chumakov",
+      "died",
+      "in Russia",
+      "positive"
+    ],
+    [
+      "Aleksandr Chumakov",
+      "died",
+      "where Valentina Matviyenko is a leader",
+      "positive"
+    ],
+    [
+      "Valentina Matviyenko",
+      "is",
+      "a leader where",
+      "positive"
+    ],
+    [
+      "Valentina Matviyenko",
+      "is",
+      "a leader",
+      "positive"
+    ],
+    [
+      "He",
+      "belongs",
+      "to the Soviet Union national football team",
+      "positive"
+    ],
+    [
+      "He",
+      "has played",
+      "for FC Torpedo Moscow under the manager Valery Petrakov",
+      "positive"
+    ]
+  ],
+  "194": [
+    [
+      "Aleksandr Prudnikov",
+      "is",
+      "an associate of the youth side of FC Spartak Moscow",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "is",
+      "an associate",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "for the Amkar Perm football club and the Terek Grozny FC FC Spartak Moscow",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "FC Spartak Moscow",
+      "positive"
+    ],
+    [
+      "the Terek Grozny FC",
+      "is managed",
+      "by Rashid Rakhimov",
+      "positive"
+    ],
+    [
+      "The latter football club",
+      "is",
+      "in Grozny Rashid Rakhimov",
+      "positive"
+    ],
+    [
+      "The latter football club",
+      "is",
+      "Rashid Rakhimov",
+      "positive"
+    ]
+  ],
+  "195": [
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for FC Spartak Moscow 's youth team once",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for FC Spartak Moscow 's youth team",
+      "positive"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has",
+      "youth team",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "with the FC Amkar Perm and the FC Terek Grozny",
+      "positive"
+    ],
+    [
+      "the FC Terek Grozny",
+      "is managed",
+      "by Rashid Rakhimov",
+      "positive"
+    ],
+    [
+      "the FC Terek Grozny",
+      "has",
+      "its home territory in Grozny",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "home territory in Grozny",
+      "positive"
+    ]
+  ],
+  "196": [
+    [
+      "Aleksandr Prudnikov",
+      "represented",
+      "FC Spartak Moscow at youth level",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for Grozny based FC Terek Grozny managed by Rashid Rakhimov and FC Amkar Perm football club later",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for Grozny based FC Terek Grozny managed by Rashid Rakhimov and FC Amkar Perm football club",
+      "positive"
+    ],
+    [
+      "Grozny",
+      "be based",
+      "FC Terek Grozny managed by Rashid Rakhimov and FC Amkar Perm football club",
+      "negative"
+    ]
+  ],
+  "197": [
+    [
+      "Alessio Romagnoli",
+      "is connected",
+      "to UC Sampdoria",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "plays",
+      "for the club A.C. Milan",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "plays",
+      "A.C. Milan",
+      "positive"
+    ],
+    [
+      "A.C. Milan",
+      "is",
+      "Silvio Berlusconi",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "is",
+      "in Serie A league",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "is managed",
+      "by Siniša Mihajlović A.C. Milan",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "is managed",
+      "A.C. Milan",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "chaired",
+      "A.C. Milan by",
+      "positive"
+    ]
+  ],
+  "198": [
+    [
+      "Alessio Romagnoli",
+      "has played",
+      "for UC Sampdoria and more recently for Serie A side AC Milan Silvio Berlusconi",
+      "positive"
+    ],
+    [
+      "Serie A side AC Milan",
+      "is managed",
+      "by Siniša Mihajlović",
+      "positive"
+    ]
+  ],
+  "199": [
+    [
+      "Alessio Romagnoli",
+      "is connected",
+      "to UC Sampdoria",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "plays",
+      "for the AC Milan also",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "plays",
+      "for the AC Milan",
+      "positive"
+    ],
+    [
+      "the AC Milan",
+      "are",
+      "in the Serie A league",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "is managed",
+      "by Sinisa Mihajlovic",
+      "positive"
+    ],
+    [
+      "AC Milan",
+      "chaired",
+      "by Silvio Berlusconi",
+      "positive"
+    ]
+  ],
+  "200": [
+    [
+      "Alessio Romagnoli",
+      "belongs",
+      "to A.C. Milan",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "plays",
+      "for U.C. Sampdoria and Italy 's national under-17 football team",
+      "positive"
+    ],
+    [
+      "Italy",
+      "has",
+      "national under-17 football team",
+      "positive"
+    ],
+    [
+      "A C Milan",
+      "is managed",
+      "by Siniša Mihajlović",
+      "positive"
+    ],
+    [
+      "A C Milan",
+      "includes",
+      "chairman Silvio Berlusconi",
+      "positive"
+    ]
+  ],
+  "201": [
+    [
+      "Alessio Romagnoli",
+      "is",
+      "a member of the Italian national under 17 football team",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "is",
+      "a member",
+      "positive"
+    ],
+    [
+      "Alessio Romagnoli",
+      "has represented",
+      "the club U.C. Sampdoria",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "presently the club U.C. Sampdoria",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "with the AC Milan the club U.C. Sampdoria",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "the club U.C. Sampdoria",
+      "positive"
+    ],
+    [
+      "that",
+      "is managed",
+      "by Siniša Mihajlović",
+      "positive"
+    ],
+    [
+      "whose chairman",
+      "is",
+      "Silvio Berlusconi",
+      "positive"
+    ]
+  ],
+  "202": [
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for FC Spartak Moscow 's youth team",
+      "positive"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has",
+      "youth team",
+      "positive"
+    ],
+    [
+      "He",
+      "has been signed",
+      "to Grozy later for FC Dynamo Moscow",
+      "positive"
+    ],
+    [
+      "He",
+      "has been signed",
+      "to Grozy also",
+      "positive"
+    ],
+    [
+      "He",
+      "has been signed",
+      "to Grozy based FC Terek Grozny",
+      "positive"
+    ],
+    [
+      "He",
+      "has been signed",
+      "to Grozy",
+      "positive"
+    ],
+    [
+      "FC Terek Grozny",
+      "are managed",
+      "by Rashid Rakhimov",
+      "positive"
+    ]
+  ],
+  "203": [
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for FC Spartak Moscow 's youth team once",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "played",
+      "for FC Spartak Moscow 's youth team",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "plays",
+      "for the FC Dynamo Moscow and the FC Terek Grozny out of Grozny once",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "plays",
+      "for the FC Dynamo Moscow and the FC Terek Grozny out of Grozny now",
+      "positive"
+    ],
+    [
+      "Aleksandr Prudnikov",
+      "plays",
+      "for the FC Dynamo Moscow and the FC Terek Grozny out of Grozny",
+      "positive"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has",
+      "youth team",
+      "positive"
+    ],
+    [
+      "The FC Terek Grozny",
+      "sees",
+      "a manager in Rashid Rakhimov Grozny",
+      "positive"
+    ]
+  ],
+  "204": [
+    [
+      "Aleksandr Prudnikov 's club",
+      "is",
+      "FC Dynamo Moscow although he previously played for FC Spartak Moscow 's youth team",
+      "positive"
+    ],
+    [
+      "he",
+      "played",
+      "for FC Spartak Moscow 's youth team previously",
+      "positive"
+    ],
+    [
+      "he",
+      "played",
+      "for FC Spartak Moscow 's youth team",
+      "positive"
+    ],
+    [
+      "FC Spartak Moscow",
+      "has",
+      "youth team",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "currently in the Grozny based FC Terek Grozny club under their manager",
+      "positive"
+    ],
+    [
+      "He",
+      "is",
+      "currently",
+      "positive"
+    ],
+    [
+      "the Grozny",
+      "be based",
+      "FC Terek Grozny club under their manager",
+      "positive"
+    ],
+    [
+      "their",
+      "has",
+      "manager",
+      "positive"
+    ],
+    [
+      "their manager",
+      "is",
+      "Rashid Rakhimov",
+      "positive"
+    ]
+  ],
+  "205": [
+    [
+      "Akeem Adams",
+      "has",
+      "former clubs",
+      "positive"
+    ],
+    [
+      "Akeem Adams former clubs",
+      "include",
+      "United Petrotrin FC and Ferencvarosi TC",
+      "positive"
+    ],
+    [
+      "United Petrotrin FC and Ferencvarosi TC",
+      "play",
+      "at Palo Seco",
+      "positive"
+    ],
+    [
+      "Thomas Doll",
+      "is",
+      "the manager Ferencvarosi TC where",
+      "positive"
+    ],
+    [
+      "Thomas Doll",
+      "is",
+      "the manager Ferencvarosi TC",
+      "positive"
+    ],
+    [
+      "Gabor Kubatov",
+      "is",
+      "the chairman",
+      "positive"
+    ]
+  ],
+  "206": [
+    [
+      "Akeem Adams",
+      "is",
+      "a member of the United Petrotrin F.C. club",
+      "positive"
+    ],
+    [
+      "Akeem Adams",
+      "is",
+      "a member",
+      "positive"
+    ],
+    [
+      "The latter club",
+      "has",
+      "ground",
+      "positive"
+    ],
+    [
+      "The latter club ground",
+      "is",
+      "Palo Seco",
+      "positive"
+    ],
+    [
+      "The latter club",
+      "is chaired",
+      "by Gabor Kubatov",
+      "positive"
+    ],
+    [
+      "The latter club",
+      "is managed",
+      "by Thomas Doll",
+      "positive"
+    ]
+  ],
+  "207": [
+    [
+      "Akeem Adams",
+      "is",
+      "a member of the United Petrotrin F.C. club",
+      "positive"
+    ],
+    [
+      "Akeem Adams",
+      "is",
+      "a member",
+      "positive"
+    ],
+    [
+      "the United Petrotrin F.C. club",
+      "have",
+      "their ground at Palo Seco",
+      "positive"
+    ],
+    [
+      "the United Petrotrin F.C. club",
+      "have",
+      "their ground",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "for Ferencvarosi TC Palo Seco",
+      "positive"
+    ],
+    [
+      "He",
+      "plays",
+      "Palo Seco",
+      "positive"
+    ],
+    [
+      "Ferencvarosi TC",
+      "is managed",
+      "by Thomas Doll",
+      "positive"
+    ],
+    [
+      "Ferencvarosi TC",
+      "chaired",
+      "by Gabor Kubatov",
+      "positive"
+    ]
+  ],
+  "208": [
+    [
+      "Akeem Ayers",
+      "has",
+      "former team",
+      "positive"
+    ],
+    [
+      "Akeem Ayers former team",
+      "was",
+      "the Los Angeles Rams",
+      "positive"
+    ],
+    [
+      "the Los Angeles Rams",
+      "are based",
+      "in LA",
+      "positive"
+    ],
+    [
+      "the Los Angeles Rams",
+      "play",
+      "their home matches at the Los Angeles Memorial Coliseum",
+      "positive"
+    ],
+    [
+      "their",
+      "has",
+      "home",
+      "positive"
+    ],
+    [
+      "their home",
+      "matches",
+      "at the Los Angeles Memorial Coliseum",
+      "positive"
+    ],
+    [
+      "His",
+      "has",
+      "debut team",
+      "positive"
+    ],
+    [
+      "His debut team",
+      "were",
+      "the Tennessee Titans the Los Angeles Memorial Coliseum",
+      "positive"
+    ],
+    [
+      "the Tennessee Titans",
+      "are coached",
+      "by Mike Mularkey",
+      "positive"
+    ]
+  ],
+  "209": [
+    [
+      "Akeem Ayers",
+      "debuted",
+      "with the Tennessee Titans",
+      "positive"
+    ],
+    [
+      "Akeem Ayers",
+      "played",
+      "with Los Angeles based Los Angeles Rams",
+      "positive"
+    ],
+    [
+      "The Titans",
+      "are coached",
+      "Akeem Ayers debuted with the Tennessee Titans and played with Los Angeles based Los Angeles Rams who play at the Los Angeles Memorial Coliseum by Mike Mularkey",
+      "positive"
+    ],
+    [
+      "The Titans",
+      "are coached",
+      "Akeem Ayers debuted with the Tennessee Titans and played with Los Angeles based Los Angeles Rams who play at the Los Angeles Memorial Coliseum",
+      "positive"
+    ]
+  ],
+  "210": [
+    [
+      "The debut team of Akeem Ayers",
+      "was",
+      "the Tennessee Titans",
+      "positive"
+    ],
+    [
+      "The debut team of Akeem Ayers",
+      "played",
+      "for the L.A. based Los Angeles Rams also",
+      "positive"
+    ],
+    [
+      "The debut team of Akeem Ayers",
+      "played",
+      "for the L.A. based Los Angeles Rams",
+      "positive"
+    ],
+    [
+      "The debut team of Akeem Ayers was the Tennessee Titans and also played for the L.A. based Los Angeles Rams",
+      "is",
+      "Mike Mularkey coach",
+      "positive"
+    ],
+    [
+      "the L.A.",
+      "be based",
+      "Los Angeles Rams",
+      "positive"
+    ],
+    [
+      "The LA Memorial Coliseum",
+      "is",
+      "the Rams home grounds Los Angeles Rams",
+      "positive"
+    ]
+  ],
+  "211": [
+    [
+      "20 Fenchurch Street",
+      "is located",
+      "within the United Kingdom",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "pounds",
+      "positive"
+    ],
+    [
+      "sterling Boris Johnson",
+      "is",
+      "the leader in London pounds and one of the leaders of the United Kingdom is Elizabeth II",
+      "positive"
+    ],
+    [
+      "sterling Boris Johnson",
+      "is",
+      "the leader pounds and one of the leaders of the United Kingdom is Elizabeth II",
+      "positive"
+    ],
+    [
+      "one of the leaders of the United Kingdom",
+      "is",
+      "Elizabeth II",
+      "positive"
+    ]
+  ],
+  "212": [
+    [
+      "The United Kingdom",
+      "uses",
+      "the currency of the pound sterling",
+      "positive"
+    ],
+    [
+      "The United Kingdom",
+      "is led",
+      "by Elizabeth II along with Boris Johnson",
+      "positive"
+    ],
+    [
+      "The capital city",
+      "is",
+      "London and the country Boris Johnson",
+      "positive"
+    ],
+    [
+      "Fenchurch Street",
+      "is",
+      "The United Kingdom uses the currency of the pound sterling and is led by Elizabeth II along with Boris Johnson the location also",
+      "positive"
+    ],
+    [
+      "Fenchurch Street",
+      "is",
+      "The United Kingdom uses the currency of the pound sterling and is led by Elizabeth II along with Boris Johnson the location of 20",
+      "positive"
+    ],
+    [
+      "Fenchurch Street",
+      "is",
+      "The United Kingdom uses the currency of the pound sterling and is led by Elizabeth II along with Boris Johnson the location",
+      "positive"
+    ]
+  ],
+  "213": [
+    [
+      "250 Delaware Avenue",
+      "was built",
+      "in Buffalo New York at a cost of 110 million dollars",
+      "positive"
+    ],
+    [
+      "250 Delaware Avenue",
+      "was built",
+      "in Buffalo New York",
+      "positive"
+    ],
+    [
+      "Construction",
+      "began",
+      "in January 2014",
+      "positive"
+    ],
+    [
+      "the building",
+      "has",
+      "12 floors with an area of 30843.8 square metres",
+      "positive"
+    ]
+  ],
+  "214": [
+    [
+      "Delaware Avenue in Buffalo York Construction",
+      "There are",
+      "12 floors at 250",
+      "positive"
+    ],
+    [
+      "Buffalo York Construction",
+      "is",
+      "New",
+      "positive"
+    ],
+    [
+      "Buffalo York Construction",
+      "began",
+      "in January 2014 cost 110 million dollars for a floor area of 30843.8 square metres",
+      "positive"
+    ],
+    [
+      "Buffalo York Construction",
+      "began",
+      "110 million dollars for a floor area of 30843.8 square metres",
+      "positive"
+    ]
+  ],
+  "215": [
+    [
+      "Rahm Emanuel",
+      "is",
+      "the leader of Chicago",
+      "positive"
+    ],
+    [
+      "Rahm Emanuel",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "Chicago",
+      "is",
+      "DuPage County",
+      "positive"
+    ],
+    [
+      "DuPage County",
+      "is",
+      "Illinois",
+      "positive"
+    ],
+    [
+      "DuPage County",
+      "is",
+      "United States",
+      "positive"
+    ],
+    [
+      "United States",
+      "is",
+      "the location of the building at 300 North LaSalle",
+      "positive"
+    ],
+    [
+      "United States",
+      "is",
+      "the location",
+      "positive"
+    ],
+    [
+      "300 North LaSalle",
+      "has",
+      "60 floors",
+      "positive"
+    ]
+  ],
+  "216": [
+    [
+      "300 North LaSalle",
+      "has",
+      "60 floors",
+      "positive"
+    ],
+    [
+      "300 North LaSalle",
+      "is located",
+      "in Chicago",
+      "positive"
+    ],
+    [
+      "DuPage County States",
+      "is",
+      "Illinois",
+      "positive"
+    ],
+    [
+      "DuPage County States",
+      "is",
+      "United",
+      "positive"
+    ],
+    [
+      "The leader of Chicago",
+      "is",
+      "Rahm Emanuel DuPage County States",
+      "positive"
+    ]
+  ],
+  "217": [
+    [
+      "300 North LaSalle",
+      "has",
+      "60 floors",
+      "positive"
+    ],
+    [
+      "300 North LaSalle",
+      "is located",
+      "in Chicago",
+      "positive"
+    ],
+    [
+      "Chicago",
+      "is",
+      "part of DuPage County in Illinois States",
+      "positive"
+    ],
+    [
+      "Chicago",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "Illinois States",
+      "is",
+      "United",
+      "positive"
+    ],
+    [
+      "The leader of Chicago",
+      "is",
+      "Rahm Emanuel Illinois States",
+      "positive"
+    ]
+  ],
+  "218": [
+    [
+      "3Arena owned by Live Nation Entertainment",
+      "is located",
+      "in Dublin",
+      "positive"
+    ],
+    [
+      "Republic of Ireland Dáil Éireann",
+      "is",
+      "a leader 3Arena owned by Live Nation Entertainment is located in Dublin in Dublin",
+      "positive"
+    ],
+    [
+      "Republic of Ireland Dáil Éireann",
+      "is",
+      "a leader 3Arena owned by Live Nation Entertainment is located in Dublin",
+      "positive"
+    ],
+    [
+      "Dublin",
+      "is",
+      "part of Leinster",
+      "positive"
+    ],
+    [
+      "Dublin",
+      "is",
+      "part",
+      "positive"
+    ]
+  ],
+  "219": [
+    [
+      "3Arena",
+      "be owned",
+      "by Live Nation Entertainment",
+      "positive"
+    ],
+    [
+      "3Arena owned by Live Nation Entertainment",
+      "is located",
+      "in Dublin",
+      "positive"
+    ],
+    [
+      "Dáil Éireann",
+      "is",
+      "a leader in Dublin Ireland",
+      "positive"
+    ],
+    [
+      "Dáil Éireann",
+      "is",
+      "a leader Ireland",
+      "positive"
+    ]
+  ],
+  "220": [
+    [
+      "3Arena",
+      "be Located",
+      "in Dublin Leinster",
+      "positive"
+    ],
+    [
+      "3Arena",
+      "is owned",
+      "by Live Nation Entertainment Dublin Located in Dublin Leinster",
+      "positive"
+    ],
+    [
+      "3Arena",
+      "is owned",
+      "by Live Nation Entertainment Dublin",
+      "positive"
+    ],
+    [
+      "3Arena",
+      "is led",
+      "by Dáil Éireann Located in Dublin Leinster",
+      "positive"
+    ],
+    [
+      "3Arena",
+      "is led",
+      "by Dáil Éireann",
+      "positive"
+    ]
+  ],
+  "221": [
+    [
+      "Adisham Hall in Sri Lanka",
+      "was constructed",
+      "between 1927 and 1931 at St Benedict 's Monastery Lanka in the Tudor and Jacobean style of architecture",
+      "positive"
+    ],
+    [
+      "Adisham Hall in Sri Lanka",
+      "was constructed",
+      "between 1927 and 1931",
+      "positive"
+    ],
+    [
+      "Monastery Lanka in the Tudor and Jacobean style of architecture",
+      "is",
+      "Adisham",
+      "positive"
+    ],
+    [
+      "Monastery Lanka in the Tudor and Jacobean style of architecture",
+      "is",
+      "Sri",
+      "positive"
+    ]
+  ],
+  "222": [
+    [
+      "Construction of Adisham Hall",
+      "took",
+      "place between 1927 and 1931 in the architectural style of Tudor and Jacobean",
+      "positive"
+    ],
+    [
+      "It",
+      "is located",
+      "at St Benedict 's Monastery Lanka Jacobean",
+      "positive"
+    ],
+    [
+      "It",
+      "is located",
+      "Jacobean",
+      "positive"
+    ],
+    [
+      "Monastery Lanka",
+      "is",
+      "Sri",
+      "positive"
+    ],
+    [
+      "Monastery Lanka",
+      "is",
+      "Adisham",
+      "positive"
+    ],
+    [
+      "Monastery Lanka",
+      "is",
+      "Haputhale",
+      "positive"
+    ]
+  ],
+  "223": [
+    [
+      "Adisham Hall",
+      "is located",
+      "in Haputale Lanka",
+      "positive"
+    ],
+    [
+      "Haputale Lanka",
+      "is",
+      "Sri",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka is Sri Jayawardenepura Kotte",
+      "is",
+      "the language used in the country is Tamil and the currency is the Sri Lankan Rupee",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka",
+      "is",
+      "Sri Jayawardenepura Kotte Haputale Lanka",
+      "positive"
+    ],
+    [
+      "the language",
+      "be used",
+      "in the country is Tamil and the currency is the Sri Lankan Rupee",
+      "positive"
+    ],
+    [
+      "the country",
+      "is",
+      "Tamil",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan Rupee",
+      "positive"
+    ]
+  ],
+  "224": [
+    [
+      "Adisham Hall",
+      "is",
+      "in Haputale Lanka",
+      "positive"
+    ],
+    [
+      "Haputale Lanka",
+      "is",
+      "Sri",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka is Sri Jayawardenepura Kotte and the currency is the Sri Lankan Rupee",
+      "is",
+      "the language spoken there is Tamil",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka",
+      "is",
+      "Sri Jayawardenepura Kotte Haputale Lanka",
+      "positive"
+    ],
+    [
+      "the language",
+      "be spoken",
+      "there is Tamil",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan Rupee",
+      "positive"
+    ]
+  ],
+  "225": [
+    [
+      "Adisham Hall",
+      "is located",
+      "at Haputale",
+      "positive"
+    ],
+    [
+      "Sri Lanka Sri Jayawardenepura Kotte",
+      "is",
+      "the capital of Sri Lanka",
+      "positive"
+    ],
+    [
+      "Sri Lanka Sri Jayawardenepura Kotte",
+      "is",
+      "the capital",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan Rupee Sri Lanka where",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan Rupee Sri Lanka",
+      "positive"
+    ],
+    [
+      "the language used",
+      "is",
+      "Tamil",
+      "positive"
+    ]
+  ],
+  "226": [
+    [
+      "Ranil Wickremesinghe",
+      "is",
+      "the leader of Sri Lanka",
+      "positive"
+    ],
+    [
+      "Ranil Wickremesinghe",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan rupee",
+      "positive"
+    ],
+    [
+      "Adisham Hall",
+      "is located",
+      "in the country at Haputale the Sri Lankan rupee",
+      "positive"
+    ],
+    [
+      "Adisham Hall",
+      "is located",
+      "the Sri Lankan rupee",
+      "positive"
+    ]
+  ],
+  "227": [
+    [
+      "Adisham Hall",
+      "is located",
+      "in Haputale Lanka",
+      "positive"
+    ],
+    [
+      "Haputale Lanka",
+      "is",
+      "Sri",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka",
+      "is",
+      "Sri Jayawardenepura Kotte with Ranil Wickremesinghe as its leader and the Rupee as its currency Haputale Lanka",
+      "positive"
+    ],
+    [
+      "The capital of Sri Lanka",
+      "is",
+      "Sri Jayawardenepura Kotte Haputale Lanka",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "leader",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "currency",
+      "positive"
+    ]
+  ],
+  "228": [
+    [
+      "Adisham Hall",
+      "is located",
+      "in Haputale Lanka",
+      "positive"
+    ],
+    [
+      "Haputale Lanka",
+      "is",
+      "Sri",
+      "positive"
+    ],
+    [
+      "the capital",
+      "is called",
+      "Sri Jayawardenepura Kotte Haputale Lanka where",
+      "positive"
+    ],
+    [
+      "the capital",
+      "is called",
+      "Sri Jayawardenepura Kotte Haputale Lanka",
+      "positive"
+    ],
+    [
+      "Ranil Wickremesinghe",
+      "is",
+      "a leader of Sri Lanka Sri Jayawardenepura Kotte",
+      "positive"
+    ],
+    [
+      "Ranil Wickremesinghe",
+      "is",
+      "a leader Sri Jayawardenepura Kotte",
+      "positive"
+    ],
+    [
+      "the currency",
+      "is",
+      "the Sri Lankan rupee",
+      "positive"
+    ]
+  ],
+  "229": [
+    [
+      "The main ethnic group in Japan",
+      "are",
+      "the Japanese",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is",
+      "Tarō Asō",
+      "positive"
+    ],
+    [
+      "Akita Museum of Art",
+      "is",
+      "in Akita Akita Tarō Asō",
+      "positive"
+    ],
+    [
+      "Akita Museum of Art",
+      "is",
+      "Tarō Asō",
+      "positive"
+    ],
+    [
+      "Akita Akita",
+      "is",
+      "part of Japan and the Akita Prefecture",
+      "positive"
+    ],
+    [
+      "Akita Akita",
+      "is",
+      "part",
+      "positive"
+    ]
+  ],
+  "230": [
+    [
+      "The Akita Museum of Art",
+      "is located",
+      "in Akita Akita",
+      "positive"
+    ],
+    [
+      "Akita Akita",
+      "is located",
+      "in Japan",
+      "positive"
+    ],
+    [
+      "The leader of Japan",
+      "is",
+      "Taro Aso Japan",
+      "positive"
+    ],
+    [
+      "the main ethnic group in Japan",
+      "is",
+      "the Japanese Akita Akita is part of Akita Prefecture",
+      "positive"
+    ],
+    [
+      "the Japanese Akita Akita",
+      "is",
+      "part of Akita Prefecture",
+      "positive"
+    ],
+    [
+      "the Japanese Akita Akita",
+      "is",
+      "part",
+      "positive"
+    ]
+  ],
+  "231": [
+    [
+      "Akita Museum of Art",
+      "is",
+      "in the city of Akita the leader is Taro Aso and Akita Akita is part of Akita Prefecture",
+      "positive"
+    ],
+    [
+      "Akita Museum of Art",
+      "is",
+      "the leader is Taro Aso and Akita Akita is part of Akita Prefecture",
+      "positive"
+    ],
+    [
+      "Akita",
+      "is",
+      "Japan",
+      "positive"
+    ],
+    [
+      "The main ethnic group in Japan",
+      "are",
+      "the Japanese Japan",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is",
+      "Taro Aso and Akita",
+      "positive"
+    ],
+    [
+      "Akita",
+      "is",
+      "part of Akita Prefecture",
+      "positive"
+    ],
+    [
+      "Akita",
+      "is",
+      "part",
+      "positive"
+    ]
+  ],
+  "232": [
+    [
+      "Amdavad ni Gufa",
+      "is located",
+      "in Gujarat Ahmedabad is known as the Gujarat Legislative Assembly",
+      "positive"
+    ],
+    [
+      "Amdavad ni Gufa",
+      "is located",
+      "Ahmedabad is known as the Gujarat Legislative Assembly",
+      "positive"
+    ],
+    [
+      "Ahmedabad",
+      "is",
+      "India Gujarat 's leader",
+      "positive"
+    ],
+    [
+      "Gujarat",
+      "has",
+      "leader",
+      "positive"
+    ],
+    [
+      "Ahmedabad",
+      "is known",
+      "as the Gujarat Legislative Assembly",
+      "positive"
+    ],
+    [
+      "the leader of India",
+      "is",
+      "Narendra Modi",
+      "positive"
+    ]
+  ],
+  "233": [
+    [
+      "Amdavad ni Gufa",
+      "is located",
+      "in Gujarat Ahmedabad",
+      "positive"
+    ],
+    [
+      "Gujarat Ahmedabad",
+      "is",
+      "in India",
+      "positive"
+    ],
+    [
+      "The leader of India",
+      "is",
+      "Narendra Modi India",
+      "positive"
+    ],
+    [
+      "the leader of Gujarat",
+      "is",
+      "the Gujarat Legislative Assembly",
+      "positive"
+    ]
+  ],
+  "234": [
+    [
+      "Amdavad ni Gufa",
+      "is",
+      "in Gujarat Ahmedabad",
+      "positive"
+    ],
+    [
+      "Gujarat Ahmedabad",
+      "is",
+      "in India",
+      "positive"
+    ],
+    [
+      "Gujarat",
+      "has",
+      "leader",
+      "positive"
+    ],
+    [
+      "Gujarat 's leader",
+      "is",
+      "the Gujarat Legislative Assembly and Narendra Modi is the prime minister of India India",
+      "positive"
+    ],
+    [
+      "the Gujarat Legislative Assembly and Narendra Modi",
+      "is",
+      "the prime minister of India",
+      "positive"
+    ],
+    [
+      "the Gujarat Legislative Assembly and Narendra Modi",
+      "is",
+      "the prime minister",
+      "positive"
+    ]
+  ],
+  "235": [
+    [
+      "Amdavad ni Gufa",
+      "is located",
+      "in Ahmedabad India led by the Gujarat Legislative Assembly including leader T S Thakur",
+      "positive"
+    ],
+    [
+      "Ahmedabad India led by the Gujarat Legislative Assembly including leader T S Thakur",
+      "is",
+      "Gujarat",
+      "positive"
+    ],
+    [
+      "Ahmedabad India",
+      "be led",
+      "by the Gujarat Legislative Assembly including leader T S Thakur",
+      "positive"
+    ],
+    [
+      "Ahmedabad India",
+      "be led",
+      "by the Gujarat Legislative Assembly",
+      "positive"
+    ]
+  ],
+  "236": [
+    [
+      "The 476 bed Ampara Hospital",
+      "is situated",
+      "in the Eastern Province state of Sri Lanka",
+      "positive"
+    ],
+    [
+      "Austin Fernando",
+      "is",
+      "the leader Sri Lanka where",
+      "positive"
+    ],
+    [
+      "Austin Fernando",
+      "is",
+      "the leader Sri Lanka",
+      "positive"
+    ],
+    [
+      "The country 's leader",
+      "is",
+      "The 476 bed Ampara Hospital is situated in the Eastern Province state of Sri Lanka Ranil Wickremesinghe",
+      "positive"
+    ]
+  ],
+  "237": [
+    [
+      "Ampara Hospital",
+      "has",
+      "476 beds",
+      "positive"
+    ],
+    [
+      "Ampara Hospital",
+      "is located",
+      "in the Eastern Province of Sri Lanka led by Austin Fernando",
+      "positive"
+    ],
+    [
+      "Sri Lanka",
+      "be led",
+      "by Austin Fernando",
+      "positive"
+    ],
+    [
+      "The leader of Sri Lanka",
+      "is",
+      "Ranil Wickremesinghe Austin Fernando",
+      "positive"
+    ]
+  ],
+  "238": [
+    [
+      "Austin Fernando",
+      "is",
+      "the leader Sri Lanka where",
+      "positive"
+    ],
+    [
+      "Austin Fernando",
+      "is",
+      "the leader Sri Lanka",
+      "positive"
+    ]
+  ],
+  "239": [
+    [
+      "Julia Morgan",
+      "was born",
+      "in California",
+      "positive"
+    ],
+    [
+      "Julia Morgan",
+      "designed",
+      "the Asilomar Conference Grounds the Los Angeles Herald examiner building The Riverside Art Museum and Hearst Castle",
+      "positive"
+    ]
+  ],
+  "240": [
+    [
+      "Julia Morgan",
+      "was",
+      "an architect born in California",
+      "positive"
+    ],
+    [
+      "Julia Morgan",
+      "was",
+      "an architect",
+      "positive"
+    ],
+    [
+      "an architect",
+      "be born",
+      "in California",
+      "positive"
+    ],
+    [
+      "She",
+      "designed",
+      "Asilomar Conference Grounds The Riverside Art Museum Hearst Castle and the Los Angeles Herald Examiner building California",
+      "positive"
+    ]
+  ],
+  "241": [
+    [
+      "Asilomar Conference Grounds",
+      "were designed",
+      "by Julia Morgan born in California",
+      "positive"
+    ],
+    [
+      "Julia Morgan born in California",
+      "is known",
+      "for a number of buildings including Hearst Castle and The Riverside Art Museum and her work in San Francisco 's Chinatown",
+      "positive"
+    ],
+    [
+      "her",
+      "has",
+      "work in San Francisco 's Chinatown",
+      "positive"
+    ],
+    [
+      "San Francisco",
+      "has",
+      "Chinatown",
+      "positive"
+    ]
+  ],
+  "242": [
+    [
+      "Julia Morgan",
+      "is",
+      "the architect",
+      "positive"
+    ],
+    [
+      "Julia Morgan",
+      "was born",
+      "in California",
+      "positive"
+    ],
+    [
+      "her",
+      "has",
+      "significant projects",
+      "positive"
+    ],
+    [
+      "some of her significant projects",
+      "include",
+      "the Asilomar Conference Grounds The Riverside Art Museum Hearst Castle and some buildings in Chinatown Francisco",
+      "positive"
+    ],
+    [
+      "Chinatown Francisco",
+      "is",
+      "San",
+      "positive"
+    ]
+  ],
+  "243": [
+    [
+      "Julia Morgan",
+      "be born",
+      "in California",
+      "positive"
+    ],
+    [
+      "Julia Morgan born in California",
+      "was",
+      "the architect behind the grounds of Asilomar Conference the Riverside Art Museum Hearst Castle and Chinatown",
+      "positive"
+    ],
+    [
+      "Julia Morgan born in California",
+      "was",
+      "the architect in San Francisco",
+      "positive"
+    ],
+    [
+      "Julia Morgan born in California",
+      "was",
+      "the architect",
+      "positive"
+    ]
+  ],
+  "244": [
+    [
+      "1987 with reference number 87000823",
+      "were added",
+      "to the National Register of Historic Places on February 27th",
+      "positive"
+    ],
+    [
+      "1987 with reference number 87000823",
+      "were added",
+      "to the National Register of Historic Places",
+      "positive"
+    ],
+    [
+      "The Asilomar Conference Grounds",
+      "The grounds are",
+      "in the architectural style of the Arts and Crafts Movement",
+      "positive"
+    ],
+    [
+      "The grounds",
+      "The Asilomar Conference Grounds are",
+      "in the architectural style of the Arts and Crafts Movement",
+      "positive"
+    ]
+  ],
+  "245": [
+    [
+      "Asilomar Conference Grounds",
+      "are located",
+      "in Pacific Grove",
+      "positive"
+    ],
+    [
+      "They",
+      "were constructed",
+      "in 1913 California",
+      "positive"
+    ],
+    [
+      "They",
+      "were constructed",
+      "with the architectural style of the Arts and Crafts Movement California",
+      "positive"
+    ],
+    [
+      "They",
+      "were constructed",
+      "California",
+      "positive"
+    ],
+    [
+      "They",
+      "were added",
+      "to the National Register of Historic Places on 27 February 1987",
+      "positive"
+    ],
+    [
+      "They",
+      "were added",
+      "to the National Register of Historic Places on 27 with reference number 87000823",
+      "positive"
+    ],
+    [
+      "They",
+      "were added",
+      "to the National Register of Historic Places on 27",
+      "positive"
+    ]
+  ],
+  "246": [
+    [
+      "The Asilomar Conference Grounds",
+      "were constructed",
+      "in 1913",
+      "positive"
+    ],
+    [
+      "The Asilomar Conference Grounds",
+      "are",
+      "in Pacific Grove 87000823",
+      "positive"
+    ],
+    [
+      "The Asilomar Conference Grounds",
+      "were added to the National Register of Historic Places on 27 February 1987 with the reference number",
+      "87000823 in Pacific Grove",
+      "positive"
+    ],
+    [
+      "The Asilomar Conference Grounds",
+      "are",
+      "87000823",
+      "positive"
+    ],
+    [
+      "The Asilomar Conference Grounds",
+      "were added to the National Register of Historic Places on 27 February 1987 with the reference number",
+      "87000823",
+      "positive"
+    ],
+    [
+      "Pacific Grove",
+      "is",
+      "California",
+      "positive"
+    ],
+    [
+      "They",
+      "have",
+      "an Arts and Crafts movement style architecture California",
+      "positive"
+    ]
+  ],
+  "247": [
+    [
+      "Asser Levy Public Baths",
+      "be built",
+      "in 1904 in a Romanesque Revival style",
+      "positive"
+    ],
+    [
+      "Asser Levy Public Baths",
+      "be built",
+      "in 1904",
+      "positive"
+    ],
+    [
+      "Asser Levy Public Baths built in 1904 in a Romanesque Revival style",
+      "is located",
+      "at 23rd Street",
+      "positive"
+    ],
+    [
+      "23rd Street",
+      "is",
+      "Manhattan",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "to the National Register of Historic Places on 1980-04-23",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "to the National Register of Historic Places with Reference Number 80002709",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "to the National Register of Historic Places",
+      "positive"
+    ]
+  ],
+  "248": [
+    [
+      "The Asser Levy Public baths",
+      "are located",
+      "on 23rd Street in Manhattan",
+      "positive"
+    ],
+    [
+      "The Asser Levy Public baths",
+      "have",
+      "the Romanesque Revival style of architecture",
+      "positive"
+    ]
+  ],
+  "249": [
+    [
+      "The Asser Levy Public Baths",
+      "was built",
+      "in 1904 in the architectural style of Romanesque Revival",
+      "positive"
+    ],
+    [
+      "The Asser Levy Public Baths",
+      "was built",
+      "in 1904",
+      "positive"
+    ],
+    [
+      "The Asser Levy Public Baths",
+      "is located",
+      "on 23rd Street",
+      "positive"
+    ],
+    [
+      "23rd Street",
+      "is",
+      "Manhattan",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "to the National Register of Historic Places Manhattan",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "on 1980-04-23 Manhattan",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "with reference number 80002709 Manhattan",
+      "positive"
+    ],
+    [
+      "The site",
+      "was added",
+      "Manhattan",
+      "positive"
+    ]
+  ],
+  "250": [
+    [
+      "The Asser Levy Public Baths",
+      "are found",
+      "in New York City",
+      "positive"
+    ],
+    [
+      "New York City",
+      "is",
+      "New York States",
+      "positive"
+    ],
+    [
+      "New York States",
+      "is",
+      "United",
+      "positive"
+    ],
+    [
+      "Another part of New York City",
+      "is",
+      "Manhattan New York States",
+      "positive"
+    ],
+    [
+      "Gale Brewer",
+      "is",
+      "the leader Manhattan where",
+      "positive"
+    ],
+    [
+      "Gale Brewer",
+      "is",
+      "the leader Manhattan",
+      "positive"
+    ]
+  ],
+  "251": [
+    [
+      "Gale Brewer",
+      "is",
+      "the leader of Manhattan",
+      "positive"
+    ],
+    [
+      "Gale Brewer",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "the leader of Manhattan",
+      "is",
+      "part of New York City",
+      "positive"
+    ],
+    [
+      "the leader of Manhattan",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "New York City",
+      "is",
+      "New York",
+      "positive"
+    ],
+    [
+      "United States New York City",
+      "is",
+      "the location Gale Brewer is the leader of Manhattan of Asser Levy Public Baths",
+      "positive"
+    ],
+    [
+      "United States New York City",
+      "is",
+      "the location Gale Brewer is the leader of Manhattan",
+      "positive"
+    ]
+  ],
+  "252": [
+    [
+      "The location of Asser Levy Public Baths",
+      "are",
+      "New York City US New York City and Manhattan The leader of Manhattan",
+      "positive"
+    ]
+  ],
+  "253": [
+    [
+      "103 Colmore Row",
+      "was designed",
+      "by the architect John Madin",
+      "positive"
+    ],
+    [
+      "John Madin",
+      "was born",
+      "in Birmingham",
+      "positive"
+    ],
+    [
+      "Andrew Mitchell",
+      "is",
+      "the leader where the postal code is B",
+      "positive"
+    ],
+    [
+      "Andrew Mitchell",
+      "is",
+      "the leader of the city",
+      "positive"
+    ],
+    [
+      "Andrew Mitchell",
+      "is",
+      "the leader",
+      "positive"
+    ],
+    [
+      "Birmingham City Council",
+      "is",
+      "the governing body",
+      "positive"
+    ]
+  ],
+  "254": [
+    [
+      "The City Council",
+      "is",
+      "the governing body for Birmingham",
+      "positive"
+    ],
+    [
+      "The City Council",
+      "is",
+      "the governing body",
+      "positive"
+    ],
+    [
+      "Andrew Mitchell",
+      "is",
+      "a leader the governing body for Birmingham where",
+      "positive"
+    ],
+    [
+      "Andrew Mitchell",
+      "is",
+      "a leader the governing body for Birmingham",
+      "positive"
+    ],
+    [
+      "The city",
+      "has",
+      "the B postcode",
+      "positive"
+    ],
+    [
+      "The city",
+      "is",
+      "The City Council is the governing body for Birmingham the birthplace of the Architect John Madin",
+      "positive"
+    ],
+    [
+      "The city",
+      "is",
+      "The City Council is the governing body for Birmingham the birthplace",
+      "positive"
+    ],
+    [
+      "the birthplace of the Architect John Madin",
+      "designed",
+      "103 Colmore Row",
+      "positive"
+    ]
+  ],
+  "255": [
+    [
+      "Birmingham",
+      "is led",
+      "by Andrew Mitchell and the Birmingham City Council The town",
+      "positive"
+    ],
+    [
+      "The town",
+      "has",
+      "the B postcode",
+      "positive"
+    ],
+    [
+      "103 Colmore Row",
+      "is",
+      "the birthplace Birmingham is led by Andrew Mitchell and the Birmingham City Council The town of architect John Madin",
+      "positive"
+    ],
+    [
+      "103 Colmore Row",
+      "is",
+      "the birthplace Birmingham is led by Andrew Mitchell and the Birmingham City Council The town",
+      "positive"
+    ]
+  ],
+  "256": [
+    [
+      "Hailemariam Desalegn and Mulatu Teshome",
+      "are",
+      "leaders within Ethiopia",
+      "positive"
+    ],
+    [
+      "Hailemariam Desalegn and Mulatu Teshome",
+      "are",
+      "leaders",
+      "positive"
+    ],
+    [
+      "The Addis Ababa Stadium and the Addis Ababa City Hall",
+      "are",
+      "both located within the country in Addis Ababa Ethiopia",
+      "positive"
+    ],
+    [
+      "The Addis Ababa Stadium and the Addis Ababa City Hall",
+      "are",
+      "both located Ethiopia",
+      "positive"
+    ]
+  ],
+  "257": [
+    [
+      "Addis Ababa Stadium and Addis Ababa City Hall",
+      "are located",
+      "in Addis Ababa",
+      "positive"
+    ],
+    [
+      "The country",
+      "is led",
+      "by Mulatu Teshome and Hailemariam Desalegn Ethiopia",
+      "positive"
+    ]
+  ],
+  "258": [
+    [
+      "Addis Ababa Stadium and Addis Ababa City Hall",
+      "are",
+      "both located in Addis Ababa",
+      "positive"
+    ],
+    [
+      "Addis Ababa Stadium and Addis Ababa City Hall",
+      "are",
+      "both located",
+      "positive"
+    ],
+    [
+      "Ethiopia Mulatu Teshome and Hailemariam Desalegn",
+      "are",
+      "leaders Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa in the country",
+      "positive"
+    ],
+    [
+      "Ethiopia Mulatu Teshome and Hailemariam Desalegn",
+      "are",
+      "leaders Addis Ababa Stadium and Addis Ababa City Hall are both located in Addis Ababa",
+      "positive"
+    ]
+  ],
+  "259": [
+    [
+      "The President",
+      "is",
+      "the primary leader includes leader John Roberts of English language speaking United States",
+      "positive"
+    ],
+    [
+      "The President",
+      "is",
+      "the primary leader includes leader John Roberts",
+      "positive"
+    ],
+    [
+      "Delaware Avenue",
+      "has",
+      "The President is the primary leader of English language speaking United States includes leader John Roberts the ethnic African American group",
+      "positive"
+    ],
+    [
+      "Delaware Avenue",
+      "is",
+      "The President is the primary leader of English language speaking United States includes leader John Roberts home",
+      "positive"
+    ],
+    [
+      "Delaware Avenue",
+      "is",
+      "The President is the primary leader of English language speaking United States includes leader John Roberts to 250",
+      "positive"
+    ],
+    [
+      "Delaware Avenue",
+      "is",
+      "The President is the primary leader of English language speaking United States includes leader John Roberts",
+      "positive"
+    ]
+  ],
+  "260": [
+    [
+      "Delaware Avenue",
+      "is located",
+      "in the United States 250",
+      "positive"
+    ],
+    [
+      "Delaware Avenue",
+      "is located",
+      "where the leader is known as the President of the United States supported by the United States of America 250",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is known",
+      "as the President of the United States supported by the United States of America where",
+      "positive"
+    ],
+    [
+      "the leader",
+      "is known",
+      "as the President of the United States supported by the United States of America",
+      "positive"
+    ],
+    [
+      "the President of the United States",
+      "be supported",
+      "by the United States of America",
+      "positive"
+    ],
+    [
+      "250 s Chief Justice Roberts and one of the ethnic groups is the African Americans",
+      "is",
+      "John",
+      "positive"
+    ],
+    [
+      "The main language",
+      "is",
+      "English Chief Justice Roberts and one of the ethnic groups is the African Americans",
+      "positive"
+    ],
+    [
+      "one of the ethnic groups",
+      "is",
+      "the African Americans",
+      "positive"
+    ]
+  ],
+  "261": [
+    [
+      "Joe Biden",
+      "is",
+      "a leader of the United States",
+      "positive"
+    ],
+    [
+      "Joe Biden",
+      "is",
+      "a leader",
+      "positive"
+    ],
+    [
+      "a leader of the United States",
+      "is led",
+      "by a President",
+      "positive"
+    ],
+    [
+      "The White Americans",
+      "are",
+      "Joe Biden is a leader of the United States one of the ethnic groups of the country",
+      "positive"
+    ],
+    [
+      "The White Americans",
+      "are",
+      "Joe Biden is a leader of the United States one where 250 Delaware Avenue is located",
+      "positive"
+    ],
+    [
+      "The White Americans",
+      "are",
+      "Joe Biden is a leader of the United States one",
+      "positive"
+    ],
+    [
+      "Joe Biden is a leader of the United States one of the ethnic groups of the country where 250 Delaware Avenue is located",
+      "uses",
+      "the English language",
+      "positive"
+    ],
+    [
+      "250 Delaware Avenue",
+      "is located",
+      "where",
+      "positive"
+    ]
+  ],
+  "262": [
+    [
+      "Delaware Avenue",
+      "is located",
+      "in the United States 250",
+      "positive"
+    ],
+    [
+      "The President of the United States",
+      "is",
+      "250 the main leader where English is spoken",
+      "positive"
+    ],
+    [
+      "The President of the United States",
+      "is",
+      "250 the main leader alongside Joe Biden",
+      "positive"
+    ],
+    [
+      "The President of the United States",
+      "is",
+      "250 the main leader",
+      "positive"
+    ],
+    [
+      "an ethnic group in the country",
+      "is",
+      "White Americans",
+      "positive"
+    ]
+  ],
+  "263": [
+    [
+      "The celestial body",
+      "be known",
+      "as 66063 1998 RO1 which has the epoch date 13 January 2016 was formerly called 1999 SN5 and has an orbital period of 360.29 days",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "apoapsis measurement",
+      "positive"
+    ],
+    [
+      "Its apoapsis measurement",
+      "is",
+      "254989570.60815 kms and the escape velocity",
+      "positive"
+    ],
+    [
+      "The celestial body known as 66063 1998 RO1 which has the epoch date 13 January 2016 was formerly called 1999 SN5 and has an orbital period of 360.29 days",
+      "is",
+      "0.0999 km per sec",
+      "positive"
+    ],
+    [
+      "The celestial body known as 66063 1998 RO1 which has the epoch date 13 January 2016 was formerly called 1999 SN5 and has an orbital period of 360.29 days",
+      "is",
+      "0.0999 km",
+      "positive"
+    ]
+  ],
+  "264": [
+    [
+      "1998 RO1 formerly known as 1999 SN5",
+      "has",
+      "an orbital period of 360.29 days The asteroid",
+      "positive"
+    ],
+    [
+      "360.29 days",
+      "is",
+      "an apoapsis of 254989570.60815 km and an escape velocity of 0.0999 km/sec The epoch of 66063 1998 RO1",
+      "positive"
+    ],
+    [
+      "The asteroid",
+      "is",
+      "on the 13th of January 2016",
+      "positive"
+    ]
+  ],
+  "265": [
+    [
+      "The celestial body",
+      "be known",
+      "as 66391",
+      "positive"
+    ],
+    [
+      "The celestial body known as 66391",
+      "It has",
+      "a density of 2 gms per cu cm an orbital period of 16244700 and an apoapsis of 162164091.8388 km",
+      "positive"
+    ],
+    [
+      "It",
+      "The celestial body known as has",
+      "a density of 2 gms per cu cm an orbital period of 16244700 and an apoapsis of 162164091.8388 km",
+      "positive"
+    ]
+  ],
+  "266": [
+    [
+      "The celestial body",
+      "be known",
+      "as 66391 1999 KW4 has an orbital period of 16244700 and an escape velocity of 0 Its epoch date",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a density of 2.0 grams per cubic centimetre and an apoapsis of 162164091.8388 kilometres 0",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "epoch date",
+      "positive"
+    ]
+  ],
+  "267": [
+    [
+      "1999 KW4",
+      "has",
+      "the epoch date 14 July 2004",
+      "positive"
+    ],
+    [
+      "1999 KW4",
+      "has",
+      "the epoch date 14",
+      "positive"
+    ],
+    [
+      "1999 KW4",
+      "has",
+      "an orbital period of 16244700.0",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "density",
+      "positive"
+    ],
+    [
+      "Its density",
+      "is",
+      "an escape velocity of zero 2.0 gm per cu cm",
+      "positive"
+    ],
+    [
+      "Its density",
+      "is",
+      "an escape velocity of zero 2.0 gm",
+      "positive"
+    ],
+    [
+      "the apoapsis measurement",
+      "is",
+      "162164091.8388 kms",
+      "positive"
+    ]
+  ],
+  "268": [
+    [
+      "James Craig Watson",
+      "discovered",
+      "101 Helena on 15th August 1868",
+      "positive"
+    ],
+    [
+      "James Craig Watson",
+      "discovered",
+      "101 Helena",
+      "positive"
+    ],
+    [
+      "James Craig Watson",
+      "is",
+      "a Canadian national",
+      "positive"
+    ],
+    [
+      "a Canadian national",
+      "attended",
+      "the University of Michigan",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in Madison Wisconsin Michigan",
+      "positive"
+    ]
+  ],
+  "269": [
+    [
+      "101 Helena",
+      "was discovered",
+      "by the Canadian James Craig Watson on August 15th 1868",
+      "positive"
+    ],
+    [
+      "101 Helena",
+      "was discovered",
+      "by the Canadian James Craig Watson",
+      "positive"
+    ],
+    [
+      "Mr Watson",
+      "studied",
+      "at the University of Michigan",
+      "positive"
+    ],
+    [
+      "Mr Watson",
+      "died",
+      "in Madison Wisconsin August 15th 1868",
+      "positive"
+    ]
+  ],
+  "270": [
+    [
+      "Canadian James Craig Watson",
+      "discovered",
+      "101 Helena on August 15th 1868",
+      "positive"
+    ],
+    [
+      "Canadian James Craig Watson",
+      "discovered",
+      "101 Helena",
+      "positive"
+    ],
+    [
+      "He",
+      "attended",
+      "the University of Michigan",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in Madison Wisconsin",
+      "positive"
+    ]
+  ],
+  "271": [
+    [
+      "James Craig Watson",
+      "is",
+      "a Canadian",
+      "positive"
+    ],
+    [
+      "James Craig Watson",
+      "has",
+      "Alma mater",
+      "positive"
+    ],
+    [
+      "James Craig Watson Alma mater",
+      "is",
+      "the University of Michigan",
+      "positive"
+    ],
+    [
+      "James Craig Watson Alma mater",
+      "is",
+      "the University",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "of peritonitis Michigan",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "in Madison Wisconsin Michigan",
+      "positive"
+    ],
+    [
+      "He",
+      "died",
+      "Michigan",
+      "positive"
+    ]
+  ],
+  "272": [
+    [
+      "Canadian Craig Watson",
+      "is",
+      "James",
+      "positive"
+    ],
+    [
+      "Canadian Craig Watson",
+      "has",
+      "Alma mater",
+      "positive"
+    ],
+    [
+      "Canadian Craig Watson Alma mater",
+      "was",
+      "the University of Michigan",
+      "positive"
+    ],
+    [
+      "Canadian Craig Watson Alma mater",
+      "was",
+      "the University",
+      "positive"
+    ],
+    [
+      "who",
+      "died",
+      "from peritonitis",
+      "positive"
+    ],
+    [
+      "who",
+      "died",
+      "in Madison Wisconsin",
+      "positive"
+    ]
+  ],
+  "273": [
+    [
+      "Canadian James Craig Watson",
+      "discovered",
+      "101 Helena",
+      "positive"
+    ],
+    [
+      "Watson",
+      "has",
+      "alma mater",
+      "positive"
+    ],
+    [
+      "Watson 's alma mater",
+      "was",
+      "the University of Michigan 101 Helena",
+      "positive"
+    ],
+    [
+      "Watson 's alma mater",
+      "was",
+      "the University 101 Helena",
+      "positive"
+    ],
+    [
+      "he",
+      "died",
+      "in Madison Wisconsin of peritonitis",
+      "positive"
+    ]
+  ],
+  "274": [
+    [
+      "Walter Baade",
+      "was born",
+      "in the German Empire",
+      "positive"
+    ],
+    [
+      "Walter Baade",
+      "was died",
+      "in West Germany",
+      "positive"
+    ],
+    [
+      "Walter Baade",
+      "was discovered",
+      "1036 Ganymed",
+      "positive"
+    ],
+    [
+      "His",
+      "has",
+      "Alma mater",
+      "positive"
+    ],
+    [
+      "His Alma mater",
+      "was",
+      "the University of Gottingen 1036 Ganymed",
+      "positive"
+    ],
+    [
+      "His Alma mater",
+      "was",
+      "the University 1036 Ganymed",
+      "positive"
+    ],
+    [
+      "Allan Sandage",
+      "was",
+      "his doctoral student",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "doctoral student",
+      "positive"
+    ]
+  ],
+  "275": [
+    [
+      "Walter Baade",
+      "was born",
+      "in the German Empire",
+      "positive"
+    ],
+    [
+      "Walter Baade",
+      "was died",
+      "in West Germany",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "from the University of Gottingen West Germany",
+      "positive"
+    ],
+    [
+      "He",
+      "graduated",
+      "West Germany",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "doctoral students",
+      "positive"
+    ],
+    [
+      "one of his doctoral students",
+      "was",
+      "Allan Sandage",
+      "positive"
+    ]
+  ],
+  "276": [
+    [
+      "Walter Baade",
+      "was born",
+      "in the German empire",
+      "positive"
+    ],
+    [
+      "Walter Baade",
+      "was died",
+      "in West Germany",
+      "positive"
+    ],
+    [
+      "Walter Baade",
+      "discovered",
+      "1036 Ganymed",
+      "positive"
+    ],
+    [
+      "Baade",
+      "has",
+      "alma mater",
+      "positive"
+    ],
+    [
+      "Baade 's alma mater",
+      "was",
+      "the University of Gottingen 1036 Ganymed",
+      "positive"
+    ],
+    [
+      "Baade 's alma mater",
+      "was",
+      "the University 1036 Ganymed",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "doctoral students",
+      "positive"
+    ]
+  ],
+  "277": [
+    [
+      "Halton Arp and Allan Sandage",
+      "were",
+      "doctoral students of Walter Baade",
+      "positive"
+    ],
+    [
+      "Halton Arp and Allan Sandage",
+      "were",
+      "doctoral students",
+      "positive"
+    ],
+    [
+      "the discoverer of 1036 Ganymed Baade",
+      "was born",
+      "Halton Arp and Allan Sandage were doctoral students of Walter Baade in the German Empire",
+      "positive"
+    ],
+    [
+      "the discoverer of 1036 Ganymed Baade",
+      "was born",
+      "Halton Arp and Allan Sandage were doctoral students of Walter Baade",
+      "positive"
+    ],
+    [
+      "the discoverer of 1036 Ganymed Baade",
+      "was graduated",
+      "Halton Arp and Allan Sandage were doctoral students of Walter Baade from the University of Gottingen",
+      "positive"
+    ],
+    [
+      "the discoverer of 1036 Ganymed Baade",
+      "was graduated",
+      "Halton Arp and Allan Sandage were doctoral students of Walter Baade",
+      "positive"
+    ]
+  ],
+  "278": [
+    [
+      "Walter Baade",
+      "be born",
+      "in the German Empire and graduate of the University of Gottingen",
+      "positive"
+    ],
+    [
+      "Walter Baade born in the German Empire and graduate of the University of Gottingen",
+      "discovered",
+      "1036 Ganymed Halton Arp and Allan Sandage were doctoral students of Walter Baade",
+      "positive"
+    ],
+    [
+      "1036 Ganymed Halton Arp and Allan Sandage",
+      "were",
+      "doctoral students of Walter Baade",
+      "positive"
+    ],
+    [
+      "1036 Ganymed Halton Arp and Allan Sandage",
+      "were",
+      "doctoral students",
+      "positive"
+    ]
+  ],
+  "279": [
+    [
+      "Allan Sandage and Halton Arp",
+      "were",
+      "doctoral students and of Walter Baade",
+      "positive"
+    ],
+    [
+      "Allan Sandage and Halton Arp",
+      "were",
+      "doctoral students and",
+      "positive"
+    ],
+    [
+      "the discoverer of 1036 Ganymed Baade",
+      "was born",
+      "in the German Empire",
+      "positive"
+    ],
+    [
+      "his",
+      "has",
+      "alma mater",
+      "positive"
+    ],
+    [
+      "his alma mater",
+      "was",
+      "the University of Gottingen",
+      "positive"
+    ],
+    [
+      "his alma mater",
+      "was",
+      "the University",
+      "positive"
+    ]
+  ],
+  "280": [
+    [
+      "107 Camilla",
+      "are",
+      "560937000.0 kilometres and 479343000.0 kilometres respectively",
+      "positive"
+    ],
+    [
+      "107 Camilla",
+      "are",
+      "560937000.0 kilometres and 479343000.0 kilometres",
+      "positive"
+    ],
+    [
+      "The apoapsis and periapsis measurements",
+      "are",
+      "560937000.0 kilometres and 479343000.0 kilometres respectively",
+      "positive"
+    ],
+    [
+      "The apoapsis and periapsis measurements",
+      "are",
+      "560937000.0 kilometres and 479343000.0 kilometres",
+      "positive"
+    ]
+  ],
+  "281": [
+    [
+      "Its orbital period",
+      "is",
+      "2,368.05 days F. Vilas",
+      "positive"
+    ],
+    [
+      "its periapsis",
+      "is",
+      "479,343,000 kilometres 107 Camilla was discovered by F. Vilas",
+      "positive"
+    ],
+    [
+      "its periapsis",
+      "has",
+      "107 Camilla was discovered by F. Vilas an apoapsis of 560,937,000 kilometres",
+      "positive"
+    ]
+  ],
+  "282": [
+    [
+      "Camilla",
+      "was discovered",
+      "by F Vilas",
+      "positive"
+    ],
+    [
+      "Camilla",
+      "has",
+      "the epoch date of 31 December 2006",
+      "positive"
+    ],
+    [
+      "Camilla",
+      "has",
+      "an orbital period of 2368.05 days",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a periapsis of 479343000.0 kms and an apoapsis of 560937000.0 kms",
+      "positive"
+    ]
+  ],
+  "283": [
+    [
+      "N.R. Pogson",
+      "is",
+      "an English national",
+      "positive"
+    ]
+  ],
+  "284": [
+    [
+      "N.R. Pogson",
+      "was born",
+      "in Nottingham England",
+      "positive"
+    ],
+    [
+      "N.R. Pogson",
+      "was died",
+      "in Chennai",
+      "positive"
+    ],
+    [
+      "N.R. Pogson",
+      "discovered",
+      "107 Camilla",
+      "positive"
+    ],
+    [
+      "The celestial body",
+      "was discovered",
+      "on November 17 1868 107 Camilla",
+      "positive"
+    ],
+    [
+      "The celestial body",
+      "was discovered",
+      "107 Camilla",
+      "positive"
+    ]
+  ],
+  "285": [
+    [
+      "107 Camilla",
+      "was discovered",
+      "on November 17th 1868 by British Pogson",
+      "positive"
+    ],
+    [
+      "107 Camilla",
+      "was discovered",
+      "on November 17th 1868",
+      "positive"
+    ],
+    [
+      "British Pogson",
+      "is",
+      "N.R.",
+      "positive"
+    ],
+    [
+      "British Pogson",
+      "was born",
+      "in Nottingham",
+      "positive"
+    ],
+    [
+      "British Pogson",
+      "was died",
+      "in Chennai",
+      "positive"
+    ]
+  ],
+  "286": [
+    [
+      "whose",
+      "has",
+      "former name",
+      "positive"
+    ],
+    [
+      "whose former name",
+      "was",
+      "A919 HA 1927 WB",
+      "positive"
+    ],
+    [
+      "The escape velocity of 1089 Tama",
+      "is",
+      "km/sec 0.0068 has an orbital period of 1202.846 days and an apoapsis of 373513000.0 kilometres 2005-11-26",
+      "positive"
+    ],
+    [
+      "The escape velocity of 1089 Tama",
+      "is",
+      "km/sec has an orbital period of 1202.846 days and an apoapsis of 373513000.0 kilometres 2005-11-26",
+      "positive"
+    ]
+  ],
+  "287": [
+    [
+      "1089 Tama",
+      "was known",
+      "as A919 HA 1927 WB has an epoch of November 26th 2005 and an orbit of 1,202.846 days Its escape velocity is .0068 kilometres a second and it has an apoapsis of 373,513,000 kilometres formerly",
+      "positive"
+    ],
+    [
+      "1089 Tama",
+      "was known",
+      "as A919 HA 1927 WB has an epoch of November 26th 2005 and an orbit of 1,202.846 days Its escape velocity is .0068 kilometres a second and it has an apoapsis of 373,513,000 kilometres",
+      "positive"
+    ],
+    [
+      "A919 HA 1927 WB",
+      "has",
+      "an epoch of November 26th 2005",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "escape velocity",
+      "positive"
+    ],
+    [
+      "Its escape velocity",
+      "is",
+      "an orbit of 1,202.846 days .0068 kilometres a second",
+      "positive"
+    ],
+    [
+      "it",
+      "has",
+      "an apoapsis of 373,513,000 kilometres",
+      "positive"
+    ]
+  ],
+  "288": [
+    [
+      "1089 Tama",
+      "was known",
+      "as A919 HA 1927 WB formerly",
+      "positive"
+    ],
+    [
+      "1089 Tama",
+      "was known",
+      "as A919 HA 1927 WB",
+      "positive"
+    ],
+    [
+      "1089 Tama",
+      "has",
+      "the epoch date of 2005/11/26",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "an escape velocity of 0.0068 km per sec an apoapsis of 373513000.0 kms and an orbital period lasting 1202.846 days",
+      "positive"
+    ],
+    [
+      "an orbital period",
+      "be lasting",
+      "1202.846 days",
+      "positive"
+    ]
+  ],
+  "289": [
+    [
+      "1097 Vicia",
+      "has",
+      "an escape velocity of 0.0112 km/sec a mass of 9.8 kgs an orbital period of 135589000.0 and an apoapsis of 511592000.0 km 2006.12.31",
+      "positive"
+    ]
+  ],
+  "291": [
+    [
+      "1097 Vicia",
+      "has",
+      "a mass of 9.8",
+      "positive"
+    ],
+    [
+      "31 December 2006",
+      "has",
+      "the epoch date",
+      "positive"
+    ],
+    [
+      "1097 Vicia",
+      "It has",
+      "an escape velocity of 0.0112 km per sec an orbital period of 135589000 and an apoapsis of 511592000.0 km",
+      "positive"
+    ],
+    [
+      "It",
+      "1097 Vicia has",
+      "an escape velocity of 0.0112 km per sec an orbital period of 135589000 and an apoapsis of 511592000.0 km",
+      "positive"
+    ]
+  ],
+  "292": [
+    [
+      "The surface area of the asteroid 10 Hygiea",
+      "is",
+      "837,080.744 square kilometres while its temperatures is 164 degrees Kelvin",
+      "positive"
+    ],
+    [
+      "The surface area of the asteroid 10 Hygiea",
+      "is",
+      "837,080.744 square kilometres",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "temperatures",
+      "positive"
+    ],
+    [
+      "its temperatures",
+      "is",
+      "164 degrees Kelvin",
+      "positive"
+    ],
+    [
+      "The asteroid",
+      "has",
+      "an epoch date of June 27th an escape velocity of 0.21 kilometres a second and an apoapsis of 523,951,582.33968 kilometres while 164 degrees Kelvin",
+      "positive"
+    ]
+  ],
+  "293": [
+    [
+      "The asteroid",
+      "called",
+      "10 Hygiea had an epoch date on 27th June 2015 It has an escape velocity of 0.21 kilometres per second and its apoapsis is 523951582.33968 kms",
+      "positive"
+    ],
+    [
+      "10 Hygiea",
+      "had",
+      "an epoch date on 27th June 2015",
+      "positive"
+    ],
+    [
+      "10 Hygiea",
+      "had",
+      "an epoch date on 27th",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "temperature",
+      "positive"
+    ],
+    [
+      "its temperature",
+      "is",
+      "164.0 kelvins and its surface area",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "surface area",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "an escape velocity of 0.21 kilometres per second",
+      "positive"
+    ],
+    [
+      "its",
+      "has",
+      "apoapsis",
+      "positive"
+    ]
+  ],
+  "294": [
+    [
+      "The surface area",
+      "is",
+      "escape velocity of 0.21 km per sec 837080.744 sq km an apoasis of 523951582.33968 km and a temperature of 164 Kelvins",
+      "positive"
+    ]
+  ],
+  "295": [
+    [
+      "Texas",
+      "lies",
+      "524.0 Abilene",
+      "positive"
+    ],
+    [
+      "Texas",
+      "lies",
+      "524.0 above sea level",
+      "positive"
+    ],
+    [
+      "Texas",
+      "has",
+      "the area code of 325 Abilene",
+      "positive"
+    ],
+    [
+      "Texas",
+      "has",
+      "the area code of 325",
+      "positive"
+    ],
+    [
+      "It",
+      "has",
+      "a total area of 286.5 sq km",
+      "positive"
+    ],
+    [
+      "14.2 sq km",
+      "are",
+      "water of 286.5 sq km",
+      "positive"
+    ],
+    [
+      "14.2 sq km",
+      "are",
+      "water",
+      "positive"
+    ]
+  ],
+  "296": [
+    [
+      "Abilene",
+      "is",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "Abilene",
+      "has",
+      "the area code 325 It is 524.0 above sea level and a total area of 286.5 sq km",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "524.0 and a total area of 286.5 sq km above sea level",
+      "positive"
+    ],
+    [
+      "It",
+      "is",
+      "524.0 and a total area of 286.5 sq km",
+      "positive"
+    ],
+    [
+      "Its",
+      "has",
+      "population density",
+      "positive"
+    ],
+    [
+      "Its population density",
+      "is",
+      "Abilene is in Texas and has the area code 325 It is 524.0 above sea level and a total area of 286.5 sq km 429.9 inhabitants per square kilometre",
+      "positive"
+    ],
+    [
+      "Its population density",
+      "is",
+      "Abilene is in Texas and has the area code 325 It is 524.0 above sea level and a total area of 286.5 sq km 429.9 inhabitants",
+      "positive"
+    ]
+  ],
+  "297": [
+    [
+      "Abilene",
+      "is",
+      "part of Texas",
+      "positive"
+    ],
+    [
+      "Abilene",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "the capital",
+      "is",
+      "Austin Texas where",
+      "positive"
+    ],
+    [
+      "the capital",
+      "is",
+      "Austin Texas",
+      "positive"
+    ],
+    [
+      "the largest city",
+      "is",
+      "Houston",
+      "positive"
+    ],
+    [
+      "the languages",
+      "be spoken",
+      "in Texas",
+      "positive"
+    ],
+    [
+      "One of the languages spoken in Texas",
+      "is",
+      "part of the United States",
+      "positive"
+    ],
+    [
+      "One of the languages spoken in Texas",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "One of the languages spoken in Texas",
+      "is",
+      "Spanish Houston",
+      "positive"
+    ]
+  ],
+  "298": [
+    [
+      "United States Houston",
+      "is",
+      "the largest city in Texas",
+      "positive"
+    ],
+    [
+      "United States Houston",
+      "is",
+      "the largest city",
+      "positive"
+    ],
+    [
+      "its capital",
+      "is",
+      "Austin",
+      "positive"
+    ]
+  ],
+  "299": [
+    [
+      "English",
+      "is",
+      "the language where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans of the United States",
+      "positive"
+    ],
+    [
+      "English",
+      "is",
+      "the language where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans",
+      "positive"
+    ],
+    [
+      "Asian Americans",
+      "are",
+      "an ethnic group where",
+      "positive"
+    ],
+    [
+      "Asian Americans",
+      "are",
+      "an ethnic group",
+      "positive"
+    ],
+    [
+      "the inhabitants",
+      "are referred",
+      "to where",
+      "positive"
+    ],
+    [
+      "the inhabitants",
+      "are referred",
+      "to as Americans",
+      "positive"
+    ],
+    [
+      "the inhabitants",
+      "are referred",
+      "to",
+      "positive"
+    ],
+    [
+      "The US",
+      "is",
+      "English is the language of the United States where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans home to Albany",
+      "positive"
+    ],
+    [
+      "The US",
+      "is",
+      "English is the language of the United States where Asian Americans are an ethnic group and where the inhabitants are referred to as Americans home",
+      "positive"
+    ],
+    [
+      "Albany",
+      "is found",
+      "in the state of Georgia",
+      "positive"
+    ]
+  ],
+  "300": [
+    [
+      "many different types of Americans including Asian Americans",
+      "there are",
+      "In the U.S.",
+      "positive"
+    ],
+    [
+      "The native language in the U.S.",
+      "is",
+      "English Asian Americans",
+      "positive"
+    ]
+  ],
+  "301": [
+    [
+      "Albany",
+      "is",
+      "part of Georgia",
+      "positive"
+    ],
+    [
+      "Albany",
+      "is",
+      "part in the United States The English speaking country where the inhabitants are known as Americans and where Asian Americans are one of the ethnic groups",
+      "positive"
+    ],
+    [
+      "Albany",
+      "is",
+      "part",
+      "positive"
+    ],
+    [
+      "the inhabitants",
+      "are known",
+      "as Americans where",
+      "positive"
+    ],
+    [
+      "the inhabitants",
+      "are known",
+      "as Americans",
+      "positive"
+    ],
+    [
+      "Asian Americans",
+      "are",
+      "one where",
+      "positive"
+    ],
+    [
+      "Asian Americans",
+      "are",
+      "one of the ethnic groups",
+      "positive"
+    ],
+    [
+      "Asian Americans",
+      "are",
+      "one",
+      "positive"
+    ]
+  ]
+}

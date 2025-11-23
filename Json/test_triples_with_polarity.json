@@ -1,0 +1,50 @@
+{
+  "1": [
+    [
+      "weather",
+      "is",
+      "sunny",
+      "positive"
+    ]
+  ],
+  "2": [
+    [
+      "weather",
+      "is",
+      "sunny",
+      "negative"
+    ]
+  ],
+  "3": [
+    [
+      "He",
+      "runs",
+      "fast",
+      "positive"
+    ]
+  ],
+  "4": [
+    [
+      "He",
+      "run",
+      "fast",
+      "negative"
+    ]
+  ],
+  "5": [
+    [
+      "She",
+      "likes",
+      "ice cream",
+      "positive"
+    ]
+  ],
+  "6": [
+    [
+      "She",
+      "like",
+      "vegetables",
+      "negative"
+    ]
+  ]
+}
