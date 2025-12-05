@@ -179,7 +179,7 @@ Where:
 - **τ**: Jaro-Winkler similarity scores
 - **Lower scores = Better quality** (0 = perfect extraction)
 
-## 🧪 Testing & Validation
+## Testing & Validation
 
 ### Test Negation Detection
 ```bash
