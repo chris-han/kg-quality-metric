@@ -1,0 +1,12 @@
+The weather is sunny.
+The weather is not sunny.
+He runs fast every morning.
+He doesn't run fast in the evening.
+She likes ice cream very much.
+She doesn't like vegetables at all.
+The system works correctly.
+The system is not working correctly.
+Students attend classes regularly.
+Students never attend classes on time.
+The dog barks loudly.
+The dog never barks at strangers.
