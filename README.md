@@ -1,159 +1,233 @@
-# kg-quality-metric
+# KG Quality Metric
 
-A metric used to evaluate the quality of Knowledge Graph triples extracted from text.
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Java 8+](https://img.shields.io/badge/java-8+-orange.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
 
-**Added negation handling with polarity flag and polarity-aware evaluation metric.**
-
-## Overview
-
-This project evaluates the quality of Knowledge Graph (KG) triples extracted from text using various Open Information Extraction (OIE) tools. The system now includes advanced negation handling and polarity-aware evaluation metrics.
+A metric to evaluate Knowledge Graph triple extraction quality with negation awareness. Compares extracted triples against linguistic ground truth from source sentences.
 
 ## Features
 
-### Core Functionality
-- **Triple Quality Evaluation**: Measures how well OIE tools extract meaningful triples from text
-- **Multi-tool Comparison**: Supports ClausIE, Stanford OpenIE, MiniE, and other OIE tools
-- **Graph-based Analysis**: Constructs knowledge graphs and evaluates connectivity metrics
+- **Structural evaluation**: Node completeness, connectivity, graph components
+- **Predicate assessment**: Verb similarity, multiplicity, polarity penalties  
+- **Negation handling**: spaCy-based detection, polarity propagation, 4-tuple triples
+- **Combined scoring**: `M = 0.5 * M_N + 0.5 * M_V` normalized to [0,1]
 
-### Advanced Negation Handling (NEW)
-- **Dependency Parsing**: Uses spaCy to detect negation words and patterns
-- **Polarity Detection**: Identifies positive/negative polarity in predicates
-- **4-tuple Structure**: Extended triples from `(subject, predicate, object)` → `(subject, predicate, object, polarity)`
-- **Polarity-aware Metrics**: Includes polarity penalty in evaluation scoring
+## Components
 
-## Architecture
-
-### Python Components
-
-#### 1. POS.py - Enhanced Noun Phrase & Polarity Extraction
-- Extracts noun phrases, adjectives, and cardinal numbers using NLTK
-- **NEW**: Detects sentence polarity using spaCy dependency parsing
-- Outputs both phrase lists and polarity information
-- Generates `output_pos_*.txt` and `output_polarity_*.txt` files
-
-#### 2. negation_detector.py - Negation Detection Engine
-- **NEW**: Dedicated module for negation detection
-- Uses spaCy dependency parsing to identify `neg` dependencies
-- Detects negation words: "not", "never", "no", "neither", "nor", etc.
-- Provides predicate-level polarity analysis
-
-#### 3. Triple_Extractor.py - Enhanced Triple Processing
-- Filters OIE triples based on extracted noun phrases
-- **NEW**: Creates 4-tuple triples with polarity information
-- Uses Jaro-Winkler similarity for fuzzy string matching
-- **NEW**: Generates both 3-tuple (backward compatible) and 4-tuple JSON files
-
-#### 4. Main.java - Polarity-aware Quality Metrics
-- Constructs knowledge graphs from filtered triples
-- **NEW**: Enhanced verb metrics with polarity penalty calculation
-- **NEW**: Implements polarity mismatch penalty: `dV(G1, Gi) += λ * penalty`
-- Maintains normalized scores within [0, 1] range
-
-## Installation & Setup
-
-### Prerequisites
+### 1. POS.py
+Extracts noun phrases and sentence polarity using NLTK + spaCy dependency parsing.
 ```bash
-# Python dependencies
-pip install nltk spacy jellyfish
-
-# spaCy English model
-python -m spacy download en_core_web_sm
-
-# Java dependencies (place in root directory)
-# - json-simple-1.1.1.jar
-# - commons-text-1.10.0.jar
-# - commons-lang3-3.12.0.jar
+python POS.py
+# Outputs: output_pos_*.txt, output_polarity_*.txt
 ```
 
-### Required Input Files
-1. **Sentence files**: `sentences_*.txt` (one sentence per line)
-2. **OIE triple files**: `triple_clauseie.txt`, `triple_minie.txt`, etc.
-3. **JSON tools folder**: `Json/` (for processed outputs)
+### 2. negation_detector.py
+Detects negation dependencies and predicate polarities.
+```python
+from negation_detector import NegationDetector
+detector = NegationDetector()
+polarity = detector.extract_predicate_polarity("He doesn't run", "run")  # "negative"
+```
+
+### 3. Triple_Extractor.py
+Filters triples, creates 4-tuples with polarity, uses Jaro-Winkler similarity (≥0.5).
+```bash
+python Triple_Extractor.py
+# Outputs: Json/*.json (3-tuple), Json/*_with_polarity.json (4-tuple)
+```
+
+### 4. Main.java
+Calculates quality metrics with polarity penalties (λ=0.1).
+```bash
+javac -cp ".;*.jar" Main.java
+java -cp ".;*.jar" Main
+# Outputs: output_*/ideal_*.txt, combined_metric.txt
+```
+
+## Setup
+
+### Dependencies
+```bash
+pip install nltk spacy jellyfish
+python -m spacy download en_core_web_sm
+```
+
+### Java JARs (place in root)
+- json-simple-1.1.1.jar
+- commons-text-1.10.0.jar  
+- commons-lang3-3.12.0.jar
 
 ## Usage
 
-### Step 1: Extract Phrases and Polarity
 ```bash
+# 1. Extract phrases and polarity
 python POS.py
-```
-**Outputs**:
-- `output_pos_*.txt`: Extracted noun phrases
-- `output_polarity_*.txt`: Sentence polarity information
 
-### Step 2: Extract and Filter Triples with Polarity
-```bash
+# 2. Process triples with polarity  
 python Triple_Extractor.py
+
+# 3. Generate polarity JSON
+python generate_polarity_json.py
+
+# 4. Calculate metrics
+javac -cp ".;*.jar" Main.java && java -cp ".;*.jar" Main
 ```
-**Outputs**:
-- `Json/*_with_polarity.json`: 4-tuple triples with polarity
-- `Json/*.json`: Traditional 3-tuple triples (backward compatible)
 
-### Step 3: Calculate Quality Metrics
+## Input Files
+- `sentences_*.txt` - Source sentences (one per line)
+- `triple_*.txt` - Raw OIE extractions
+- Generated: `Json_Ideal/`, `Json_Ideal_Polarity/`
+
+## Output Structure
+```
+output_ideal_tinybutmighty/ideal_tinybutmighty.txt           # Noun metrics
+output_predicate_ideal_tinybutmighty/ideal_tinybutmighty.txt # Verb metrics  
+output_combined_ideal_tinybutmighty/combined_metric.txt      # Final scores
+```
+
+## Metrics
+
+### Noun Metric (M_N)
+```
+d_N = (1 - nodes/total_nouns) + Σ(1 - similarity) + (components - 1)
+M_N = d_N / (2 * noun_count)
+```
+
+### Verb Metric (M_V) with Polarity
+```
+d_V = similarity_penalties + missing_verbs + λ * polarity_mismatches  
+M_V = d_V / (2 * verb_count)
+```
+
+### Combined Score
+```
+M = 0.5 * M_N + 0.5 * M_V
+```
+
+Lower scores = better quality (0 = perfect extraction)
+
+## Testing
 ```bash
-# Compile Java code
-javac -cp ".;json-simple-1.1.1.jar;commons-text-1.10.0.jar;commons-lang3-3.12.0.jar" Main.java
+python test_negation_pipeline.py  # Test negation handling
+python negation_detector.py       # Test specific patterns
+```
+```bash
+# Step 1: Extract linguistic features
+python POS.py
 
-# Run evaluation
+# Step 2: Process triples with polarity
+python Triple_Extractor.py
+
+# Step 3: Generate polarity-enhanced JSON
+python generate_polarity_json.py
+
+# Step 4: Calculate quality metrics
+javac -cp ".;json-simple-1.1.1.jar;commons-text-1.10.0.jar;commons-lang3-3.12.0.jar" Main.java
 java -cp ".;json-simple-1.1.1.jar;commons-text-1.10.0.jar;commons-lang3-3.12.0.jar" Main
 ```
 
-### Testing Negation Handling
+## Output Files
+
+### Generated Metrics
+```
+output_ideal_tinybutmighty/
+├── ideal_tinybutmighty.txt          # Noun quality scores
+output_predicate_ideal_tinybutmighty/
+├── ideal_tinybutmighty.txt          # Predicate quality scores  
+output_combined_ideal_tinybutmighty/
+├── combined_metric.txt              # Unified quality scores
+```
+
+### Enhanced Data Files
+```
+Json_Ideal_Polarity/
+├── tinybutmighty.json               # 4-tuple triples with polarity
+├── benchie.json                     # Benchie dataset with polarity
+output_polarity_ideal_benchie.txt    # Sentence polarity mapping
+```
+
+## Methodology
+
+### Ideal Graph Construction
+For each sentence, we construct an ideal reference graph *G_i* where:
+- **Nodes**: Distinct noun phrases from dependency parsing
+- **Edges**: Predicate-argument relations with multiplicity
+- **Polarity**: Negation markers when expressed in the sentence
+- **Connectivity**: Single connected component per sentence
+
+### Quality Metrics
+
+#### Noun Metric (M_N)
+```
+d_N(G_1,G_i) = (1 - V(G_1)/N(G_1)) + Σ(1 - τ_n_j) + (C(G_1) - 1)
+M_N = d_N(G_1,G_i) / (2 * N(G_i))
+```
+
+#### Verb Metric with Polarity (M_V)
+```
+d_V(G_1,G_i) = (Vb(G_i) - Vb(G_1)) + Σ(1 - τ_v_j) + λ * polarity_penalty
+M_V = d_V(G_1,G_i) / (2 * Vb(G_i))
+```
+
+#### Combined Quality Score
+```
+M = α * M_N + (1-α) * M_V    (α = 0.5 by default)
+```
+
+Where:
+- **λ = 0.1**: Polarity penalty weight
+- **τ**: Jaro-Winkler similarity scores
+- **Lower scores = Better quality** (0 = perfect extraction)
+
+## 🧪 Testing & Validation
+
+### Test Negation Detection
 ```bash
-# Test the negation pipeline
+# Run comprehensive negation tests
 python test_negation_pipeline.py
 
-# Test with sample sentences
+# Test specific negation patterns
 python negation_detector.py
 ```
 
-## Negation Handling Examples
-
-### Polarity Detection
+### Example Polarity Detection
 ```python
+from negation_detector import NegationDetector
+
+detector = NegationDetector()
+
 # Positive sentence
-"The weather is sunny." → polarity: "positive"
+detector.extract_predicate_polarity("The weather is sunny.", "is")
+# Output: "positive"
 
 # Negative sentence  
-"The weather is not sunny." → polarity: "negative"
+detector.extract_predicate_polarity("The weather is not sunny.", "is")
+# Output: "negative"
 ```
 
-### 4-tuple Triple Structure
-```json
-{
-  "1": [["weather", "is", "sunny", "positive"]],
-  "2": [["weather", "is", "sunny", "negative"]]
-}
+## Use Cases
+
+### 1. OIE System Evaluation
+Compare multiple Open Information Extraction tools:
+```bash
+# Evaluate Stanford OpenIE vs ClausIE vs MiniE
+python evaluate_multiple_systems.py
 ```
 
-### Polarity Penalty Calculation
-```
-If extracted_polarity ≠ ideal_polarity:
-    penalty = λ (default: 0.1)
-    
-dV(G1, Gi) = base_similarity_score + polarity_penalty
-```
-
-## File Structure
-```
-kg-quality-metric/
-├── POS.py                          # Enhanced phrase & polarity extraction
-├── negation_detector.py            # NEW: Negation detection engine
-├── Triple_Extractor.py              # Enhanced triple processing
-├── Main.java                        # Polarity-aware metrics
-├── test_negation_pipeline.py        # NEW: Testing framework
-├── test_sentences_negation.txt      # NEW: Test sentences
-├── sentences_*.txt                  # Input sentences
-├── triple_*.txt                     # Raw OIE triples
-├── output_pos_*.txt                 # Extracted phrases
-├── output_polarity_*.txt            # NEW: Polarity information
-└── Json/
-    ├── *_with_polarity.json         # NEW: 4-tuple triples
-    └── *.json                       # Traditional 3-tuple triples
+### 2. Negation Handling Assessment
+Measure how well systems preserve negation:
+```python
+# Check polarity preservation accuracy
+polarity_accuracy = correct_polarities / total_predicates
 ```
 
-## Evaluation Metrics
+### 3. KG Construction Quality Control
+Validate triple quality before KG integration:
+```python
+if quality_score < threshold:
+    flag_for_manual_review()
+```
 
-### Base Metrics
-1. **Graph Connectivity**: Node count and connected components
-2. **Semantic Similarity**: Jaro-Winkler similarity between entities
-3. **Coverage**: How well noun phrases are represented in triples
+## License
+
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
