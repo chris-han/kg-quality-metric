@@ -1,0 +1,46 @@
+Tool,Scenario,Avg Score
+ClausIE,"Noun Only   (1.0, 0.0)",0.153804
+ClausIE,"Verb Only   (0.0, 1.0)",0.230064
+ClausIE,"Equal       (0.5, 0.5)",0.191934
+ClausIE,"Noun-heavy  (0.7, 0.3)",0.176682
+ClausIE,"Verb-heavy  (0.3, 0.7)",0.207186
+MiniE,"Noun Only   (1.0, 0.0)",0.307773
+MiniE,"Verb Only   (0.0, 1.0)",0.571194
+MiniE,"Equal       (0.5, 0.5)",0.439483
+MiniE,"Noun-heavy  (0.7, 0.3)",0.386799
+MiniE,"Verb-heavy  (0.3, 0.7)",0.492167
+Ollie,"Noun Only   (1.0, 0.0)",0.22079
+Ollie,"Verb Only   (0.0, 1.0)",0.465694
+Ollie,"Equal       (0.5, 0.5)",0.343242
+Ollie,"Noun-heavy  (0.7, 0.3)",0.294261
+Ollie,"Verb-heavy  (0.3, 0.7)",0.392223
+Stanford 4.5.3,"Noun Only   (1.0, 0.0)",0.243133
+Stanford 4.5.3,"Verb Only   (0.0, 1.0)",0.47404
+Stanford 4.5.3,"Equal       (0.5, 0.5)",0.358587
+Stanford 4.5.3,"Noun-heavy  (0.7, 0.3)",0.312405
+Stanford 4.5.3,"Verb-heavy  (0.3, 0.7)",0.404768
+Stanford 4.5.6,"Noun Only   (1.0, 0.0)",0.247476
+Stanford 4.5.6,"Verb Only   (0.0, 1.0)",0.644132
+Stanford 4.5.6,"Equal       (0.5, 0.5)",0.445804
+Stanford 4.5.6,"Noun-heavy  (0.7, 0.3)",0.366473
+Stanford 4.5.6,"Verb-heavy  (0.3, 0.7)",0.525135
+Claude,"Noun Only   (1.0, 0.0)",0.354615
+Claude,"Verb Only   (0.0, 1.0)",0.544319
+Claude,"Equal       (0.5, 0.5)",0.449467
+Claude,"Noun-heavy  (0.7, 0.3)",0.411526
+Claude,"Verb-heavy  (0.3, 0.7)",0.487408
+Gemini,"Noun Only   (1.0, 0.0)",0.367413
+Gemini,"Verb Only   (0.0, 1.0)",0.549548
+Gemini,"Equal       (0.5, 0.5)",0.45848
+Gemini,"Noun-heavy  (0.7, 0.3)",0.422053
+Gemini,"Verb-heavy  (0.3, 0.7)",0.494908
+GPT-4o mini,"Noun Only   (1.0, 0.0)",0.404269
+GPT-4o mini,"Verb Only   (0.0, 1.0)",0.689127
+GPT-4o mini,"Equal       (0.5, 0.5)",0.546698
+GPT-4o mini,"Noun-heavy  (0.7, 0.3)",0.489727
+GPT-4o mini,"Verb-heavy  (0.3, 0.7)",0.60367
+Ideal (TinyButMighty),"Noun Only   (1.0, 0.0)",0.348285
+Ideal (TinyButMighty),"Verb Only   (0.0, 1.0)",0.276041
+Ideal (TinyButMighty),"Equal       (0.5, 0.5)",0.312163
+Ideal (TinyButMighty),"Noun-heavy  (0.7, 0.3)",0.326612
+Ideal (TinyButMighty),"Verb-heavy  (0.3, 0.7)",0.297714
