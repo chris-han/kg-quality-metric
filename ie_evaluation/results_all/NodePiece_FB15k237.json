@@ -1,0 +1,11 @@
+{
+  "model": "NodePiece",
+  "dataset": "FB15k-237",
+  "leaky": false,
+  "time_s": 799.9,
+  "MRR": 0.0444,
+  "Hits@1": 0.0172,
+  "Hits@3": 0.0386,
+  "Hits@10": 0.0893,
+  "MR": 1485.89
+}

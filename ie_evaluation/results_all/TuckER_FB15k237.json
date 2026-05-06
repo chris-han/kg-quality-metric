@@ -1,0 +1,11 @@
+{
+  "model": "TuckER",
+  "dataset": "FB15k-237",
+  "leaky": false,
+  "time_s": 450.4,
+  "MRR": 0.1611,
+  "Hits@1": 0.1009,
+  "Hits@3": 0.1764,
+  "Hits@10": 0.2782,
+  "MR": 694.68
+}

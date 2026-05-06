@@ -1,0 +1,11 @@
+{
+  "model": "TuckER",
+  "dataset": "WN18RR",
+  "leaky": false,
+  "time_s": 294.0,
+  "MRR": 0.3226,
+  "Hits@1": 0.2881,
+  "Hits@3": 0.3449,
+  "Hits@10": 0.3835,
+  "MR": 7587.53
+}
