@@ -1,0 +1,10 @@
+{
+  "model": "TuckER",
+  "dataset": "Nations",
+  "time_s": 7.6,
+  "MRR": 0.3985,
+  "Hits@1": 0.2015,
+  "Hits@3": 0.4428,
+  "Hits@10": 0.9453,
+  "MR": 4.52
+}

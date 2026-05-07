@@ -1,0 +1,10 @@
+{
+  "model": "ComplEx",
+  "dataset": "Kinships",
+  "time_s": 27.7,
+  "MRR": 0.0711,
+  "Hits@1": 0.0135,
+  "Hits@3": 0.0493,
+  "Hits@10": 0.1662,
+  "MR": 38.92
+}

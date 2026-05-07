@@ -1,0 +1,10 @@
+{
+  "model": "NodePiece",
+  "dataset": "Nations",
+  "time_s": 13.3,
+  "MRR": 0.3596,
+  "Hits@1": 0.1194,
+  "Hits@3": 0.3856,
+  "Hits@10": 0.9876,
+  "MR": 4.24
+}
