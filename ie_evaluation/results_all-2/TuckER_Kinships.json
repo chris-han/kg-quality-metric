@@ -1,0 +1,10 @@
+{
+  "model": "TuckER",
+  "dataset": "Kinships",
+  "time_s": 24.5,
+  "MRR": 0.6946,
+  "Hits@1": 0.554,
+  "Hits@3": 0.7919,
+  "Hits@10": 0.9665,
+  "MR": 2.89
+}

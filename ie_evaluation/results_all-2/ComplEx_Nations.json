@@ -1,0 +1,10 @@
+{
+  "model": "ComplEx",
+  "dataset": "Nations",
+  "time_s": 8.3,
+  "MRR": 0.3711,
+  "Hits@1": 0.1617,
+  "Hits@3": 0.4328,
+  "Hits@10": 0.9378,
+  "MR": 4.73
+}
