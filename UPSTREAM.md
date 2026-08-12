@@ -6,6 +6,6 @@
 - Upstream base commit: `24e2cd8d576162c19d26d9469f78bbd5649aa0e4`
 - License: Apache-2.0; retain `LICENSE`, notices, attribution, and change markings.
 - Supported API: intrinsic node, connectivity, predicate, polarity, and combined metric formulas in `Main.java`.
-- Divergence: deterministic evaluation adapter and compatibility changes only.
+- Divergence: `semantier_adapter.py` is the marked JSON compatibility entry point for the upstream M_N/M_V/M formulas; deterministic evaluation adapter and compatibility changes only.
 
 Sync by fetching upstream, reviewing commits and license changes, running upstream validation plus Semantier EVB tests, then updating the submodule pin, this file, the upstream audit, and evaluator manifests together. Never rewrite evidence that pins an earlier commit.
